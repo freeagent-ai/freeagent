@@ -12,7 +12,7 @@
 ![Season forecast](https://img.shields.io/badge/season%20forecast-77.1%25-3DF5A0)
 ![Data](https://img.shields.io/badge/data-Transfermarkt%20top--5%20leagues-1f2937)
 
-*AIML Capstone · RV University · BTech CSE (AIML) · Semester 3*
+*AIML Capstone Project*
 
 </div>
 
@@ -162,14 +162,12 @@ data/              input data (not in git)
 
 ## Team
 
-| Name | Roll no. |
-| --- | --- |
-| Om Prabhat | 1RUA25CSE0306 |
-| Prakhar Sinha | 1RUA25CSE0333 |
-| Prakhyath V | 1RUA25CSE0334 |
-| Mohit Soni | 1RUA25CSE0270 |
-
-**Faculty:** Manjunath S · **Institution:** RV University, School of Computer Science and Engineering
+| Name |
+| --- |
+| Om Prabhat |
+| Prakhar Sinha |
+| Prakhyath V |
+| Mohit Soni |
 
 ---
 
