@@ -1,0 +1,63 @@
+2256 signings (fee >= EUR 5M, summer, top-5 clubs), seasons 2015-2025, base rate regular = 0.477  [39s]
+        signings  regular_rate
+season                        
+2015         114         0.509
+2016         138         0.464
+2017         172         0.465
+2018         194         0.500
+2019         236         0.538
+2020         159         0.516
+2021         162         0.519
+2022         236         0.449
+2023         269         0.502
+2024         266         0.391
+2025         310         0.452
+
+Validation (seasons [2017, 2018]), ensemble settings by log loss:
+                features  max_depth  accuracy  balanced_accuracy    auc  log_loss  brier    n  confident_accuracy  coverage
+0                   base          3     0.642              0.643  0.729     0.610  0.211  366               0.738     0.648
+1                   base          2     0.650              0.652  0.721     0.616  0.214  366               0.729     0.615
+2  base + value features          3     0.661              0.662  0.718     0.619  0.215  366               0.695     0.708
+3  base + value features          2     0.650              0.651  0.716     0.622  0.216  366               0.702     0.678
+Chosen: features = base, max_depth = 3
+
+=== M8 test results, seasons 2019-2025 (lower log loss is better) ===
+                                      accuracy  balanced_accuracy    auc  log_loss  brier     n  confident_accuracy  coverage
+model                                                                                                                        
+Ours + value features (rejected)         0.658              0.658  0.716     0.615  0.214  1638               0.719     0.629
+Ensemble: logistic + boosting (ours)     0.642              0.643  0.707     0.621  0.217  1638               0.711     0.604
+Ours without plus-minus rating           0.637              0.638  0.705     0.622  0.217  1638               0.714     0.585
+Logistic regression                      0.648              0.650  0.710     0.622  0.217  1638               0.711     0.628
+Gradient boosting                        0.629              0.630  0.690     0.632  0.222  1638               0.693     0.603
+Market only (fee, value, age)            0.579              0.579  0.607     0.677  0.241  1638               0.641     0.377
+Majority class (base rate)               0.514              0.501  0.495     0.693  0.250  1638                 NaN     0.000
+
+Our accuracy, all signings:       0.642 (95% CI 0.618 to 0.665), n = 1638
+Our accuracy, confident signings: 0.711 (95% CI 0.682 to 0.739), coverage = 60.4% of signings
+Ensemble: logistic + boosting (ours) vs Majority class (base rate): accuracy +0.128 (95% CI +0.096 to +0.160) -> significantly better
+Ensemble: logistic + boosting (ours) vs Market only (fee, value, age): accuracy +0.063 (95% CI +0.036 to +0.089) -> significantly better
+Ensemble: logistic + boosting (ours) vs Ours without plus-minus rating: accuracy +0.004 (95% CI -0.010 to +0.018) -> no significant difference
+
+By season (ours):
+ season  accuracy  confident_accuracy  coverage   auc   n
+   2019     0.678               0.727     0.682 0.734 236
+   2020     0.597               0.642     0.686 0.634 159
+   2021     0.648               0.725     0.630 0.715 162
+   2022     0.614               0.669     0.551 0.679 236
+   2023     0.625               0.761     0.528 0.715 269
+   2024     0.658               0.758     0.620 0.746 266
+   2025     0.655               0.680     0.584 0.687 310
+
+Top features (permutation importance, season 2025):
+to_league          0.0309
+to_ppg_prev        0.0261
+position           0.0165
+age                0.0140
+rating             0.0088
+fee_vs_club_max    0.0067
+prev_share         0.0057
+from_top5          0.0017
+promoted           0.0011
+top_incumbent      0.0009
+
+Total time 53s. Saved reports/m8_*.csv

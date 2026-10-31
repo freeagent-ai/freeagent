@@ -1,0 +1,67 @@
+[    3s] loaded 25,428 games
+[   42s] M8 predictions for 1638 signings
+[  143s] cross-fitted strengths ready
+[  147s] price of a point: LOW 1.27 (se 0.55), HIGH 6.70 points per EUR 100M
+[  169s] season 2019: 236 signings, k = 0.362
+[  183s] season 2020: 159 signings, k = 0.356
+[  201s] season 2021: 162 signings, k = 0.368
+[  229s] season 2022: 236 signings, k = 0.358
+[  267s] season 2023: 269 signings, k = 0.354
+[  312s] season 2024: 266 signings, k = 0.374
+[  379s] season 2025: 310 signings, k = 0.360
+
+1592 signings with predicted points. Saved reports/m5_signing_points.csv
+       transfer_fee  p_regular    rating  rating_sd  points_mean  points_sd
+count  1.592000e+03   1592.000  1592.000   1592.000     1592.000   1592.000
+mean   1.947817e+07      0.497     0.023      0.142       -0.325      1.820
+std    1.746047e+07      0.179     0.066      0.009        0.816      0.232
+min    5.000000e+06      0.029    -0.179      0.114       -2.901      0.942
+25%    8.000000e+06      0.376    -0.014      0.135       -0.821      1.675
+50%    1.400000e+07      0.505     0.000      0.143       -0.404      1.834
+75%    2.350000e+07      0.637     0.054      0.150        0.082      1.975
+max    1.450000e+08      0.936     0.348      0.153        4.932      2.582
+
+Known players (had a rating): 81.8%
+
+Verdicts (M6) at the LOW price (club fixed effects):
+verdict
+Fair        1227
+Overpaid     300
+Best Buy      65
+          transfer_fee  points_mean  claimed_points  confidence
+verdict                                                        
+Best Buy   22333846.15         1.90            0.28        0.56
+Fair       15617628.36        -0.22            0.20        0.54
+Overpaid   34649033.33        -1.23            0.44        0.57
+
+Verdicts (M6) at the HIGH price (between clubs):
+verdict_high
+Overpaid    1018
+Fair         553
+Best Buy      21
+              transfer_fee  points_mean  claimed_points_high  confidence_high
+verdict_high                                                                 
+Best Buy       14242857.14         2.36                 0.95             0.52
+Fair            8304014.47         0.01                 0.56             0.52
+Overpaid       25656208.25        -0.56                 1.72             0.73
+
+Biggest predicted gains:
+       player_name to_club_name  season  transfer_fee  points_mean  points_p05  points_p95
+      Granit Xhaka   Sunderland    2025    15000000.0         4.93        0.76        8.95
+       Luis Suárez     Atlético    2020     9000000.0         3.86        0.01        8.08
+Christopher Nkunku      Chelsea    2023    60000000.0         3.74        0.00        8.17
+ Cristiano Ronaldo      Man Utd    2021    17000000.0         3.62        0.00        7.90
+Robert Lewandowski    Barcelona    2022    45000000.0         3.28        0.00        7.36
+      Granit Xhaka   Leverkusen    2023    15000000.0         2.91        0.00        6.43
+       Xavi Simons    Tottenham    2025    65000000.0         2.87       -0.40        7.26
+    Moisés Caicedo      Chelsea    2023   116000000.0         2.80       -0.86        7.16
+
+Biggest predicted losses:
+         player_name  to_club_name  season  transfer_fee  points_mean  points_p05  points_p95
+         Matt Turner Nott'm Forest    2023     8150000.0        -2.90       -7.55        0.21
+      James Trafford      Man City    2025    31200000.0        -2.88       -7.99        0.00
+        Hugo Ekitiké           PSG    2023    28500000.0        -2.78       -7.76        0.00
+Giorgi Mamardashvili     Liverpool    2024    30000000.0        -2.70       -7.28        0.00
+      James Trafford       Burnley    2023    17300000.0        -2.51       -6.85        0.11
+
+Total time 379s

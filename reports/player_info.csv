@@ -1,0 +1,3130 @@
+player_id,country,position,sub_position
+3333,England,Midfield,Central Midfield
+7161,Germany,Midfield,Attacking Midfield
+7825,Spain,Goalkeeper,Goalkeeper
+8198,Portugal,Attack,Centre-Forward
+12282,Netherlands,Defender,Centre-Back
+14086,England,Defender,Right-Back
+15452,Spain,Defender,Centre-Back
+15799,Spain,Midfield,Central Midfield
+16136,Brazil,Defender,Centre-Back
+16306,Brazil,Midfield,Defensive Midfield
+16911,Denmark,Goalkeeper,Goalkeeper
+17259,Germany,Goalkeeper,Goalkeeper
+23951,France,Goalkeeper,Goalkeeper
+25520,Netherlands,Goalkeeper,Goalkeeper
+27807,Italy,Goalkeeper,Goalkeeper
+27992,Croatia,Midfield,Central Midfield
+28396,Bosnia-Herzegovina,Attack,Centre-Forward
+29241,Brazil,Defender,Centre-Back
+29364,Portugal,Midfield,Central Midfield
+29692,Poland,Goalkeeper,Goalkeeper
+30321,Argentina,Midfield,Attacking Midfield
+31653,Germany,Goalkeeper,Goalkeeper
+32113,Italy,Defender,Centre-Back
+33571,Italy,Defender,Right-Back
+34130,England,Goalkeeper,Goalkeeper
+35047,Belgium,Midfield,Defensive Midfield
+36139,Serbia,Attack,Right Winger
+37838,Croatia,Defender,Centre-Back
+38073,Sweden,Defender,Left-Back
+38253,Poland,Attack,Centre-Forward
+39125,Croatia,Defender,Left-Back
+39728,Germany,Defender,Centre-Back
+40433,Chile,Attack,Second Striker
+40633,Croatia,Midfield,Defensive Midfield
+40680,Germany,Goalkeeper,Goalkeeper
+41355,Netherlands,Attack,Centre-Forward
+41384,Austria,Attack,Centre-Forward
+42205,Switzerland,Goalkeeper,Goalkeeper
+42412,Northern Ireland,Defender,Centre-Back
+42460,Croatia,Attack,Left Winger
+43250,Belgium,Defender,Centre-Back
+43530,England,Midfield,Attacking Midfield
+43824,Germany,Goalkeeper,Goalkeeper
+44058,Poland,Goalkeeper,Goalkeeper
+44162,Bosnia-Herzegovina,Midfield,Central Midfield
+44352,Uruguay,Attack,Centre-Forward
+45026,Portugal,Goalkeeper,Goalkeeper
+45320,Argentina,Attack,Right Winger
+45403,Ghana,Attack,Centre-Forward
+45671,Türkiye,Attack,Centre-Forward
+45672,Germany,Goalkeeper,Goalkeeper
+46413,Croatia,Attack,Centre-Forward
+46580,Croatia,Attack,Second Striker
+48015,Finland,Goalkeeper,Goalkeeper
+48870,Denmark,Goalkeeper,Goalkeeper
+49723,United States,Defender,Right-Back
+50219,Belgium,Goalkeeper,Goalkeeper
+51471,Croatia,Midfield,Central Midfield
+51894,Türkiye,Goalkeeper,Goalkeeper
+52769,Brazil,Attack,Left Winger
+53360,England,Attack,Centre-Forward
+53418,Slovenia,Midfield,Central Midfield
+53622,Germany,Midfield,Central Midfield
+54781,Argentina,Defender,Centre-Back
+54906,Italy,Defender,Right-Back
+55089,Germany,Goalkeeper,Goalkeeper
+55099,Germany,Midfield,Defensive Midfield
+55508,Germany,Midfield,Central Midfield
+55735,Armenia,Midfield,Central Midfield
+55769,Italy,Defender,Centre-Back
+56100,Nigeria,Defender,Centre-Back
+56331,Netherlands,Attack,Centre-Forward
+56416,Belgium,Attack,Second Striker
+57071,Hungary,Goalkeeper,Goalkeeper
+57500,Spain,Defender,Centre-Back
+58088,Uruguay,Goalkeeper,Goalkeeper
+58358,Germany,Attack,Second Striker
+58864,Gabon,Attack,Centre-Forward
+58995,Germany,Defender,Centre-Back
+59016,Austria,Defender,Centre-Back
+59145,Austria,Defender,Centre-Back
+59238,Switzerland,Goalkeeper,Goalkeeper
+59323,Uruguay,Attack,Centre-Forward
+59352,Belarus,Defender,Centre-Back
+59377,Spain,Goalkeeper,Goalkeeper
+59561,Spain,Midfield,Central Midfield
+59970,Ukraine,Midfield,Defensive Midfield
+60410,Argentina,Defender,Left-Back
+60444,Spain,Midfield,Central Midfield
+60543,France,Goalkeeper,Goalkeeper
+60561,Portugal,Goalkeeper,Goalkeeper
+60603,Martinique,Defender,Centre-Back
+61651,England,Midfield,Defensive Midfield
+61812,Spain,Defender,Left-Back
+61841,England,Defender,Right-Back
+62094,England,Defender,Right-Back
+62351,Cote d'Ivoire,Defender,Centre-Back
+63200,England,Attack,Centre-Forward
+64399,Spain,Goalkeeper,Goalkeeper
+64793,Italy,Attack,Centre-Forward
+65278,Spain,Attack,Right Winger
+66100,Spain,Midfield,Defensive Midfield
+67063,England,Attack,Centre-Forward
+67556,Bosnia-Herzegovina,Attack,Centre-Forward
+68390,Ireland,Defender,Right-Back
+68863,Argentina,Attack,Centre-Forward
+69015,Ukraine,Attack,Right Winger
+69633,Denmark,Midfield,Attacking Midfield
+69646,Denmark,Defender,Right-Back
+70411,Serbia,Midfield,Left Midfield
+71271,Spain,Goalkeeper,Goalkeeper
+72047,Spain,Attack,Centre-Forward
+72441,Italy,Defender,Centre-Back
+72476,Germany,Goalkeeper,Goalkeeper
+72522,Netherlands,Attack,Centre-Forward
+73517,Norway,Goalkeeper,Goalkeeper
+73794,Colombia,Attack,Centre-Forward
+73926,Italy,Defender,Right-Back
+74229,Spain,Midfield,Central Midfield
+74230,Spain,Midfield,Attacking Midfield
+74294,Serbia,Midfield,Defensive Midfield
+74297,DR Congo,Midfield,Attacking Midfield
+74683,Serbia,Midfield,Defensive Midfield
+74810,England,Defender,Centre-Back
+74842,Germany,Midfield,Attacking Midfield
+74857,Germany,Goalkeeper,Goalkeeper
+74869,France,Midfield,Defensive Midfield
+74960,Slovakia,Goalkeeper,Goalkeeper
+75458,Sweden,Goalkeeper,Goalkeeper
+75489,Germany,Attack,Centre-Forward
+75921,Austria,Defender,Right-Back
+76028,Brazil,Attack,Left Winger
+76163,Argentina,Midfield,Attacking Midfield
+76274,Denmark,Attack,Centre-Forward
+76467,Spain,Defender,Right-Back
+78570,Luxembourg,Goalkeeper,Goalkeeper
+79422,Costa Rica,Goalkeeper,Goalkeeper
+80197,Venezuela,Attack,Centre-Forward
+80293,Algeria,Defender,Centre-Back
+80444,Brazil,Midfield,Attacking Midfield
+80894,Poland,Goalkeeper,Goalkeeper
+81173,Germany,Goalkeeper,Goalkeeper
+81512,Belgium,Defender,Centre-Back
+82009,Germany,Midfield,Attacking Midfield
+82048,Italy,Attack,Left Winger
+82350,Germany,Defender,Centre-Back
+82442,France,Attack,Centre-Forward
+82503,Spain,Defender,Centre-Back
+82873,Germany,Midfield,Central Midfield
+84085,France,Defender,Centre-Back
+84301,France,Midfield,Defensive Midfield
+84435,Germany,Defender,Centre-Back
+84765,Italy,Attack,Centre-Forward
+84938,Germany,Goalkeeper,Goalkeeper
+84992,Scotland,Attack,Right Winger
+84993,Portugal,Goalkeeper,Goalkeeper
+85177,England,Defender,Right-Back
+85288,Spain,Midfield,Attacking Midfield
+85295,Albania,Defender,Right-Back
+85370,Spain,Midfield,Central Midfield
+85393,Italy,Midfield,Attacking Midfield
+85528,Italy,Goalkeeper,Goalkeeper
+85791,Austria,Defender,Right-Back
+85906,Germany,Defender,Centre-Back
+85941,Germany,Goalkeeper,Goalkeeper
+86202,Germany,Defender,Centre-Back
+86784,Switzerland,Defender,Left-Back
+86792,Switzerland,Midfield,Attacking Midfield
+88680,Italy,Defender,Centre-Back
+88682,Italy,Defender,Right-Back
+88755,Belgium,Midfield,Attacking Midfield
+90317,Germany,Goalkeeper,Goalkeeper
+91059,Norway,Attack,Centre-Forward
+91845,"Korea, South",Attack,Left Winger
+91849,Denmark,Midfield,Central Midfield
+91970,Colombia,Midfield,Right Midfield
+92164,Belgium,Midfield,Defensive Midfield
+92571,England,Defender,Left-Back
+92572,England,Defender,Right-Back
+92947,Spain,Defender,Centre-Back
+93081,Netherlands,Defender,Centre-Back
+93128,Senegal,Defender,Centre-Back
+93604,Germany,Defender,Right-Back
+93707,Germany,Defender,Left-Back
+93720,France,Attack,Centre-Forward
+93740,Hungary,Defender,Centre-Back
+93763,Germany,Goalkeeper,Goalkeeper
+93827,Germany,Attack,Centre-Forward
+93844,Germany,Midfield,Central Midfield
+93936,Spain,Attack,Centre-Forward
+94005,Bosnia-Herzegovina,Defender,Centre-Back
+94192,Germany,Goalkeeper,Goalkeeper
+94307,Serbia,Midfield,Attacking Midfield
+94308,Serbia,Goalkeeper,Goalkeeper
+94529,Italy,Attack,Left Winger
+95424,England,Defender,Right-Back
+95641,Serbia,Midfield,Central Midfield
+95732,Denmark,Attack,Centre-Forward
+95810,England,Defender,Right-Back
+96254,Italy,Goalkeeper,Goalkeeper
+96341,Belgium,Attack,Centre-Forward
+96533,Morocco,Attack,Centre-Forward
+96718,Spain,Defender,Right-Back
+99331,Denmark,Defender,Centre-Back
+99353,Spain,Attack,Right Winger
+99397,Wales,Goalkeeper,Goalkeeper
+99523,Brazil,Goalkeeper,Goalkeeper
+99922,Spain,Defender,Centre-Back
+100131,Portugal,Midfield,Defensive Midfield
+100986,Belgium,Defender,Right-Back
+101213,Equatorial Guinea,Midfield,Central Midfield
+101500,Czech Republic,Attack,Centre-Forward
+102017,Italy,Midfield,Defensive Midfield
+102226,Belgium,Midfield,Attacking Midfield
+102423,Uruguay,Defender,Centre-Back
+103427,England,Defender,Centre-Back
+103565,Tunisia,Attack,Left Winger
+104223,Netherlands,Midfield,Defensive Midfield
+104752,Greece,Defender,Centre-Back
+105470,Brazil,Goalkeeper,Goalkeeper
+105521,Italy,Attack,Centre-Forward
+106270,Austria,Midfield,Attacking Midfield
+106405,Netherlands,Defender,Centre-Back
+106872,Austria,Midfield,Attacking Midfield
+106987,Austria,Midfield,Central Midfield
+107219,Kosovo,Defender,Left-Back
+107775,Denmark,Goalkeeper,Goalkeeper
+108354,Ghana,Attack,Centre-Forward
+108390,Belgium,Goalkeeper,Goalkeeper
+108725,New Zealand,Attack,Centre-Forward
+110036,Germany,Defender,Centre-Back
+110864,England,Goalkeeper,Goalkeeper
+110923,Italy,Goalkeeper,Goalkeeper
+111038,France,Defender,Right-Back
+111051,Senegal,Midfield,Defensive Midfield
+111195,Netherlands,Defender,Right-Back
+111196,Netherlands,Defender,Centre-Back
+111266,France,Midfield,Defensive Midfield
+111455,Switzerland,Midfield,Defensive Midfield
+111508,Cameroon,Defender,Right-Back
+111811,France,Defender,Left-Back
+111819,Brazil,Goalkeeper,Goalkeeper
+111873,Argentina,Goalkeeper,Goalkeeper
+111961,Spain,Midfield,Attacking Midfield
+112515,Spain,Defender,Centre-Back
+112822,Sweden,Goalkeeper,Goalkeeper
+112930,Belgium,Attack,Centre-Forward
+113039,Sweden,Defender,Left-Back
+113707,France,Midfield,Attacking Midfield
+115333,Spain,Defender,Centre-Back
+116088,Germany,Attack,Left Winger
+116598,Sweden,Attack,Centre-Forward
+117432,Germany,Attack,Centre-Forward
+117478,Germany,Defender,Right-Back
+117674,Germany,Midfield,Central Midfield
+118284,France,Midfield,Central Midfield
+118287,Algeria,Attack,Right Winger
+118534,England,Defender,Centre-Back
+118689,Italy,Defender,Left-Back
+118847,Germany,Defender,Centre-Back
+118850,Ukraine,Defender,Centre-Back
+118997,Spain,Goalkeeper,Goalkeeper
+119031,Türkiye,Midfield,Defensive Midfield
+119037,Germany,Attack,Centre-Forward
+119085,Switzerland,Defender,Centre-Back
+119211,Germany,Defender,Right-Back
+119228,Colombia,Attack,Centre-Forward
+119234,Austria,Attack,Centre-Forward
+119277,Germany,Midfield,Central Midfield
+119296,Germany,Defender,Centre-Back
+120095,Spain,Midfield,Central Midfield
+120205,Austria,Attack,Centre-Forward
+120629,France,Goalkeeper,Goalkeeper
+120977,Scotland,Midfield,Defensive Midfield
+121477,England,Defender,Centre-Back
+121483,Slovenia,Goalkeeper,Goalkeeper
+121686,Costa Rica,Defender,Right-Back
+121985,Brazil,Defender,Centre-Back
+122153,France,Midfield,Central Midfield
+122155,Brazil,Attack,Centre-Forward
+122797,Algeria,Attack,Centre-Forward
+122840,Hungary,Defender,Right-Back
+123261,Romania,Midfield,Defensive Midfield
+123275,Scotland,Midfield,Central Midfield
+123551,Egypt,Midfield,Central Midfield
+123682,England,Attack,Centre-Forward
+124028,Brazil,Defender,Left-Back
+124410,Tunisia,Midfield,Defensive Midfield
+124419,Greece,Goalkeeper,Goalkeeper
+124502,Germany,Defender,Centre-Back
+124555,Italy,Defender,Left-Back
+124884,Netherlands,Goalkeeper,Goalkeeper
+125020,Argentina,Defender,Centre-Back
+125103,Germany,Attack,Centre-Forward
+125314,Sweden,Defender,Centre-Back
+125714,Netherlands,Goalkeeper,Goalkeeper
+125781,France,Attack,Second Striker
+125858,Germany,Midfield,Central Midfield
+126414,Türkiye,Midfield,Defensive Midfield
+126422,Brazil,Midfield,Defensive Midfield
+126557,France,Defender,Centre-Back
+126664,France,Defender,Left-Back
+126665,Senegal,Midfield,Defensive Midfield
+126719,Spain,Defender,Left-Back
+126729,Spain,Defender,Centre-Back
+126737,Spain,Attack,Left Winger
+126751,Spain,Midfield,Central Midfield
+127048,DR Congo,Attack,Centre-Forward
+127076,Guadeloupe,Defender,Left-Back
+127108,France,Defender,Centre-Back
+127142,France,Midfield,Defensive Midfield
+127156,France,Midfield,Attacking Midfield
+127160,France,Midfield,Defensive Midfield
+127181,France,Goalkeeper,Goalkeeper
+127187,Mali,Midfield,Attacking Midfield
+127188,France,Goalkeeper,Goalkeeper
+127189,Central African Republic,Midfield,Defensive Midfield
+127202,Belgium,Goalkeeper,Goalkeeper
+127573,Austria,Defender,Left-Back
+128223,Spain,Attack,Centre-Forward
+128899,England,Goalkeeper,Goalkeeper
+128901,England,Defender,Centre-Back
+128969,Australia,Goalkeeper,Goalkeeper
+129444,Spain,Defender,Centre-Back
+129554,Netherlands,Attack,Right Winger
+129588,Belgium,Midfield,Central Midfield
+129674,Germany,Defender,Right-Back
+130164,England,Goalkeeper,Goalkeeper
+130360,Italy,Midfield,Attacking Midfield
+130365,Italy,Defender,Right-Back
+131075,Italy,Defender,Centre-Back
+131225,Argentina,Defender,Left-Back
+131708,Nigeria,Defender,Centre-Back
+131758,Finland,Goalkeeper,Goalkeeper
+131951,Italy,Attack,Centre-Forward
+131978,England,Midfield,Central Midfield
+131996,Burkina Faso,Attack,Right Winger
+132098,England,Attack,Centre-Forward
+133179,Netherlands,Midfield,Defensive Midfield
+133731,Germany,Defender,Centre-Back
+134270,England,Defender,Centre-Back
+134294,England,Attack,Centre-Forward
+134425,England,Attack,Right Winger
+135343,Switzerland,Defender,Centre-Back
+135492,Senegal,Defender,Right-Back
+135617,Brazil,Midfield,Defensive Midfield
+136111,Italy,Goalkeeper,Goalkeeper
+136401,England,Goalkeeper,Goalkeeper
+136514,Greece,Defender,Left-Back
+137206,Russia,Midfield,Defensive Midfield
+137576,Belgium,Midfield,Attacking Midfield
+137648,Iceland,Defender,Centre-Back
+138055,Algeria,Midfield,Central Midfield
+138927,Spain,Defender,Right-Back
+139208,Netherlands,Defender,Centre-Back
+139279,France,Defender,Centre-Back
+139304,Estonia,Defender,Centre-Back
+139336,Portugal,Defender,Centre-Back
+139395,Portugal,Defender,Right-Back
+139435,Spain,Midfield,Attacking Midfield
+139915,Serbia,Midfield,Attacking Midfield
+140776,Belgium,Attack,Left Winger
+141050,Portugal,Defender,Centre-Back
+142021,Spain,Midfield,Central Midfield
+142031,Equatorial Guinea,Midfield,Defensive Midfield
+142310,Cote d'Ivoire,Defender,Centre-Back
+143559,Serbia,Defender,Centre-Back
+143798,Czech Republic,Midfield,Right Midfield
+143812,Uruguay,Midfield,Central Midfield
+143891,Germany,Attack,Second Striker
+144028,Belgium,Attack,Left Winger
+144128,Argentina,Goalkeeper,Goalkeeper
+144244,Greece,Defender,Centre-Back
+145707,Brazil,Defender,Centre-Back
+146227,Netherlands,Goalkeeper,Goalkeeper
+146310,Japan,Midfield,Defensive Midfield
+146509,England,Defender,Left-Back
+146714,Czech Republic,Goalkeeper,Goalkeeper
+146752,Italy,Attack,Second Striker
+146854,France,Attack,Centre-Forward
+147051,Switzerland,Goalkeeper,Goalkeeper
+148153,England,Defender,Centre-Back
+148252,Switzerland,Midfield,Central Midfield
+148367,Denmark,Midfield,Defensive Midfield
+148455,Egypt,Attack,Right Winger
+148928,Spain,Midfield,Central Midfield
+149525,Italy,Defender,Centre-Back
+149729,Portugal,Midfield,Attacking Midfield
+149829,Slovenia,Midfield,Central Midfield
+149928,Brazil,Defender,Centre-Back
+152733,Türkiye,Defender,Right-Back
+153084,Germany,Midfield,Central Midfield
+154147,Germany,Defender,Centre-Back
+155025,Portugal,Defender,Centre-Back
+156501,Brazil,Defender,Centre-Back
+156618,France,Defender,Right-Back
+156990,Austria,Defender,Centre-Back
+157501,Senegal,Attack,Centre-Forward
+157506,Ghana,Midfield,Left Midfield
+157507,France,Midfield,Defensive Midfield
+157509,France,Defender,Centre-Back
+157635,Denmark,Attack,Centre-Forward
+157672,Czech Republic,Defender,Right-Back
+158863,Spain,Defender,Centre-Back
+159088,Germany,Midfield,Defensive Midfield
+159471,Germany,Attack,Second Striker
+160241,Nigeria,Defender,Centre-Back
+160929,Germany,Goalkeeper,Goalkeeper
+160938,Germany,Defender,Centre-Back
+160963,Germany,Goalkeeper,Goalkeeper
+160986,Italy,Defender,Centre-Back
+161011,Serbia,Midfield,Left Midfield
+161056,Germany,Midfield,Defensive Midfield
+161869,France,Defender,Right-Back
+162038,Spain,Attack,Centre-Forward
+162434,Germany,Defender,Centre-Back
+162571,Greece,Midfield,Attacking Midfield
+162959,Italy,Defender,Centre-Back
+163048,Italy,Goalkeeper,Goalkeeper
+163222,France,Attack,Centre-Forward
+163568,Senegal,Goalkeeper,Goalkeeper
+163639,Italy,Defender,Centre-Back
+163744,England,Defender,Centre-Back
+164770,France,Defender,Centre-Back
+164771,France,Midfield,Central Midfield
+164904,Senegal,Goalkeeper,Goalkeeper
+164913,France,Midfield,Defensive Midfield
+165007,Spain,Midfield,Attacking Midfield
+165467,North Macedonia,Goalkeeper,Goalkeeper
+165513,Albania,Defender,Centre-Back
+165793,Japan,Attack,Left Winger
+165895,Italy,Attack,Right Winger
+166237,Argentina,Midfield,Defensive Midfield
+166601,Germany,Defender,Centre-Back
+166683,Senegal,Attack,Centre-Forward
+167105,Denmark,Midfield,Defensive Midfield
+167329,France,Attack,Centre-Forward
+167342,Austria,Attack,Centre-Forward
+167491,Italy,Defender,Right-Back
+167721,Argentina,Attack,Centre-Forward
+167727,Italy,Attack,Centre-Forward
+167799,Denmark,Midfield,Defensive Midfield
+167859,Italy,Midfield,Central Midfield
+168063,Serbia,Defender,Left-Back
+168157,Belgium,Midfield,Defensive Midfield
+168989,Switzerland,Defender,Right-Back
+169497,Spain,Defender,Left-Back
+169880,Italy,Defender,Right-Back
+170472,Guadeloupe,Defender,Right-Back
+170481,Cote d'Ivoire,Midfield,Central Midfield
+170527,Germany,Attack,Centre-Forward
+170646,Sweden,Defender,Left-Back
+170911,French Guiana,Goalkeeper,Goalkeeper
+170929,Mali,Defender,Left-Back
+170934,Gabon,Midfield,Defensive Midfield
+170961,France,Defender,Left-Back
+170986,Portugal,Defender,Left-Back
+171679,Ireland,Defender,Right-Back
+173504,England,Defender,Centre-Back
+173859,Italy,Midfield,Right Midfield
+174094,France,Midfield,Central Midfield
+174196,France,Defender,Right-Back
+174694,Portugal,Attack,Right Winger
+174733,The Gambia,Defender,Centre-Back
+175446,Spain,Defender,Right-Back
+175449,Spain,Midfield,Attacking Midfield
+175639,France,Defender,Right-Back
+175722,England,Defender,Centre-Back
+176139,Italy,Defender,Centre-Back
+176553,Spain,Defender,Centre-Back
+177452,Spain,Attack,Centre-Forward
+177467,Spain,Attack,Centre-Forward
+177476,Netherlands,Defender,Centre-Back
+177547,Brazil,Goalkeeper,Goalkeeper
+177779,Germany,Midfield,Central Midfield
+177843,Italy,Attack,Right Winger
+177847,Belgium,Attack,Right Winger
+177907,England,Defender,Centre-Back
+178313,Cote d'Ivoire,Midfield,Defensive Midfield
+178314,Cote d'Ivoire,Midfield,Central Midfield
+178425,Spain,Midfield,Defensive Midfield
+179184,Belgium,Attack,Centre-Forward
+181118,Poland,Defender,Right-Back
+181136,Poland,Midfield,Central Midfield
+181375,Cote d'Ivoire,Attack,Centre-Forward
+181378,France,Attack,Centre-Forward
+181380,DR Congo,Defender,Left-Back
+181382,Guinea,Midfield,Defensive Midfield
+181579,England,Midfield,Central Midfield
+181767,Brazil,Defender,Centre-Back
+181768,Brazil,Midfield,Central Midfield
+181778,Italy,Defender,Left-Back
+182201,Tanzania,Attack,Centre-Forward
+182712,Portugal,Defender,Right-Back
+182875,Cameroon,Defender,Centre-Back
+182893,Cote d'Ivoire,Midfield,Central Midfield
+182894,Cote d'Ivoire,Defender,Centre-Back
+182904,France,Defender,Centre-Back
+182906,France,Goalkeeper,Goalkeeper
+182913,France,Midfield,Central Midfield
+182916,France,Attack,Second Striker
+182923,Suriname,Defender,Centre-Back
+182932,Netherlands,Midfield,Central Midfield
+183288,England,Defender,Left-Back
+183293,England,Midfield,Central Midfield
+183318,England,Defender,Centre-Back
+183321,Switzerland,Defender,Right-Back
+183720,Netherlands,Attack,Right Winger
+184528,Sweden,Defender,Right-Back
+184573,Sweden,Defender,Centre-Back
+184816,Egypt,Attack,Centre-Forward
+184892,France,Attack,Right Winger
+184894,Ghana,Midfield,Central Midfield
+185077,Italy,Attack,Left Winger
+185245,Colombia,Attack,Centre-Forward
+185966,Brazil,Defender,Right-Back
+186186,Jamaica,Midfield,Attacking Midfield
+186368,Austria,Midfield,Right Midfield
+186590,England,Defender,Centre-Back
+186644,Norway,Attack,Second Striker
+187097,Georgia,Attack,Centre-Forward
+187105,Netherlands,Defender,Centre-Back
+187492,Germany,Midfield,Attacking Midfield
+187587,Croatia,Attack,Left Winger
+187624,Germany,Goalkeeper,Goalkeeper
+187718,Angola,Defender,Centre-Back
+188077,Scotland,Midfield,Central Midfield
+188888,Suriname,Attack,Left Winger
+189441,Argentina,Attack,Left Winger
+189475,Ecuador,Midfield,Defensive Midfield
+189485,Ecuador,Defender,Left-Back
+190263,Serbia,Goalkeeper,Goalkeeper
+190284,Germany,Midfield,Central Midfield
+190289,Philippines,Attack,Left Winger
+190338,France,Defender,Centre-Back
+190393,France,Midfield,Central Midfield
+190685,Senegal,Defender,Right-Back
+191056,France,Goalkeeper,Goalkeeper
+191217,Spain,Defender,Right-Back
+191422,Syria,Midfield,Central Midfield
+191614,Brazil,Midfield,Central Midfield
+191891,Poland,Attack,Centre-Forward
+192009,Spain,Midfield,Central Midfield
+192080,England,Goalkeeper,Goalkeeper
+192169,Germany,Defender,Left-Back
+192279,Spain,Goalkeeper,Goalkeeper
+192492,Mauritania,Defender,Centre-Back
+192557,Australia,Midfield,Central Midfield
+192565,Germany,Attack,Right Winger
+192616,Switzerland,Defender,Left-Back
+192635,Switzerland,Defender,Centre-Back
+192735,Slovakia,Midfield,Defensive Midfield
+192765,Wales,Defender,Centre-Back
+193004,Germany,Defender,Centre-Back
+193033,Germany,Attack,Centre-Forward
+193082,Spain,Defender,Left-Back
+193098,Spain,Defender,Left-Back
+193116,Scotland,Midfield,Central Midfield
+193469,Belgium,Defender,Centre-Back
+193782,Argentina,Attack,Centre-Forward
+193867,Scotland,Midfield,Central Midfield
+193900,Germany,Defender,Right-Back
+195246,Germany,Defender,Right-Back
+195488,Argentina,Goalkeeper,Goalkeeper
+195633,England,Defender,Left-Back
+195736,Austria,Midfield,Defensive Midfield
+195778,Germany,Goalkeeper,Goalkeeper
+195906,Switzerland,Attack,Centre-Forward
+196095,Germany,Attack,Centre-Forward
+196139,Germany,Attack,Centre-Forward
+196231,Germany,Defender,Centre-Back
+196357,Germany,Defender,Centre-Back
+196435,The Gambia,Defender,Right-Back
+196792,Germany,Midfield,Defensive Midfield
+196793,Germany,Defender,Left-Back
+196813,Germany,Goalkeeper,Goalkeeper
+196829,Germany,Goalkeeper,Goalkeeper
+196948,Denmark,Defender,Centre-Back
+197122,Spain,Defender,Centre-Back
+197300,Italy,Attack,Right Winger
+197471,Italy,Midfield,Central Midfield
+197473,Italy,Midfield,Defensive Midfield
+197642,England,Attack,Centre-Forward
+197747,Italy,Defender,Centre-Back
+197751,Italy,Attack,Centre-Forward
+197838,England,Attack,Centre-Forward
+197929,Italy,Goalkeeper,Goalkeeper
+198008,Portugal,Attack,Centre-Forward
+198116,Italy,Defender,Left-Back
+198516,England,Defender,Left-Back
+199248,Italy,Midfield,Defensive Midfield
+199258,Italy,Attack,Centre-Forward
+199316,Türkiye,Defender,Centre-Back
+199369,Spain,Attack,Centre-Forward
+199527,England,Attack,Right Winger
+199704,Morocco,Defender,Centre-Back
+199733,Italy,Midfield,Defensive Midfield
+199953,Ghana,Attack,Centre-Forward
+199976,Italy,Goalkeeper,Goalkeeper
+200056,Albania,Defender,Right-Back
+200512,Senegal,Attack,Left Winger
+201574,Scotland,Goalkeeper,Goalkeeper
+202228,Serbia,Defender,Centre-Back
+202278,France,Midfield,Central Midfield
+202591,Germany,Defender,Right-Back
+202886,England,Midfield,Central Midfield
+203043,Spain,Defender,Centre-Back
+203123,Bosnia-Herzegovina,Attack,Centre-Forward
+203348,DR Congo,Defender,Centre-Back
+203394,Brazil,Midfield,Central Midfield
+203412,Denmark,Attack,Centre-Forward
+203460,England,Attack,Left Winger
+203496,France,Midfield,Attacking Midfield
+203504,France,Attack,Centre-Forward
+203746,France,Defender,Right-Back
+203842,Ukraine,Midfield,Central Midfield
+203853,Ukraine,Defender,Left-Back
+203938,Netherlands,Midfield,Central Midfield
+204047,Slovakia,Midfield,Central Midfield
+204069,Slovakia,Defender,Centre-Back
+204072,Brazil,Defender,Left-Back
+204103,Spain,Attack,Right Winger
+205006,Netherlands,Defender,Right-Back
+205562,France,Midfield,Attacking Midfield
+205938,Croatia,Midfield,Central Midfield
+205940,Croatia,Attack,Left Winger
+206040,Mexico,Attack,Centre-Forward
+206050,Argentina,Attack,Second Striker
+206717,Ukraine,Defender,Left-Back
+206746,Netherlands,Defender,Right-Back
+206843,Serbia,Attack,Right Winger
+207014,England,Midfield,Central Midfield
+207302,Spain,Goalkeeper,Goalkeeper
+207877,Ukraine,Midfield,Central Midfield
+207917,Spain,Defender,Left-Back
+207929,England,Midfield,Attacking Midfield
+208166,Poland,Goalkeeper,Goalkeeper
+208172,Poland,Defender,Centre-Back
+209212,England,Attack,Right Winger
+210178,Spain,Defender,Centre-Back
+210689,Ukraine,Attack,Left Winger
+211251,Venezuela,Attack,Left Winger
+211474,Tunisia,Defender,Left-Back
+211637,Mali,Defender,Centre-Back
+212723,Switzerland,Midfield,Central Midfield
+212804,France,Midfield,Central Midfield
+212847,England,Defender,Centre-Back
+212862,Spain,Goalkeeper,Goalkeeper
+213260,Spain,Attack,Right Winger
+213670,Spain,Midfield,Defensive Midfield
+214532,France,Midfield,Central Midfield
+214775,Spain,Midfield,Central Midfield
+215099,Netherlands,Defender,Left-Back
+215599,Germany,Defender,Centre-Back
+215616,Chile,Midfield,Defensive Midfield
+215876,Portugal,Defender,Right-Back
+215977,France,Midfield,Central Midfield
+216179,Italy,Midfield,Central Midfield
+216569,Cote d'Ivoire,Attack,Left Winger
+216603,Türkiye,Attack,Right Winger
+216870,Spain,Defender,Right-Back
+216872,Italy,Midfield,Right Midfield
+217111,Morocco,Attack,Right Winger
+217115,France,Attack,Centre-Forward
+217144,Spain,Midfield,Central Midfield
+217879,Slovakia,Midfield,Central Midfield
+220878,Guinea,Defender,Left-Back
+221025,Portugal,Midfield,Central Midfield
+221150,Togo,Defender,Centre-Back
+221311,Spain,Attack,Right Winger
+221316,Spain,Defender,Right-Back
+221322,Spain,Defender,Left-Back
+221624,United States,Goalkeeper,Goalkeeper
+221958,Ukraine,Attack,Centre-Forward
+222855,Sweden,Midfield,Defensive Midfield
+222859,France,Midfield,Attacking Midfield
+223367,Norway,Midfield,Central Midfield
+223725,Morocco,Midfield,Attacking Midfield
+223967,Austria,Defender,Right-Back
+223974,Austria,Defender,Centre-Back
+223979,Austria,Midfield,Central Midfield
+224884,Ghana,Defender,Left-Back
+225020,Dominican Republic,Attack,Centre-Forward
+225083,France,Midfield,Defensive Midfield
+225122,Portugal,Attack,Left Winger
+225452,England,Attack,Right Winger
+225593,Spain,Attack,Left Winger
+225657,Austria,Defender,Centre-Back
+225873,Poland,Midfield,Central Midfield
+225963,Argentina,Defender,Centre-Back
+225984,Brazil,Midfield,Attacking Midfield
+226012,Spain,Goalkeeper,Goalkeeper
+226025,Italy,Midfield,Central Midfield
+226524,Norway,Midfield,Central Midfield
+226973,England,Midfield,Central Midfield
+227081,Argentina,Attack,Second Striker
+227084,Germany,Defender,Centre-Back
+227110,Nigeria,Defender,Centre-Back
+227961,Spain,Attack,Centre-Forward
+228006,Norway,Goalkeeper,Goalkeeper
+228444,Suriname,Defender,Left-Back
+228645,Netherlands,Attack,Centre-Forward
+228948,Germany,Defender,Centre-Back
+229006,France,Attack,Right Winger
+229604,Argentina,Goalkeeper,Goalkeeper
+229804,Spain,Defender,Centre-Back
+230166,Norway,Defender,Centre-Back
+230784,Ghana,Midfield,Defensive Midfield
+231572,Portugal,Defender,Right-Back
+232271,Morocco,Midfield,Attacking Midfield
+232320,Türkiye,Midfield,Defensive Midfield
+232418,Slovakia,Midfield,Central Midfield
+232454,Germany,Midfield,Central Midfield
+232895,Algeria,Attack,Right Winger
+234029,Germany,Midfield,Central Midfield
+234189,Egypt,Attack,Left Winger
+234509,Cameroon,Goalkeeper,Goalkeeper
+234523,Paraguay,Attack,Centre-Forward
+234781,Cote d'Ivoire,Attack,Left Winger
+234803,Scotland,Defender,Left-Back
+234811,Portugal,Goalkeeper,Goalkeeper
+235767,Scotland,Defender,Centre-Back
+235931,Italy,Midfield,Central Midfield
+236168,Belgium,Defender,Centre-Back
+236490,Nigeria,Defender,Right-Back
+236953,England,Defender,Left-Back
+236966,Poland,Defender,Centre-Back
+236981,Germany,Defender,Centre-Back
+237164,Togo,Attack,Centre-Forward
+237499,Serbia,Defender,Centre-Back
+237658,Switzerland,Midfield,Central Midfield
+237662,Switzerland,Attack,Centre-Forward
+238055,Portugal,Attack,Second Striker
+238223,Brazil,Goalkeeper,Goalkeeper
+238266,Croatia,Defender,Centre-Back
+238407,Norway,Attack,Centre-Forward
+238537,Italy,Goalkeeper,Goalkeeper
+238626,France,Midfield,Defensive Midfield
+238639,Benin,Attack,Centre-Forward
+238752,Senegal,Attack,Left Winger
+238868,Spain,Defender,Right-Back
+238993,Italy,Goalkeeper,Goalkeeper
+239647,Benin,Attack,Centre-Forward
+239743,Poland,Defender,Right-Back
+239802,Montenegro,Defender,Right-Back
+239941,Slovakia,Attack,Left Winger
+239962,Slovakia,Defender,Centre-Back
+240306,Portugal,Midfield,Attacking Midfield
+240414,Italy,Goalkeeper,Goalkeeper
+240692,Mozambique,Defender,Left-Back
+240897,Italy,Defender,Centre-Back
+241076,Ghana,Midfield,Right Midfield
+241307,Germany,Midfield,Right Midfield
+241391,Morocco,Attack,Left Winger
+241527,Italy,Attack,Centre-Forward
+241641,Portugal,Midfield,Attacking Midfield
+241923,Italy,Goalkeeper,Goalkeeper
+242063,Czech Republic,Attack,Right Winger
+242086,Czech Republic,Attack,Centre-Forward
+242273,Spain,Midfield,Defensive Midfield
+242359,Argentina,Goalkeeper,Goalkeeper
+242606,Ireland,Midfield,Central Midfield
+242631,Nigeria,Attack,Left Winger
+242632,Finland,Midfield,Central Midfield
+242661,Greece,Defender,Right-Back
+242940,Italy,Defender,Centre-Back
+243028,Poland,Defender,Centre-Back
+243188,Slovakia,Midfield,Central Midfield
+243714,France,Attack,Left Winger
+243760,Spain,Defender,Left-Back
+243879,DR Congo,Midfield,Defensive Midfield
+244192,Italy,Goalkeeper,Goalkeeper
+244221,England,Defender,Centre-Back
+244940,Türkiye,Midfield,Defensive Midfield
+245034,Slovenia,Midfield,Defensive Midfield
+245056,Serbia,Midfield,Central Midfield
+245078,Serbia,Attack,Left Winger
+245537,Algeria,Midfield,Defensive Midfield
+245625,England,Goalkeeper,Goalkeeper
+245744,Japan,Attack,Right Winger
+246291,Spain,Defender,Centre-Back
+246968,Spain,Attack,Centre-Forward
+247377,Italy,Defender,Centre-Back
+247555,Switzerland,Midfield,Defensive Midfield
+247915,Switzerland,Goalkeeper,Goalkeeper
+248454,Bosnia-Herzegovina,Goalkeeper,Goalkeeper
+248658,Greece,Goalkeeper,Goalkeeper
+248732,Poland,Defender,Centre-Back
+248738,Spain,Goalkeeper,Goalkeeper
+248999,Germany,Attack,Centre-Forward
+249089,England,Midfield,Central Midfield
+249126,England,Midfield,Defensive Midfield
+249157,Finland,Midfield,Attacking Midfield
+249513,Spain,Defender,Left-Back
+249565,Belgium,Midfield,Central Midfield
+249636,France,Defender,Centre-Back
+249730,Chile,Defender,Centre-Back
+249994,Portugal,Goalkeeper,Goalkeeper
+250013,New Caledonia,Midfield,Attacking Midfield
+250153,Italy,Defender,Right-Back
+250426,England,Attack,Centre-Forward
+250478,England,Defender,Left-Back
+250779,France,Defender,Centre-Back
+250844,Ghana,Defender,Centre-Back
+250845,Uruguay,Defender,Centre-Back
+251075,Türkiye,Defender,Right-Back
+251106,Türkiye,Attack,Centre-Forward
+251299,Germany,Goalkeeper,Goalkeeper
+251302,Germany,Midfield,Defensive Midfield
+251303,Germany,Attack,Centre-Forward
+251309,Germany,Midfield,Central Midfield
+251322,Switzerland,Goalkeeper,Goalkeeper
+251680,Spain,Attack,Left Winger
+251845,Spain,Attack,Left Winger
+251876,Argentina,Defender,Right-Back
+251878,Spain,Defender,Left-Back
+251896,Spain,Defender,Centre-Back
+251897,Spain,Attack,Centre-Forward
+252345,Sweden,Defender,Left-Back
+252677,Spain,Attack,Centre-Forward
+252767,Bulgaria,Midfield,Central Midfield
+253677,England,Defender,Centre-Back
+255440,Russia,Goalkeeper,Goalkeeper
+255450,Russia,Midfield,Attacking Midfield
+255469,Sweden,Defender,Right-Back
+255488,Spain,Defender,Centre-Back
+255501,Spain,Defender,Right-Back
+255508,Ghana,Attack,Right Winger
+255755,Brazil,Defender,Left-Back
+255788,Australia,Defender,Centre-Back
+255838,Italy,Midfield,Right Midfield
+255901,Argentina,Midfield,Central Midfield
+255906,Scotland,Defender,Centre-Back
+255942,Italy,Midfield,Central Midfield
+256178,England,Defender,Centre-Back
+256267,Kosovo,Attack,Centre-Forward
+256339,Indonesia,Goalkeeper,Goalkeeper
+256429,Spain,Attack,Centre-Forward
+256448,Italy,Defender,Centre-Back
+256678,Italy,Defender,Centre-Back
+256977,Portugal,Attack,Left Winger
+257062,Spain,Attack,Left Winger
+257376,Portugal,Defender,Centre-Back
+257448,Portugal,Attack,Right Winger
+257455,Portugal,Midfield,Defensive Midfield
+257462,Serbia,Attack,Centre-Forward
+257474,Serbia,Goalkeeper,Goalkeeper
+257732,Kosovo,Defender,Centre-Back
+257814,Switzerland,Goalkeeper,Goalkeeper
+257851,Portugal,Defender,Centre-Back
+257987,Netherlands,Defender,Right-Back
+258004,Portugal,Defender,Centre-Back
+258027,Portugal,Midfield,Central Midfield
+258039,Portugal,Defender,Right-Back
+258364,Indonesia,Defender,Left-Back
+258626,Brazil,Midfield,Attacking Midfield
+258827,Belgium,Midfield,Central Midfield
+258878,England,Defender,Centre-Back
+258883,England,Defender,Right-Back
+258889,England,Attack,Centre-Forward
+258919,England,Goalkeeper,Goalkeeper
+258923,England,Attack,Left Winger
+258987,Sweden,Defender,Centre-Back
+259953,Bosnia-Herzegovina,Midfield,Defensive Midfield
+260053,Czech Republic,Goalkeeper,Goalkeeper
+260655,Germany,Midfield,Central Midfield
+260827,Denmark,Defender,Centre-Back
+261504,Spain,Midfield,Central Midfield
+261905,Germany,Midfield,Central Midfield
+261927,Portugal,Attack,Left Winger
+262226,Belgium,Defender,Right-Back
+262300,Ireland,Defender,Left-Back
+262396,Spain,Goalkeeper,Goalkeeper
+262523,Italy,Defender,Right-Back
+262749,Spain,Goalkeeper,Goalkeeper
+262939,Colombia,Defender,Left-Back
+262980,Colombia,Midfield,Defensive Midfield
+263236,Austria,Defender,Centre-Back
+263361,Austria,Defender,Centre-Back
+263380,Hungary,Defender,Centre-Back
+263727,Spain,Midfield,Central Midfield
+263918,Russia,Midfield,Attacking Midfield
+264372,Ukraine,Attack,Right Winger
+264960,Germany,Midfield,Defensive Midfield
+265078,Italy,Attack,Centre-Forward
+265088,Italy,Midfield,Defensive Midfield
+266807,Argentina,Attack,Second Striker
+267160,Poland,Attack,Centre-Forward
+268327,Norway,Midfield,Central Midfield
+268429,Slovenia,Midfield,Central Midfield
+268670,Spain,Midfield,Defensive Midfield
+270171,Germany,Midfield,Defensive Midfield
+270393,Denmark,Midfield,Left Midfield
+270541,Guinea,Attack,Centre-Forward
+271455,Serbia,Defender,Left-Back
+272261,Czech Republic,Midfield,Attacking Midfield
+272278,Germany,Attack,Left Winger
+272622,Morocco,Defender,Centre-Back
+272642,France,Attack,Left Winger
+272812,Netherlands,Defender,Right-Back
+272855,Nigeria,Attack,Centre-Forward
+273132,Germany,Defender,Left-Back
+273669,Germany,Midfield,Attacking Midfield
+274461,Germany,Defender,Right-Back
+274484,Mali,Defender,Left-Back
+274839,Nigeria,Midfield,Defensive Midfield
+274862,Nigeria,Attack,Left Winger
+275218,Argentina,Goalkeeper,Goalkeeper
+275303,Netherlands,Defender,Right-Back
+276111,Spain,Defender,Centre-Back
+276896,France,Defender,Centre-Back
+277033,Wales,Attack,Right Winger
+277137,Peru,Midfield,Defensive Midfield
+277179,Spain,Defender,Left-Back
+277384,Slovakia,Defender,Centre-Back
+277533,Spain,Attack,Right Winger
+278296,Spain,Defender,Centre-Back
+278332,Germany,Midfield,Central Midfield
+278343,Germany,Defender,Centre-Back
+278359,Spain,Attack,Centre-Forward
+278531,Italy,Defender,Centre-Back
+278837,Spain,Attack,Right Winger
+279009,Germany,Midfield,Attacking Midfield
+279455,Wales,Attack,Right Winger
+279823,Italy,Attack,Centre-Forward
+280387,Switzerland,Midfield,Central Midfield
+280575,Kosovo,Midfield,Central Midfield
+280730,Spain,Defender,Right-Back
+281769,Spain,Defender,Centre-Back
+281963,France,Defender,Left-Back
+281989,Spain,Midfield,Central Midfield
+282028,France,Goalkeeper,Goalkeeper
+282041,France,Defender,Centre-Back
+282076,Romania,Midfield,Attacking Midfield
+282144,Croatia,Defender,Centre-Back
+282169,Croatia,Defender,Centre-Back
+282199,United States,Defender,Centre-Back
+282250,Norway,Defender,Left-Back
+282349,Germany,Defender,Centre-Back
+282388,Argentina,Attack,Centre-Forward
+282411,Spain,Defender,Right-Back
+282421,Spain,Midfield,Central Midfield
+282429,Spain,Defender,Left-Back
+282660,Germany,Defender,Left-Back
+282672,Spain,Attack,Left Winger
+282810,Spain,Attack,Right Winger
+283170,Spain,Goalkeeper,Goalkeeper
+283196,Denmark,Attack,Centre-Forward
+283227,Denmark,Defender,Centre-Back
+283233,Denmark,Defender,Centre-Back
+283497,Austria,Attack,Left Winger
+283628,Czech Republic,Midfield,Defensive Midfield
+283735,Italy,Attack,Left Winger
+283994,France,Attack,Centre-Forward
+284010,Germany,Attack,Left Winger
+284270,Germany,Goalkeeper,Goalkeeper
+284430,Spain,Goalkeeper,Goalkeeper
+284595,Italy,Defender,Left-Back
+284730,Switzerland,Defender,Centre-Back
+284732,Algeria,Defender,Centre-Back
+284769,Germany,Goalkeeper,Goalkeeper
+284854,Spain,Midfield,Central Midfield
+284857,Spain,Defender,Left-Back
+284884,Spain,Midfield,Attacking Midfield
+285323,France,Midfield,Defensive Midfield
+285845,England,Defender,Right-Back
+286047,Italy,Goalkeeper,Goalkeeper
+286297,Italy,Midfield,Attacking Midfield
+286384,Cote d'Ivoire,Defender,Centre-Back
+286415,Spain,Goalkeeper,Goalkeeper
+286596,Bosnia-Herzegovina,Defender,Left-Back
+286949,Morocco,Defender,Centre-Back
+287183,Russia,Attack,Centre-Forward
+287188,Austria,Midfield,Defensive Midfield
+287579,Morocco,Midfield,Defensive Midfield
+287635,Senegal,Midfield,Defensive Midfield
+287920,Germany,Attack,Centre-Forward
+288225,France,Midfield,Right Midfield
+288230,France,Attack,Centre-Forward
+288253,Netherlands,Defender,Centre-Back
+288255,Netherlands,Midfield,Central Midfield
+288318,Spain,Attack,Right Winger
+288340,Germany,Attack,Centre-Forward
+288415,Brazil,Goalkeeper,Goalkeeper
+288429,Denmark,Defender,Left-Back
+289059,Ukraine,Defender,Centre-Back
+289075,Ukraine,Attack,Right Winger
+289255,Spain,Defender,Right-Back
+289257,Spain,Midfield,Central Midfield
+289432,DR Congo,Defender,Centre-Back
+289446,Colombia,Defender,Centre-Back
+289592,Belgium,Midfield,Defensive Midfield
+289835,Denmark,Midfield,Central Midfield
+290017,Cote d'Ivoire,Defender,Left-Back
+290249,Uruguay,Midfield,Central Midfield
+290273,Spain,Defender,Right-Back
+290346,Portugal,Goalkeeper,Goalkeeper
+290391,Portugal,Defender,Left-Back
+290532,Algeria,Attack,Left Winger
+290537,France,Goalkeeper,Goalkeeper
+290587,Tunisia,Midfield,Defensive Midfield
+290862,France,Midfield,Defensive Midfield
+291200,Senegal,Defender,Centre-Back
+291222,France,Attack,Left Winger
+291417,France,Defender,Left-Back
+291739,Kosovo,Attack,Right Winger
+292139,Ireland,Midfield,Attacking Midfield
+292199,Türkiye,Goalkeeper,Goalkeeper
+292246,"Korea, South",Attack,Centre-Forward
+292534,Sweden,Defender,Centre-Back
+292779,Czech Republic,Attack,Left Winger
+292808,Belgium,Defender,Centre-Back
+293169,Croatia,Attack,Left Winger
+293194,Croatia,Defender,Left-Back
+293200,Croatia,Midfield,Attacking Midfield
+293281,Denmark,Attack,Left Winger
+293357,Czech Republic,Goalkeeper,Goalkeeper
+293385,Spain,Midfield,Attacking Midfield
+293388,Spain,Midfield,Defensive Midfield
+294057,England,Midfield,Attacking Midfield
+294808,Cote d'Ivoire,Midfield,Central Midfield
+295183,Romania,Midfield,Central Midfield
+295313,Nigeria,Attack,Centre-Forward
+295330,Nigeria,Attack,Centre-Forward
+295414,Spain,Defender,Left-Back
+295630,Greece,Defender,Left-Back
+296397,Germany,Midfield,Central Midfield
+296422,Senegal,Defender,Left-Back
+296428,Germany,Goalkeeper,Goalkeeper
+296622,Spain,Midfield,Attacking Midfield
+296802,Argentina,Goalkeeper,Goalkeeper
+297070,Mali,Defender,Right-Back
+297194,Spain,Goalkeeper,Goalkeeper
+297212,Wales,Defender,Centre-Back
+297583,"Korea, South",Midfield,Attacking Midfield
+298197,Spain,Goalkeeper,Goalkeeper
+298477,Scotland,Attack,Centre-Forward
+298575,Spain,Attack,Right Winger
+298583,Switzerland,Defender,Centre-Back
+298603,Switzerland,Defender,Left-Back
+298635,Cyprus,Midfield,Central Midfield
+298975,Spain,Defender,Right-Back
+298976,Spain,Attack,Centre-Forward
+300168,Spain,Midfield,Defensive Midfield
+300532,Sweden,Attack,Right Winger
+300716,Scotland,Defender,Left-Back
+301238,Italy,Goalkeeper,Goalkeeper
+302371,Spain,Attack,Centre-Forward
+303116,Italy,Midfield,Central Midfield
+303219,Germany,Defender,Centre-Back
+303254,England,Defender,Centre-Back
+303259,Belgium,Attack,Right Winger
+303657,Romania,Goalkeeper,Goalkeeper
+305947,Iceland,Attack,Second Striker
+306024,England,Attack,Centre-Forward
+307058,Iran,Attack,Centre-Forward
+307183,Germany,Attack,Right Winger
+307924,Germany,Attack,Centre-Forward
+308133,Japan,Attack,Centre-Forward
+308279,Italy,Midfield,Defensive Midfield
+308439,Norway,Midfield,Defensive Midfield
+308552,Sweden,Attack,Right Winger
+308989,Spain,Defender,Centre-Back
+309110,Spain,Midfield,Attacking Midfield
+309393,Germany,Midfield,Left Midfield
+309400,Germany,Attack,Centre-Forward
+309944,Nigeria,Defender,Right-Back
+311044,Uruguay,Defender,Left-Back
+311178,Greece,Defender,Left-Back
+311489,Belgium,Attack,Centre-Forward
+312678,Brazil,Defender,Centre-Back
+313094,Switzerland,Defender,Right-Back
+314241,England,Midfield,Central Midfield
+314288,Germany,Attack,Centre-Forward
+314353,England,Defender,Right-Back
+314367,England,Attack,Right Winger
+314398,"Korea, South",Midfield,Attacking Midfield
+314678,Morocco,Attack,Right Winger
+314875,England,Attack,Right Winger
+314944,Portugal,Defender,Left-Back
+314965,Portugal,Defender,Right-Back
+315063,Uruguay,Midfield,Right Midfield
+315121,Netherlands,Goalkeeper,Goalkeeper
+315145,Netherlands,Midfield,Defensive Midfield
+315604,Mali,Midfield,Defensive Midfield
+315779,United States,Attack,Right Winger
+315853,Italy,Defender,Centre-Back
+315858,Italy,Goalkeeper,Goalkeeper
+315865,Italy,Attack,Centre-Forward
+315867,Italy,Attack,Centre-Forward
+315969,Scotland,Midfield,Central Midfield
+316125,England,Defender,Left-Back
+316264,Norway,Midfield,Attacking Midfield
+316884,Slovakia,Goalkeeper,Goalkeeper
+316889,Mexico,Attack,Left Winger
+316934,Croatia,Midfield,Defensive Midfield
+317057,Croatia,Goalkeeper,Goalkeeper
+317482,Croatia,Midfield,Central Midfield
+317806,Nigeria,Attack,Centre-Forward
+318077,Uruguay,Midfield,Defensive Midfield
+318204,Germany,Defender,Left-Back
+318470,Russia,Goalkeeper,Goalkeeper
+318507,France,Goalkeeper,Goalkeeper
+318508,France,Defender,Centre-Back
+318523,France,Defender,Left-Back
+318528,France,Attack,Centre-Forward
+319160,Czech Republic,Midfield,Left Midfield
+319301,Wales,Attack,Right Winger
+319745,Spain,Midfield,Central Midfield
+319859,Denmark,Midfield,Central Midfield
+320141,Türkiye,Defender,Centre-Back
+320271,Spain,Defender,Left-Back
+320411,Denmark,Midfield,Central Midfield
+320748,Poland,Midfield,Attacking Midfield
+320854,Slovenia,Midfield,Central Midfield
+321070,Austria,Attack,Right Winger
+321247,Argentina,Attack,Left Winger
+321528,Netherlands,Defender,Right-Back
+322305,France,Midfield,Attacking Midfield
+322517,Switzerland,Defender,Centre-Back
+322655,Austria,Defender,Centre-Back
+322985,Netherlands,Midfield,Central Midfield
+323167,Italy,Defender,Centre-Back
+323910,Brazil,Defender,Left-Back
+323954,Brazil,Midfield,Defensive Midfield
+324223,England,Defender,Right-Back
+324278,Austria,Midfield,Attacking Midfield
+324351,Greece,Defender,Centre-Back
+324358,England,Attack,Centre-Forward
+324377,Morocco,Midfield,Central Midfield
+324503,Greece,Attack,Centre-Forward
+324690,France,Attack,Right Winger
+324795,France,Midfield,Central Midfield
+324804,France,Attack,Left Winger
+324811,France,Attack,Right Winger
+324882,Zimbabwe,Midfield,Defensive Midfield
+325223,Guinea-Bissau,Attack,Centre-Forward
+325443,Sweden,Attack,Centre-Forward
+325924,Algeria,Defender,Centre-Back
+326029,Netherlands,Attack,Centre-Forward
+326031,Netherlands,Defender,Centre-Back
+326300,France,Midfield,Attacking Midfield
+326330,Netherlands,Midfield,Central Midfield
+326416,Spain,Defender,Centre-Back
+327126,Morocco,Attack,Right Winger
+327251,Germany,Defender,Right-Back
+328480,Spain,Midfield,Defensive Midfield
+328609,Canada,Defender,Centre-Back
+328658,Norway,Defender,Centre-Back
+328784,Germany,Defender,Centre-Back
+329145,Brazil,Defender,Centre-Back
+329373,Germany,Midfield,Attacking Midfield
+329517,Greece,Attack,Left Winger
+329722,Portugal,Midfield,Central Midfield
+329812,Portugal,Attack,Left Winger
+330126,Poland,Attack,Centre-Forward
+330208,Italy,Defender,Centre-Back
+330659,Netherlands,Midfield,Attacking Midfield
+331401,Italy,Defender,Right-Back
+331496,Spain,Attack,Right Winger
+331505,Spain,Defender,Right-Back
+331560,Japan,Defender,Centre-Back
+331726,England,Attack,Centre-Forward
+332179,Italy,Midfield,Central Midfield
+332560,Colombia,Defender,Left-Back
+332697,United States,Midfield,Central Midfield
+332705,United States,Midfield,Defensive Midfield
+332798,Hungary,Defender,Right-Back
+332889,France,Midfield,Central Midfield
+333014,Norway,Midfield,Defensive Midfield
+333175,Senegal,Goalkeeper,Goalkeeper
+333241,Brazil,Midfield,Central Midfield
+333647,Germany,Attack,Centre-Forward
+333903,Germany,Defender,Left-Back
+334207,Germany,Defender,Centre-Back
+334221,Germany,Defender,Centre-Back
+334222,Argentina,Attack,Centre-Forward
+334526,Switzerland,Midfield,Defensive Midfield
+334557,Portugal,Midfield,Attacking Midfield
+334835,Croatia,Midfield,Central Midfield
+334999,Germany,Midfield,Central Midfield
+335103,Germany,Attack,Left Winger
+335147,France,Defender,Right-Back
+335209,Indonesia,Defender,Centre-Back
+335225,Spain,Midfield,Central Midfield
+335457,Bosnia-Herzegovina,Attack,Centre-Forward
+335516,Germany,Midfield,Right Midfield
+335631,Germany,Defender,Centre-Back
+335721,England,Defender,Right-Back
+335993,Germany,Defender,Right-Back
+336012,Germany,Attack,Right Winger
+336077,Türkiye,Goalkeeper,Goalkeeper
+336125,Kosovo,Defender,Right-Back
+336869,Spain,Midfield,Defensive Midfield
+336960,Italy,Defender,Left-Back
+337092,Germany,Defender,Centre-Back
+337333,Czech Republic,Midfield,Central Midfield
+337715,Nigeria,Attack,Centre-Forward
+337725,Cote d'Ivoire,Attack,Centre-Forward
+337800,Portugal,Midfield,Central Midfield
+337946,Spain,Defender,Left-Back
+338070,Greece,Defender,Left-Back
+338285,Spain,Defender,Centre-Back
+338424,Spain,Midfield,Central Midfield
+338425,Spain,Attack,Left Winger
+338629,Belgium,Defender,Centre-Back
+338668,Belgium,Midfield,Defensive Midfield
+338670,Serbia,Goalkeeper,Goalkeeper
+338672,Belgium,Defender,Centre-Back
+339314,Germany,Attack,Centre-Forward
+339328,Netherlands,Defender,Left-Back
+339332,Netherlands,Attack,Left Winger
+339337,Curacao,Defender,Centre-Back
+339340,Netherlands,Defender,Left-Back
+339556,Jamaica,Defender,Left-Back
+339808,France,Defender,Left-Back
+339816,Spain,Attack,Left Winger
+339820,Senegal,Attack,Right Winger
+340166,Belgium,Midfield,Right Midfield
+340177,Belgium,Defender,Left-Back
+340205,Spain,Attack,Centre-Forward
+340321,England,Midfield,Central Midfield
+340322,Nigeria,Attack,Right Winger
+340324,England,Attack,Centre-Forward
+340325,England,Attack,Left Winger
+340328,England,Attack,Left Winger
+340329,England,Midfield,Central Midfield
+340339,Spain,Defender,Centre-Back
+340353,Nigeria,Goalkeeper,Goalkeeper
+340376,Spain,Attack,Centre-Forward
+340394,Morocco,Midfield,Attacking Midfield
+340456,Morocco,Defender,Right-Back
+340459,Netherlands,Midfield,Attacking Midfield
+340521,Portugal,Defender,Centre-Back
+340853,Spain,Defender,Centre-Back
+340879,Türkiye,Defender,Centre-Back
+340918,Ireland,Goalkeeper,Goalkeeper
+340950,Portugal,Attack,Left Winger
+341049,United States,Defender,Centre-Back
+341051,England,Defender,Right-Back
+341092,Italy,Attack,Right Winger
+341110,Argentina,Attack,Left Winger
+341227,Spain,Defender,Left-Back
+341263,Spain,Defender,Centre-Back
+341264,Spain,Defender,Left-Back
+341278,Spain,Midfield,Central Midfield
+341317,Scotland,Attack,Centre-Forward
+341429,Colombia,Defender,Centre-Back
+341647,Türkiye,Attack,Right Winger
+341705,Brazil,Midfield,Central Midfield
+341713,Spain,Goalkeeper,Goalkeeper
+342039,Germany,Midfield,Defensive Midfield
+342046,DR Congo,Defender,Centre-Back
+342048,DR Congo,Attack,Right Winger
+342226,Malta,Attack,Right Winger
+342229,France,Attack,Centre-Forward
+342385,Argentina,Midfield,Defensive Midfield
+342405,Sweden,Midfield,Central Midfield
+342877,Cameroon,Defender,Centre-Back
+342967,Germany,Attack,Right Winger
+343052,Cote d'Ivoire,Attack,Right Winger
+343337,Germany,Midfield,Attacking Midfield
+343463,Canada,Attack,Centre-Forward
+343475,England,Defender,Centre-Back
+343537,Ukraine,Attack,Centre-Forward
+343959,Serbia,Defender,Centre-Back
+344069,Germany,Midfield,Defensive Midfield
+344072,France,Defender,Right-Back
+344152,France,Attack,Centre-Forward
+344381,France,Attack,Centre-Forward
+344576,Madagascar,Midfield,Defensive Midfield
+344596,France,Defender,Centre-Back
+344598,France,Defender,Centre-Back
+344605,France,Midfield,Defensive Midfield
+344695,France,Defender,Centre-Back
+344886,France,Defender,Left-Back
+344888,Senegal,Attack,Centre-Forward
+344892,France,Attack,Right Winger
+345458,Poland,Defender,Right-Back
+345590,Denmark,Midfield,Attacking Midfield
+345886,Switzerland,Attack,Left Winger
+345911,Czech Republic,Defender,Centre-Back
+346018,Northern Ireland,Defender,Left-Back
+346289,Guinea,Defender,Centre-Back
+346314,England,Defender,Centre-Back
+346483,England,Midfield,Attacking Midfield
+346499,Luxembourg,Midfield,Attacking Midfield
+346546,Poland,Goalkeeper,Goalkeeper
+346551,Poland,Goalkeeper,Goalkeeper
+346561,Italy,Defender,Centre-Back
+346567,Italy,Defender,Left-Back
+346707,England,Midfield,Central Midfield
+346779,Scotland,Attack,Centre-Forward
+346853,Austria,Midfield,Attacking Midfield
+346890,Switzerland,Attack,Left Winger
+347253,Portugal,Attack,Centre-Forward
+347900,Netherlands,Midfield,Defensive Midfield
+348026,France,Defender,Right-Back
+348601,Algeria,Attack,Right Winger
+348791,Japan,Attack,Right Winger
+348795,Argentina,Midfield,Attacking Midfield
+349066,Sweden,Attack,Centre-Forward
+349599,Ecuador,Defender,Left-Back
+349701,United States,Defender,Left-Back
+349884,Spain,Defender,Right-Back
+350219,Spain,Midfield,Central Midfield
+350364,Spain,Defender,Right-Back
+351478,Spain,Attack,Centre-Forward
+351749,England,Midfield,Defensive Midfield
+351809,Spain,Defender,Centre-Back
+351816,Algeria,Midfield,Defensive Midfield
+351843,French Guiana,Defender,Centre-Back
+351955,Italy,Defender,Centre-Back
+352041,Brazil,Goalkeeper,Goalkeeper
+353032,Paraguay,Defender,Centre-Back
+353365,Guadeloupe,Defender,Right-Back
+353366,France,Defender,Centre-Back
+353399,France,Attack,Right Winger
+353404,France,Attack,Right Winger
+353826,Poland,Defender,Right-Back
+353892,Japan,Defender,Centre-Back
+353922,Türkiye,Defender,Right-Back
+353948,France,Midfield,Central Midfield
+354352,France,Defender,Right-Back
+354361,Cameroon,Midfield,Central Midfield
+354362,Uruguay,Midfield,Defensive Midfield
+354482,Panama,Defender,Right-Back
+354726,France,Attack,Centre-Forward
+354814,Angola,Attack,Centre-Forward
+355369,United States,Attack,Centre-Forward
+355501,Guinea,Midfield,Defensive Midfield
+355627,Spain,Defender,Left-Back
+355628,Spain,Defender,Centre-Back
+355816,Japan,Defender,Centre-Back
+355861,Netherlands,Attack,Left Winger
+355915,Argentina,Defender,Centre-Back
+356081,Belgium,Midfield,Central Midfield
+356141,Japan,Midfield,Attacking Midfield
+356197,Spain,Defender,Left-Back
+357003,Croatia,Defender,Centre-Back
+357047,France,Goalkeeper,Goalkeeper
+357117,Cote d'Ivoire,Goalkeeper,Goalkeeper
+357119,France,Defender,Centre-Back
+357147,Portugal,Defender,Right-Back
+357153,Portugal,Goalkeeper,Goalkeeper
+357156,Portugal,Defender,Centre-Back
+357162,Portugal,Midfield,Defensive Midfield
+357164,Portugal,Attack,Left Winger
+357233,Luxembourg,Midfield,Central Midfield
+357498,Serbia,Attack,Centre-Forward
+357565,Spain,Midfield,Defensive Midfield
+357628,Spain,Attack,Left Winger
+357662,England,Midfield,Central Midfield
+357770,Croatia,Goalkeeper,Goalkeeper
+357796,Croatia,Defender,Left-Back
+357884,Spain,Defender,Centre-Back
+357885,Spain,Midfield,Central Midfield
+357992,Italy,Midfield,Right Midfield
+358003,Italy,Defender,Centre-Back
+358008,Italy,Midfield,Defensive Midfield
+358032,Belgium,Attack,Right Winger
+358115,Spain,Defender,Right-Back
+358143,Nigeria,Defender,Centre-Back
+358166,Uzbekistan,Attack,Centre-Forward
+358250,Ghana,Defender,Centre-Back
+358504,Japan,Attack,Right Winger
+358515,Cote d'Ivoire,Attack,Centre-Forward
+358948,Nigeria,Defender,Right-Back
+360518,Netherlands,Midfield,Defensive Midfield
+361065,Netherlands,Midfield,Left Midfield
+361068,Netherlands,Midfield,Central Midfield
+361093,Netherlands,Defender,Centre-Back
+361104,United States,Defender,Right-Back
+361254,Spain,Attack,Centre-Forward
+361256,Türkiye,Goalkeeper,Goalkeeper
+361260,Türkiye,Defender,Centre-Back
+361914,Morocco,Defender,Centre-Back
+362086,Spain,Attack,Second Striker
+362108,Sweden,Defender,Left-Back
+362562,Scotland,Defender,Left-Back
+362842,Brazil,Midfield,Central Midfield
+362977,Croatia,Defender,Right-Back
+363057,Spain,Midfield,Central Midfield
+363205,Brazil,Attack,Centre-Forward
+364135,Italy,Attack,Centre-Forward
+364245,Netherlands,Defender,Right-Back
+364258,Brazil,Defender,Left-Back
+364409,Nigeria,Defender,Centre-Back
+364603,Spain,Attack,Left Winger
+364827,Cote d'Ivoire,Defender,Centre-Back
+364857,Mali,Defender,Right-Back
+364938,Norway,Defender,Left-Back
+365108,Switzerland,Attack,Right Winger
+365172,Zambia,Attack,Centre-Forward
+366930,Spain,Defender,Left-Back
+366948,Brazil,Midfield,Defensive Midfield
+367284,Norway,Defender,Centre-Back
+367464,Portugal,Goalkeeper,Goalkeeper
+367466,Portugal,Defender,Right-Back
+367992,Sweden,Attack,Left Winger
+368482,Italy,Attack,Right Winger
+368887,Belgium,Attack,Centre-Forward
+368891,Belgium,Defender,Centre-Back
+369081,Uruguay,Midfield,Central Midfield
+369316,Türkiye,Defender,Left-Back
+369567,Austria,Attack,Centre-Forward
+369674,Denmark,Defender,Left-Back
+369684,Denmark,Defender,Right-Back
+370683,Norway,Defender,Centre-Back
+370789,Norway,Defender,Right-Back
+370791,Dominican Republic,Midfield,Defensive Midfield
+370846,United States,Midfield,Right Midfield
+370997,Croatia,Goalkeeper,Goalkeeper
+370998,Croatia,Defender,Left-Back
+371001,Croatia,Defender,Centre-Back
+371021,Kosovo,Goalkeeper,Goalkeeper
+371141,France,Defender,Centre-Back
+371149,Cote d'Ivoire,Defender,Centre-Back
+371247,Brazil,Goalkeeper,Goalkeeper
+371256,Brazil,Attack,Right Winger
+371371,Albania,Defender,Centre-Back
+371436,Chile,Defender,Centre-Back
+371686,Haiti,Defender,Right-Back
+371816,DR Congo,Goalkeeper,Goalkeeper
+371851,Slovenia,Defender,Centre-Back
+371998,Brazil,Attack,Left Winger
+372240,Denmark,Defender,Centre-Back
+372246,Spain,Midfield,Central Midfield
+372267,Netherlands,Midfield,Attacking Midfield
+372445,Portugal,Midfield,Central Midfield
+372711,Morocco,Attack,Left Winger
+372712,Mali,Midfield,Defensive Midfield
+372713,France,Attack,Centre-Forward
+373373,Argentina,Defender,Centre-Back
+373916,Uruguay,Defender,Left-Back
+374040,France,Midfield,Central Midfield
+374139,Dominican Republic,Defender,Left-Back
+374212,Netherlands,Defender,Left-Back
+374954,Croatia,Midfield,Defensive Midfield
+375137,Senegal,Defender,Left-Back
+375382,Portugal,Midfield,Attacking Midfield
+375391,Sweden,Attack,Right Winger
+375885,Cote d'Ivoire,Midfield,Defensive Midfield
+376211,Argentina,Attack,Left Winger
+376514,Uruguay,Defender,Left-Back
+377042,Italy,Midfield,Central Midfield
+377219,Morocco,Midfield,Attacking Midfield
+377243,Poland,Midfield,Central Midfield
+377387,Venezuela,Attack,Centre-Forward
+377393,France,Midfield,Defensive Midfield
+377468,Bosnia-Herzegovina,Defender,Centre-Back
+377641,Libya,Midfield,Defensive Midfield
+377729,Netherlands,Attack,Centre-Forward
+378139,Spain,Attack,Right Winger
+378293,Venezuela,Midfield,Central Midfield
+378710,Brazil,Attack,Centre-Forward
+379163,Romania,Midfield,Defensive Midfield
+379249,Brazil,Defender,Left-Back
+379807,Brazil,Defender,Centre-Back
+379869,France,Goalkeeper,Goalkeeper
+380350,Brazil,Defender,Centre-Back
+380415,Nigeria,Attack,Left Winger
+380598,Spain,Midfield,Central Midfield
+381753,Bulgaria,Midfield,Defensive Midfield
+381950,Belgium,Midfield,Right Midfield
+381967,Belgium,Midfield,Central Midfield
+382478,Switzerland,Defender,Centre-Back
+382528,Türkiye,Attack,Left Winger
+384060,Zimbabwe,Attack,Centre-Forward
+384461,Poland,Midfield,Central Midfield
+384593,France,Midfield,Attacking Midfield
+384859,France,Defender,Right-Back
+384879,Czech Republic,Defender,Centre-Back
+385105,Chile,Defender,Left-Back
+385394,Italy,Defender,Centre-Back
+386047,France,Defender,Centre-Back
+386446,Italy,Defender,Centre-Back
+386455,Italy,Attack,Left Winger
+386552,Mali,Midfield,Central Midfield
+386726,Türkiye,Midfield,Attacking Midfield
+386914,Netherlands,Attack,Centre-Forward
+387047,Netherlands,Defender,Centre-Back
+387106,Croatia,Midfield,Attacking Midfield
+387234,Poland,Midfield,Central Midfield
+387626,Jamaica,Attack,Right Winger
+387687,Mexico,Defender,Centre-Back
+388125,Croatia,Midfield,Defensive Midfield
+388165,DR Congo,Attack,Centre-Forward
+388198,Germany,Defender,Centre-Back
+388294,Germany,Defender,Right-Back
+388409,Germany,Midfield,Defensive Midfield
+388513,Spain,Defender,Right-Back
+388516,Spain,Goalkeeper,Goalkeeper
+389253,United States,Defender,Centre-Back
+389837,Italy,Defender,Centre-Back
+390177,Albania,Midfield,Attacking Midfield
+390304,Italy,Goalkeeper,Goalkeeper
+390638,Brazil,Attack,Centre-Forward
+390664,Denmark,Midfield,Defensive Midfield
+390688,Spain,Defender,Right-Back
+391004,Denmark,Attack,Centre-Forward
+391005,Denmark,Defender,Right-Back
+391065,Cote d'Ivoire,Attack,Left Winger
+391376,France,Midfield,Defensive Midfield
+391498,Türkiye,Defender,Centre-Back
+391720,Brazil,Defender,Right-Back
+391766,Austria,Attack,Left Winger
+391780,Ghana,Defender,Left-Back
+392085,Italy,Attack,Second Striker
+392163,Germany,Attack,Left Winger
+392179,Sweden,Defender,Centre-Back
+392516,Italy,Defender,Left-Back
+392538,Italy,Midfield,Central Midfield
+392569,Italy,Defender,Right-Back
+392710,United States,Midfield,Defensive Midfield
+392757,England,Defender,Centre-Back
+392765,England,Midfield,Attacking Midfield
+392767,Cameroon,Attack,Left Winger
+392768,England,Attack,Left Winger
+392770,England,Midfield,Attacking Midfield
+392771,Wales,Midfield,Defensive Midfield
+392775,England,Defender,Left-Back
+392881,Italy,Defender,Right-Back
+392956,Italy,Defender,Right-Back
+392959,Italy,Midfield,Attacking Midfield
+392966,Italy,Defender,Right-Back
+393238,Morocco,Attack,Right Winger
+393321,United States,Midfield,Defensive Midfield
+393323,United States,Midfield,Attacking Midfield
+393325,United States,Attack,Centre-Forward
+393512,Nigeria,Defender,Left-Back
+393621,Brazil,Midfield,Central Midfield
+394033,Germany,Attack,Centre-Forward
+394152,Austria,Defender,Centre-Back
+394236,Switzerland,Midfield,Central Midfield
+394300,Italy,Midfield,Central Midfield
+394327,France,Midfield,Defensive Midfield
+394688,Norway,Midfield,Central Midfield
+395122,Argentina,Midfield,Defensive Midfield
+395234,France,Midfield,Defensive Midfield
+395236,Algeria,Midfield,Defensive Midfield
+395237,France,Midfield,Central Midfield
+395512,France,Midfield,Central Midfield
+395516,France,Attack,Right Winger
+395522,DR Congo,Attack,Centre-Forward
+395523,Cote d'Ivoire,Attack,Centre-Forward
+395695,Ghana,Midfield,Defensive Midfield
+396394,Ukraine,Defender,Centre-Back
+396638,Israel,Attack,Left Winger
+396894,Uruguay,Attack,Centre-Forward
+396908,Türkiye,Attack,Right Winger
+397033,Italy,Midfield,Defensive Midfield
+397171,Ghana,Defender,Left-Back
+397225,Italy,Defender,Right-Back
+397486,Romania,Attack,Right Winger
+397676,Spain,Goalkeeper,Goalkeeper
+398065,England,Attack,Left Winger
+398073,Morocco,Defender,Right-Back
+398163,Spain,Midfield,Central Midfield
+398184,Spain,Attack,Centre-Forward
+399383,France,Attack,Right Winger
+399434,England,Midfield,Attacking Midfield
+399776,Spain,Defender,Centre-Back
+400131,Belgium,Defender,Centre-Back
+400489,North Macedonia,Midfield,Attacking Midfield
+400536,Denmark,Goalkeeper,Goalkeeper
+400546,Denmark,Midfield,Central Midfield
+401173,England,Attack,Left Winger
+401320,Ireland,Defender,Centre-Back
+401356,Mexico,Midfield,Defensive Midfield
+401527,Brazil,Defender,Left-Back
+401529,Brazil,Defender,Right-Back
+401530,Brazil,Defender,Centre-Back
+401578,Argentina,Midfield,Central Midfield
+401922,Nigeria,Attack,Right Winger
+401923,Nigeria,Attack,Centre-Forward
+402008,Mali,Midfield,Central Midfield
+402733,Argentina,Defender,Right-Back
+403151,Spain,Goalkeeper,Goalkeeper
+403898,Germany,Defender,Centre-Back
+404260,Serbia,Defender,Left-Back
+404418,Slovakia,Defender,Centre-Back
+404839,Ukraine,Goalkeeper,Goalkeeper
+404842,Ukraine,Defender,Left-Back
+404950,Austria,Midfield,Defensive Midfield
+405385,Japan,Defender,Right-Back
+405389,Japan,Defender,Centre-Back
+405397,Japan,Attack,Left Winger
+405398,Japan,Attack,Right Winger
+405670,Germany,Midfield,Defensive Midfield
+405686,Germany,Midfield,Attacking Midfield
+405687,Germany,Midfield,Defensive Midfield
+405885,Italy,Attack,Second Striker
+406040,Nigeria,Attack,Left Winger
+406042,Norway,Attack,Left Winger
+406151,Portugal,Defender,Centre-Back
+406560,England,Attack,Centre-Forward
+406609,Germany,Midfield,Central Midfield
+406625,Argentina,Attack,Centre-Forward
+406634,Denmark,Midfield,Central Midfield
+406635,England,Midfield,Attacking Midfield
+406638,England,Midfield,Defensive Midfield
+406640,Germany,Midfield,Central Midfield
+406973,Germany,Attack,Centre-Forward
+407098,Poland,Attack,Left Winger
+408471,Spain,Attack,Left Winger
+408574,Netherlands,Midfield,Central Midfield
+409153,Malta,Midfield,Central Midfield
+409344,Netherlands,Midfield,Attacking Midfield
+409517,Belgium,Attack,Centre-Forward
+410185,France,Defender,Right-Back
+410225,Senegal,Attack,Right Winger
+410425,Mali,Midfield,Defensive Midfield
+410708,Netherlands,Defender,Centre-Back
+411295,Brazil,Attack,Left Winger
+411537,Netherlands,Attack,Centre-Forward
+411975,France,Defender,Right-Back
+412045,Spain,Midfield,Central Midfield
+412363,Brazil,Attack,Right Winger
+412366,Brazil,Attack,Centre-Forward
+412513,France,Attack,Centre-Forward
+412660,England,Attack,Centre-Forward
+412669,Portugal,Midfield,Attacking Midfield
+412829,France,Defender,Centre-Back
+412932,Netherlands,Attack,Centre-Forward
+412953,Netherlands,Midfield,Defensive Midfield
+413039,Cameroon,Attack,Right Winger
+413112,France,Midfield,Defensive Midfield
+413118,Mali,Defender,Centre-Back
+413220,England,Defender,Right-Back
+413262,Spain,Attack,Second Striker
+413403,England,Defender,Centre-Back
+413507,Serbia,Defender,Centre-Back
+413565,Colombia,Defender,Centre-Back
+413605,Nigeria,Attack,Centre-Forward
+413843,Germany,Defender,Centre-Back
+414908,Zimbabwe,Midfield,Central Midfield
+415194,The Gambia,Attack,Right Winger
+415381,Netherlands,Defender,Right-Back
+415383,Burkina Faso,Goalkeeper,Goalkeeper
+415646,Portugal,Midfield,Defensive Midfield
+415912,Greece,Defender,Centre-Back
+415970,England,Defender,Centre-Back
+416380,Germany,Attack,Centre-Forward
+416386,Morocco,Midfield,Central Midfield
+417346,England,Attack,Left Winger
+417913,Spain,Goalkeeper,Goalkeeper
+418543,Netherlands,Defender,Centre-Back
+418559,Norway,Attack,Centre-Forward
+418560,Norway,Attack,Centre-Forward
+418571,Tunisia,Midfield,Central Midfield
+418651,Cote d'Ivoire,Goalkeeper,Goalkeeper
+418659,Algeria,Attack,Centre-Forward
+419067,Georgia,Attack,Left Winger
+419648,Serbia,Attack,Left Winger
+420002,France,Attack,Centre-Forward
+420064,Brazil,Defender,Left-Back
+420210,Netherlands,Defender,Right-Back
+420213,Netherlands,Midfield,Central Midfield
+420243,Netherlands,Defender,Right-Back
+420465,Portugal,Defender,Centre-Back
+420931,Japan,Attack,Left Winger
+421637,Nigeria,Midfield,Central Midfield
+421873,Italy,Goalkeeper,Goalkeeper
+422281,Austria,Midfield,Attacking Midfield
+422355,Norway,Attack,Left Winger
+422466,Spain,Defender,Left-Back
+422763,Belgium,Midfield,Defensive Midfield
+422951,Denmark,Defender,Centre-Back
+423440,Spain,Midfield,Defensive Midfield
+423444,Spain,Midfield,Central Midfield
+423744,Scotland,Midfield,Defensive Midfield
+424015,Scotland,Defender,Right-Back
+424042,Argentina,Defender,Right-Back
+424072,Portugal,Attack,Left Winger
+424204,Canada,Defender,Left-Back
+424784,Colombia,Attack,Centre-Forward
+425306,United States,Goalkeeper,Goalkeeper
+425334,Poland,Defender,Right-Back
+425400,Algeria,Attack,Left Winger
+425902,England,Midfield,Central Midfield
+425918,Poland,Defender,Centre-Back
+426192,Chile,Attack,Centre-Forward
+426620,Portugal,Attack,Left Winger
+427568,England,Goalkeeper,Goalkeeper
+427572,Georgia,Attack,Left Winger
+428563,Scotland,Midfield,Central Midfield
+428920,Argentina,Defender,Centre-Back
+429014,England,Midfield,Attacking Midfield
+429259,United States,Defender,Centre-Back
+429874,Germany,Attack,Right Winger
+429901,Cote d'Ivoire,Midfield,Defensive Midfield
+429915,Belgium,Defender,Left-Back
+429983,Norway,Attack,Centre-Forward
+430280,Italy,Midfield,Defensive Midfield
+431190,Uruguay,Midfield,Defensive Midfield
+431755,Sweden,Midfield,Attacking Midfield
+431811,Norway,Attack,Right Winger
+432090,Italy,Midfield,Central Midfield
+432092,Italy,Attack,Centre-Forward
+432164,Brazil,Attack,Centre-Forward
+432166,Brazil,Defender,Left-Back
+432298,Japan,Goalkeeper,Goalkeeper
+432403,Japan,Midfield,Defensive Midfield
+432895,Brazil,Attack,Centre-Forward
+432914,Brazil,Goalkeeper,Goalkeeper
+432982,Denmark,Attack,Right Winger
+433049,Morocco,Attack,Centre-Forward
+433177,England,Attack,Right Winger
+433181,England,Midfield,Central Midfield
+433183,England,Midfield,Central Midfield
+433188,England,Midfield,Central Midfield
+433584,Italy,Midfield,Right Midfield
+433984,Netherlands,Defender,Centre-Back
+434116,Austria,Midfield,Left Midfield
+434223,Ireland,Attack,Centre-Forward
+434224,France,Defender,Centre-Back
+434433,Montenegro,Attack,Centre-Forward
+434675,Netherlands,Attack,Left Winger
+434990,Spain,Attack,Right Winger
+435228,Albania,Defender,Centre-Back
+435338,Brazil,Defender,Centre-Back
+435492,France,Attack,Left Winger
+435648,Netherlands,Attack,Centre-Forward
+435772,Belgium,Midfield,Attacking Midfield
+435796,Germany,Defender,Right-Back
+436064,Netherlands,Defender,Centre-Back
+438001,Uruguay,Defender,Centre-Back
+438971,Spain,Defender,Right-Back
+439022,Brazil,Defender,Centre-Back
+439072,Uruguay,Defender,Left-Back
+439497,Ireland,Defender,Centre-Back
+439629,Argentina,Attack,Centre-Forward
+439914,Ecuador,Attack,Second Striker
+441170,France,Defender,Right-Back
+441515,Italy,Midfield,Defensive Midfield
+441986,Germany,Defender,Centre-Back
+442248,Jamaica,Defender,Centre-Back
+442531,Senegal,Goalkeeper,Goalkeeper
+442703,Albania,Midfield,Defensive Midfield
+442891,France,Attack,Left Winger
+443222,Spain,Attack,Centre-Forward
+443331,Germany,Midfield,Defensive Midfield
+443710,Germany,Midfield,Defensive Midfield
+444211,Ireland,Midfield,Central Midfield
+444523,Brazil,Midfield,Attacking Midfield
+445126,Italy,Defender,Left-Back
+445939,Egypt,Attack,Centre-Forward
+447661,Brazil,Midfield,Central Midfield
+448177,Germany,Attack,Centre-Forward
+448258,Germany,Defender,Right-Back
+448628,Spain,Defender,Left-Back
+448632,Senegal,Goalkeeper,Goalkeeper
+448705,Germany,Goalkeeper,Goalkeeper
+449151,Brazil,Attack,Right Winger
+449496,Spain,Midfield,Central Midfield
+449592,Spain,Midfield,Central Midfield
+449796,Spain,Defender,Centre-Back
+450050,Haiti,Midfield,Central Midfield
+450936,France,Midfield,Central Midfield
+451276,Hungary,Midfield,Attacking Midfield
+451677,Greece,Attack,Left Winger
+451801,Ghana,Defender,Centre-Back
+451906,Austria,Defender,Centre-Back
+452084,Türkiye,Attack,Left Winger
+452477,Austria,Attack,Centre-Forward
+452483,Austria,Defender,Centre-Back
+452607,Denmark,Defender,Right-Back
+453016,France,Defender,Right-Back
+453376,Kenya,Defender,Centre-Back
+453704,Spain,Goalkeeper,Goalkeeper
+453870,Germany,Attack,Centre-Forward
+454121,Brazil,Attack,Left Winger
+454567,Türkiye,Midfield,Central Midfield
+454863,Hungary,Midfield,Central Midfield
+455181,Spain,Attack,Right Winger
+455661,Germany,Attack,Centre-Forward
+457422,Italy,Attack,Centre-Forward
+457673,Brazil,Attack,Right Winger
+457736,Netherlands,Attack,Right Winger
+457931,Italy,Defender,Centre-Back
+458715,Brazil,Defender,Centre-Back
+459128,Italy,Midfield,Central Midfield
+459151,Italy,Attack,Left Winger
+459463,Colombia,Attack,Centre-Forward
+459655,Italy,Defender,Centre-Back
+459658,Italy,Defender,Left-Back
+459661,Italy,Attack,Centre-Forward
+459665,Italy,Midfield,Central Midfield
+459763,Italy,Goalkeeper,Goalkeeper
+459988,Italy,Attack,Centre-Forward
+460245,Germany,Defender,Centre-Back
+460651,Congo,Midfield,Defensive Midfield
+460939,Netherlands,Midfield,Central Midfield
+461019,Italy,Defender,Right-Back
+461496,Denmark,Midfield,Defensive Midfield
+461607,France,Attack,Centre-Forward
+461617,Spain,Attack,Left Winger
+461833,Italy,Defender,Centre-Back
+461843,Spain,Defender,Centre-Back
+461883,Nigeria,Defender,Centre-Back
+462070,Uruguay,Midfield,Defensive Midfield
+462250,Portugal,Attack,Second Striker
+462348,Egypt,Attack,Centre-Forward
+462823,Denmark,Attack,Right Winger
+463527,Netherlands,Goalkeeper,Goalkeeper
+463600,France,Goalkeeper,Goalkeeper
+463603,France,Defender,Centre-Back
+463605,France,Defender,Centre-Back
+463613,France,Attack,Left Winger
+463618,France,Midfield,Central Midfield
+463620,France,Attack,Centre-Forward
+463665,France,Defender,Centre-Back
+464373,Iceland,Goalkeeper,Goalkeeper
+464469,Norway,Defender,Centre-Back
+464598,Denmark,Attack,Centre-Forward
+465555,Serbia,Goalkeeper,Goalkeeper
+465717,England,Defender,Right-Back
+465830,France,Midfield,Central Midfield
+465955,Poland,Goalkeeper,Goalkeeper
+465967,Spain,Midfield,Central Midfield
+466783,Spain,Goalkeeper,Goalkeeper
+466794,Spain,Defender,Centre-Back
+466801,Spain,Midfield,Central Midfield
+466802,Spain,Midfield,Central Midfield
+466805,Spain,Midfield,Defensive Midfield
+466807,Spain,Defender,Right-Back
+466810,Spain,Attack,Left Winger
+467434,Germany,Midfield,Central Midfield
+467437,United States,Midfield,Attacking Midfield
+467563,Germany,Defender,Centre-Back
+467623,South Africa,Attack,Centre-Forward
+467632,Venezuela,Midfield,Central Midfield
+467720,Germany,Attack,Centre-Forward
+467992,Italy,Midfield,Defensive Midfield
+468002,England,Defender,Right-Back
+468066,Sweden,Midfield,Defensive Midfield
+468198,Nigeria,Midfield,Central Midfield
+468301,Brazil,Midfield,Central Midfield
+468309,Brazil,Defender,Right-Back
+468539,Israel,Goalkeeper,Goalkeeper
+469050,Ireland,Defender,Centre-Back
+469211,New Zealand,Defender,Left-Back
+469669,Cameroon,Midfield,Defensive Midfield
+469709,Slovenia,Defender,Centre-Back
+469781,Argentina,Defender,Centre-Back
+469787,Türkiye,Midfield,Central Midfield
+469822,Brazil,Attack,Right Winger
+470038,Ghana,Attack,Centre-Forward
+470394,Netherlands,Midfield,Central Midfield
+470607,Wales,Attack,Right Winger
+470794,Serbia,Midfield,Central Midfield
+471055,Germany,Attack,Centre-Forward
+471690,England,Defender,Right-Back
+471890,Germany,Defender,Centre-Back
+471936,Denmark,Goalkeeper,Goalkeeper
+472249,Germany,Attack,Right Winger
+472423,England,Defender,Right-Back
+473050,Germany,Attack,Left Winger
+473169,Netherlands,Attack,Centre-Forward
+474662,France,Midfield,Central Midfield
+474701,Netherlands,Attack,Left Winger
+474800,Argentina,Defender,Centre-Back
+475188,England,Midfield,Central Midfield
+475208,United States,Defender,Right-Back
+475410,France,Midfield,Attacking Midfield
+475411,France,Defender,Centre-Back
+475413,France,Defender,Right-Back
+475416,Wales,Attack,Left Winger
+475959,Croatia,Defender,Centre-Back
+476219,North Macedonia,Attack,Centre-Forward
+476344,Brazil,Defender,Right-Back
+476352,Brazil,Defender,Left-Back
+476701,Uruguay,Midfield,Defensive Midfield
+476836,Norway,Midfield,Right Midfield
+477758,DR Congo,Defender,Right-Back
+478365,Portugal,Defender,Left-Back
+478573,Netherlands,Midfield,Defensive Midfield
+479648,Portugal,Attack,Left Winger
+479999,England,Midfield,Attacking Midfield
+480116,England,Defender,Centre-Back
+480267,Uruguay,Defender,Centre-Back
+480692,Colombia,Attack,Left Winger
+480762,Argentina,Defender,Centre-Back
+480763,Argentina,Defender,Centre-Back
+480883,Spain,Attack,Centre-Forward
+481084,Brazil,Attack,Centre-Forward
+481173,Guinea,Midfield,Central Midfield
+481513,Cote d'Ivoire,Defender,Right-Back
+481623,Portugal,Defender,Right-Back
+481675,Greece,Goalkeeper,Goalkeeper
+481834,Italy,Defender,Centre-Back
+483046,Croatia,Defender,Right-Back
+483348,England,Defender,Left-Back
+484547,Netherlands,Defender,Right-Back
+484988,Cape Verde,Defender,Centre-Back
+484992,Morocco,Midfield,Central Midfield
+485395,Sweden,Defender,Centre-Back
+485424,Mali,Attack,Left Winger
+485583,Netherlands,Defender,Right-Back
+485584,Morocco,Defender,Left-Back
+485585,Netherlands,Defender,Left-Back
+485706,Belgium,Midfield,Defensive Midfield
+485960,France,Defender,Centre-Back
+485963,Senegal,Midfield,Central Midfield
+485965,France,Defender,Centre-Back
+486031,Argentina,Attack,Left Winger
+486046,Belgium,Goalkeeper,Goalkeeper
+486049,Belgium,Attack,Left Winger
+486144,Poland,Goalkeeper,Goalkeeper
+486624,The Gambia,Attack,Left Winger
+487465,Portugal,Attack,Right Winger
+487469,Portugal,Midfield,Defensive Midfield
+487474,Portugal,Attack,Right Winger
+487834,Italy,Defender,Centre-Back
+487843,Italy,Attack,Centre-Forward
+487850,England,Attack,Right Winger
+487969,France,Attack,Centre-Forward
+488362,England,Midfield,Central Midfield
+488626,Spain,Defender,Right-Back
+488755,Croatia,Defender,Centre-Back
+488785,Denmark,Defender,Left-Back
+488996,Iceland,Midfield,Central Midfield
+489359,Japan,Midfield,Central Midfield
+489463,Japan,Attack,Centre-Forward
+490223,Mali,Attack,Centre-Forward
+490384,Belgium,Defender,Centre-Back
+490417,Senegal,Attack,Centre-Forward
+490423,Belgium,Defender,Right-Back
+490426,Senegal,Midfield,Right Midfield
+491296,Morocco,Attack,Left Winger
+491693,Argentina,Defender,Centre-Back
+492319,Uruguay,Goalkeeper,Goalkeeper
+493003,Colombia,Defender,Right-Back
+493513,Estonia,Goalkeeper,Goalkeeper
+493702,Italy,Defender,Centre-Back
+494177,Norway,Attack,Centre-Forward
+494236,Madagascar,Defender,Centre-Back
+494237,Haiti,Attack,Centre-Forward
+494586,France,Defender,Centre-Back
+494880,Spain,Defender,Centre-Back
+495601,Spain,Defender,Right-Back
+495621,Spain,Midfield,Defensive Midfield
+495625,Spain,Defender,Centre-Back
+495629,Spain,Midfield,Defensive Midfield
+495666,France,Defender,Centre-Back
+495667,France,Midfield,Central Midfield
+495722,Colombia,Goalkeeper,Goalkeeper
+495839,Faroe Islands,Defender,Centre-Back
+496094,Germany,Attack,Right Winger
+496656,Japan,Midfield,Central Midfield
+496706,Tunisia,Defender,Centre-Back
+496745,Sweden,Defender,Right-Back
+496857,Kosovo,Attack,Right Winger
+497291,Argentina,Midfield,Central Midfield
+497663,Spain,Defender,Centre-Back
+498237,Angola,Defender,Centre-Back
+500053,Czech Republic,Midfield,Attacking Midfield
+500054,Czech Republic,Defender,Left-Back
+500067,Nigeria,Attack,Left Winger
+500689,Cote d'Ivoire,Attack,Right Winger
+501418,Spain,Defender,Left-Back
+501709,Canada,Attack,Centre-Forward
+502558,Norway,Defender,Centre-Back
+502670,Georgia,Attack,Left Winger
+502676,Georgia,Goalkeeper,Goalkeeper
+502722,Croatia,Midfield,Central Midfield
+502821,Italy,Defender,Left-Back
+503075,Sweden,Defender,Centre-Back
+503160,Germany,Midfield,Attacking Midfield
+503482,"Korea, South",Defender,Centre-Back
+503680,Wales,Defender,Left-Back
+503686,Northern Ireland,Defender,Centre-Back
+503733,England,Attack,Left Winger
+503743,England,Midfield,Attacking Midfield
+503749,England,Midfield,Central Midfield
+503770,United States,Attack,Centre-Forward
+503866,Denmark,Midfield,Attacking Midfield
+503871,Denmark,Midfield,Defensive Midfield
+503881,Belgium,Midfield,Central Midfield
+503883,Belgium,Goalkeeper,Goalkeeper
+503977,England,Defender,Centre-Back
+503981,England,Defender,Right-Back
+503987,England,Attack,Right Winger
+503991,United States,Midfield,Central Midfield
+504087,Portugal,Defender,Centre-Back
+504148,Ghana,Defender,Right-Back
+504153,United States,Defender,Right-Back
+504209,United States,Midfield,Central Midfield
+504215,United States,Midfield,Attacking Midfield
+504849,Japan,Attack,Left Winger
+505194,England,Defender,Left-Back
+505219,England,Midfield,Defensive Midfield
+505653,Portugal,Attack,Centre-Forward
+505674,Spain,Attack,Centre-Forward
+506189,England,Midfield,Defensive Midfield
+506248,Spain,Midfield,Central Midfield
+507341,Switzerland,Midfield,Attacking Midfield
+507344,Switzerland,Defender,Centre-Back
+507345,Switzerland,Defender,Right-Back
+507486,Switzerland,Midfield,Central Midfield
+509022,Italy,Defender,Centre-Back
+509463,Senegal,Midfield,Left Midfield
+510396,Spain,Defender,Centre-Back
+511021,Spain,Attack,Right Winger
+512352,Germany,Defender,Right-Back
+512385,Colombia,Attack,Left Winger
+512913,Canada,Midfield,Central Midfield
+513031,Spain,Midfield,Central Midfield
+513245,Denmark,Attack,Right Winger
+513970,Mexico,Defender,Right-Back
+514285,Netherlands,Defender,Left-Back
+514888,Denmark,Midfield,Central Midfield
+515544,Northern Ireland,Defender,Right-Back
+516716,Brazil,Defender,Centre-Back
+517753,Spain,Midfield,Central Midfield
+517842,Spain,Defender,Left-Back
+517894,Brazil,Attack,Centre-Forward
+518505,Germany,Attack,Right Winger
+518644,Belgium,Attack,Left Winger
+519184,Bosnia-Herzegovina,Defender,Right-Back
+520468,Brazil,Defender,Left-Back
+520492,Brazil,Defender,Left-Back
+520530,Guinea-Bissau,Defender,Centre-Back
+520624,Brazil,Midfield,Central Midfield
+520662,Brazil,Attack,Right Winger
+520840,Spain,Defender,Centre-Back
+521127,Morocco,Attack,Centre-Forward
+521407,Morocco,Attack,Centre-Forward
+521964,Germany,Defender,Centre-Back
+522223,Australia,Midfield,Central Midfield
+522784,Argentina,Attack,Centre-Forward
+523318,Greece,Attack,Centre-Forward
+524000,Spain,Defender,Centre-Back
+524010,Spain,Midfield,Central Midfield
+524285,Germany,Defender,Left-Back
+524290,Kosovo,Attack,Centre-Forward
+524315,Japan,Midfield,Central Midfield
+524481,Brazil,Defender,Centre-Back
+524925,Mali,Defender,Centre-Back
+525140,Central African Republic,Attack,Centre-Forward
+525155,France,Goalkeeper,Goalkeeper
+525247,England,Defender,Centre-Back
+525287,Brazil,Attack,Centre-Forward
+525299,Spain,Defender,Left-Back
+525578,Senegal,Midfield,Central Midfield
+525704,Italy,Midfield,Defensive Midfield
+526050,Honduras,Midfield,Defensive Midfield
+526466,Tunisia,Attack,Left Winger
+526845,Germany,Goalkeeper,Goalkeeper
+527350,Spain,Attack,Second Striker
+527425,England,Defender,Centre-Back
+527698,Spain,Midfield,Central Midfield
+527966,Romania,Defender,Right-Back
+528181,Italy,Goalkeeper,Goalkeeper
+528833,Serbia,Midfield,Attacking Midfield
+529895,Libya,Defender,Centre-Back
+530173,Germany,Midfield,Defensive Midfield
+530742,Nigeria,Midfield,Central Midfield
+531065,Morocco,Midfield,Defensive Midfield
+531404,Spain,Midfield,Defensive Midfield
+531949,Cameroon,Attack,Centre-Forward
+532775,France,Defender,Left-Back
+532776,Morocco,Attack,Left Winger
+532826,England,Attack,Right Winger
+532937,Mexico,Defender,Centre-Back
+533295,Austria,Attack,Right Winger
+533354,Malaysia,Defender,Centre-Back
+533568,Argentina,Defender,Right-Back
+533662,England,Attack,Centre-Forward
+533738,Canada,Attack,Centre-Forward
+534033,Argentina,Midfield,Central Midfield
+535469,Romania,Attack,Left Winger
+535551,Poland,Attack,Centre-Forward
+535820,Sweden,Attack,Left Winger
+535955,Portugal,Defender,Left-Back
+536477,Burkina Faso,Defender,Left-Back
+536482,Cameroon,Midfield,Right Midfield
+536507,France,Defender,Centre-Back
+536508,France,Midfield,Central Midfield
+536835,Cote d'Ivoire,Attack,Right Winger
+537127,France,Defender,Left-Back
+537382,Spain,Attack,Left Winger
+537598,Portugal,Midfield,Attacking Midfield
+537602,Portugal,Defender,Right-Back
+537762,Spain,Midfield,Attacking Midfield
+537844,Ukraine,Goalkeeper,Goalkeeper
+537852,Ukraine,Midfield,Central Midfield
+537854,Ukraine,Midfield,Attacking Midfield
+538006,Ghana,Midfield,Central Midfield
+538874,Nigeria,Attack,Centre-Forward
+538918,Italy,Attack,Second Striker
+538964,Netherlands,Attack,Centre-Forward
+538971,France,Midfield,Central Midfield
+538974,Martinique,Attack,Centre-Forward
+538977,France,Attack,Centre-Forward
+538994,France,Midfield,Defensive Midfield
+538996,France,Defender,Centre-Back
+538998,France,Defender,Right-Back
+539065,France,Midfield,Defensive Midfield
+539134,Italy,Midfield,Attacking Midfield
+539232,France,Midfield,Central Midfield
+539665,Norway,Defender,Left-Back
+539795,Switzerland,Defender,Centre-Back
+539798,Switzerland,Defender,Centre-Back
+540056,Georgia,Defender,Right-Back
+540333,Slovakia,Midfield,Attacking Midfield
+540536,Spain,Attack,Right Winger
+540664,France,Attack,Right Winger
+540941,Denmark,Midfield,Attacking Midfield
+541231,Netherlands,Defender,Centre-Back
+541537,Türkiye,Attack,Left Winger
+541555,Cameroon,Defender,Centre-Back
+542452,Denmark,Goalkeeper,Goalkeeper
+543051,Algeria,Attack,Right Winger
+543382,Mali,Midfield,Defensive Midfield
+543387,Mali,Midfield,Defensive Midfield
+543499,Ghana,Attack,Right Winger
+543537,Guinea,Midfield,Central Midfield
+543666,Italy,Goalkeeper,Goalkeeper
+543727,Hungary,Defender,Centre-Back
+543771,Albania,Midfield,Defensive Midfield
+544148,Czech Republic,Attack,Centre-Forward
+544149,Czech Republic,Defender,Centre-Back
+544784,Nigeria,Defender,Left-Back
+545332,Denmark,Attack,Centre-Forward
+545538,Zambia,Attack,Left Winger
+545647,Spain,Defender,Right-Back
+546213,Brazil,Defender,Centre-Back
+546543,Uruguay,Attack,Centre-Forward
+546880,France,Midfield,Right Midfield
+546926,Indonesia,Defender,Centre-Back
+547985,Italy,Defender,Left-Back
+548111,Spain,Attack,Left Winger
+548188,Spain,Attack,Left Winger
+548254,Belgium,Defender,Centre-Back
+548348,France,Defender,Right-Back
+548729,Switzerland,Attack,Centre-Forward
+549006,Portugal,Defender,Centre-Back
+549027,Portugal,Midfield,Central Midfield
+550106,Italy,Attack,Right Winger
+550108,Poland,Midfield,Left Midfield
+550550,Portugal,Attack,Centre-Forward
+550580,Japan,Attack,Centre-Forward
+550829,Czech Republic,Goalkeeper,Goalkeeper
+551505,Jordan,Attack,Right Winger
+552057,Czech Republic,Attack,Centre-Forward
+552223,Serbia,Goalkeeper,Goalkeeper
+552425,Spain,Midfield,Central Midfield
+552472,Argentina,Midfield,Defensive Midfield
+552549,Brazil,Midfield,Central Midfield
+552955,Mexico,Attack,Centre-Forward
+553062,Brazil,Midfield,Defensive Midfield
+553285,Germany,Attack,Centre-Forward
+553469,Brazil,Midfield,Central Midfield
+553663,Argentina,Defender,Left-Back
+553875,Spain,Defender,Right-Back
+554389,Greece,Goalkeeper,Goalkeeper
+554903,Italy,Attack,Centre-Forward
+555015,Brazil,Defender,Centre-Back
+555076,France,Midfield,Attacking Midfield
+555143,Russia,Midfield,Attacking Midfield
+555500,Spain,Defender,Centre-Back
+555820,Argentina,Midfield,Central Midfield
+556385,Italy,Defender,Left-Back
+557057,Spain,Attack,Left Winger
+557149,"Korea, South",Midfield,Attacking Midfield
+557407,Netherlands,Defender,Right-Back
+557459,Netherlands,Defender,Centre-Back
+557612,France,Attack,Centre-Forward
+557613,France,Defender,Left-Back
+559263,Portugal,Midfield,Attacking Midfield
+559327,Netherlands,Defender,Centre-Back
+559328,Netherlands,Attack,Centre-Forward
+559794,England,Attack,Left Winger
+559979,Morocco,Defender,Centre-Back
+560417,Brazil,Attack,Centre-Forward
+560483,Angola,Midfield,Attacking Midfield
+560593,Algeria,Midfield,Central Midfield
+561613,Spain,Goalkeeper,Goalkeeper
+562049,Italy,Midfield,Central Midfield
+562742,Spain,Goalkeeper,Goalkeeper
+563137,Spain,Attack,Right Winger
+563963,Ghana,Defender,Centre-Back
+564305,France,Midfield,Central Midfield
+564529,Denmark,Defender,Left-Back
+564545,Burkina Faso,Defender,Centre-Back
+564785,Norway,Midfield,Central Midfield
+565093,Netherlands,Goalkeeper,Goalkeeper
+565424,Belgium,Attack,Right Winger
+565435,Belgium,Midfield,Central Midfield
+565821,Denmark,Attack,Centre-Forward
+565822,England,Midfield,Attacking Midfield
+566025,Egypt,Defender,Centre-Back
+566574,Spain,Midfield,Attacking Midfield
+566615,Iceland,Midfield,Central Midfield
+566723,France,Attack,Right Winger
+566799,England,Goalkeeper,Goalkeeper
+566931,Netherlands,Midfield,Attacking Midfield
+567129,Scotland,Defender,Left-Back
+567217,The Gambia,Attack,Left Winger
+567576,England,Midfield,Central Midfield
+568157,Spain,Attack,Right Winger
+568158,Spain,Defender,Left-Back
+568177,England,Midfield,Attacking Midfield
+568333,Slovakia,Defender,Left-Back
+568559,Romania,Defender,Centre-Back
+568617,Romania,Goalkeeper,Goalkeeper
+568693,Senegal,Midfield,Central Midfield
+568696,Senegal,Attack,Left Winger
+568698,Senegal,Attack,Left Winger
+568835,Spain,Midfield,Central Midfield
+569031,Germany,Midfield,Central Midfield
+569033,Germany,Attack,Second Striker
+569140,Mali,Attack,Centre-Forward
+569366,France,Midfield,Attacking Midfield
+569383,France,Defender,Centre-Back
+569384,France,Midfield,Defensive Midfield
+569387,France,Defender,Right-Back
+569389,Morocco,Attack,Left Winger
+569598,France,Midfield,Defensive Midfield
+569845,Belgium,Midfield,Defensive Midfield
+569866,Spain,Midfield,Attacking Midfield
+569939,Italy,Defender,Right-Back
+570817,Belgium,Defender,Right-Back
+571020,Spain,Midfield,Attacking Midfield
+571271,Croatia,Defender,Right-Back
+571604,Italy,Defender,Centre-Back
+571607,Italy,Midfield,Central Midfield
+571743,Albania,Attack,Centre-Forward
+572265,Italy,Attack,Centre-Forward
+572326,Cameroon,Defender,Centre-Back
+572675,Uruguay,Defender,Left-Back
+573775,Spain,Attack,Centre-Forward
+574385,Denmark,Attack,Left Winger
+574671,Serbia,Defender,Centre-Back
+574772,Brazil,Attack,Centre-Forward
+575998,Argentina,Defender,Centre-Back
+576024,Argentina,Attack,Centre-Forward
+576028,Argentina,Attack,Left Winger
+576314,Netherlands,Defender,Centre-Back
+578391,Algeria,Defender,Left-Back
+578392,Germany,Attack,Centre-Forward
+578419,Uruguay,Attack,Centre-Forward
+578421,Netherlands,Defender,Centre-Back
+578539,United States,Defender,Centre-Back
+578872,Brazil,Midfield,Central Midfield
+579287,Sweden,Defender,Left-Back
+579459,Kosovo,Defender,Centre-Back
+579565,Iceland,Midfield,Central Midfield
+579928,Sweden,Attack,Left Winger
+579930,France,Attack,Left Winger
+580193,Germany,Defender,Centre-Back
+580195,Germany,Midfield,Attacking Midfield
+580451,Croatia,Midfield,Attacking Midfield
+580560,Spain,Defender,Centre-Back
+580657,Morocco,Attack,Left Winger
+580747,Guadeloupe,Defender,Right-Back
+580978,Greece,Midfield,Central Midfield
+581357,Germany,Midfield,Central Midfield
+581672,England,Midfield,Left Midfield
+581678,England,Midfield,Attacking Midfield
+581781,France,Midfield,Central Midfield
+583046,Albania,Midfield,Central Midfield
+583189,Sweden,Attack,Right Winger
+583199,England,Midfield,Attacking Midfield
+583255,Ghana,Attack,Right Winger
+583404,Norway,Defender,Right-Back
+583510,Spain,Defender,Centre-Back
+583699,Serbia,Attack,Centre-Forward
+584769,England,Attack,Left Winger
+585323,Denmark,Goalkeeper,Goalkeeper
+585550,Ireland,Goalkeeper,Goalkeeper
+585700,Spain,Attack,Left Winger
+585949,France,Defender,Centre-Back
+585959,France,Attack,Centre-Forward
+585973,France,Midfield,Defensive Midfield
+585982,Brazil,Defender,Left-Back
+586429,Netherlands,Defender,Centre-Back
+586853,Portugal,Attack,Centre-Forward
+588426,Equatorial Guinea,Defender,Centre-Back
+588989,Colombia,Attack,Right Winger
+589128,Japan,Attack,Centre-Forward
+590690,Spain,Attack,Right Winger
+591193,France,Defender,Left-Back
+591361,Netherlands,Defender,Centre-Back
+591916,Spain,Defender,Centre-Back
+591949,Scotland,Defender,Right-Back
+591957,Spain,Defender,Left-Back
+592387,Norway,Defender,Right-Back
+592534,Germany,Midfield,Defensive Midfield
+592735,Ecuador,Attack,Right Winger
+592975,Mali,Defender,Right-Back
+592979,Algeria,Midfield,Attacking Midfield
+593412,Morocco,Attack,Left Winger
+593482,Morocco,Midfield,Central Midfield
+593862,Netherlands,Defender,Centre-Back
+594991,Guinea,Attack,Centre-Forward
+595650,Serbia,Attack,Centre-Forward
+595809,Guinea-Bissau,Attack,Centre-Forward
+596122,Spain,Defender,Left-Back
+596153,Germany,Attack,Right Winger
+596446,England,Defender,Left-Back
+597000,Germany,Midfield,Defensive Midfield
+597432,Austria,Defender,Centre-Back
+597659,England,Defender,Centre-Back
+597880,Ukraine,Goalkeeper,Goalkeeper
+598577,Germany,Midfield,Attacking Midfield
+599231,Spain,Attack,Right Winger
+599419,Germany,Defender,Centre-Back
+599733,Poland,Defender,Right-Back
+600041,Italy,Attack,Left Winger
+601143,Austria,Midfield,Right Midfield
+601883,Portugal,Defender,Right-Back
+602105,Brazil,Attack,Right Winger
+602124,Italy,Midfield,Central Midfield
+603696,Spain,Midfield,Central Midfield
+603940,Spain,Defender,Right-Back
+604113,Germany,Defender,Centre-Back
+604320,Germany,Defender,Left-Back
+605184,France,Defender,Centre-Back
+605265,Germany,Defender,Left-Back
+605268,Croatia,Attack,Centre-Forward
+605396,Sweden,Defender,Left-Back
+606119,Germany,Attack,Centre-Forward
+606718,Portugal,Defender,Centre-Back
+606752,Uruguay,Midfield,Attacking Midfield
+607034,Nigeria,Attack,Centre-Forward
+607223,France,Midfield,Attacking Midfield
+607224,Tunisia,Midfield,Attacking Midfield
+607226,France,Attack,Right Winger
+607720,Germany,Goalkeeper,Goalkeeper
+607854,Brazil,Midfield,Central Midfield
+608172,Switzerland,Midfield,Defensive Midfield
+608832,Germany,Midfield,Attacking Midfield
+609556,Denmark,Attack,Centre-Forward
+610083,Spain,Midfield,Central Midfield
+610442,Denmark,Attack,Centre-Forward
+610795,Japan,Defender,Centre-Back
+610849,England,Attack,Centre-Forward
+611049,Czech Republic,Midfield,Central Midfield
+611793,England,Defender,Centre-Back
+612517,England,Defender,Centre-Back
+612826,DR Congo,Attack,Right Winger
+613192,"Korea, South",Midfield,Central Midfield
+613393,Italy,Midfield,Attacking Midfield
+613725,Türkiye,Midfield,Defensive Midfield
+614258,England,Defender,Centre-Back
+615350,Türkiye,Defender,Centre-Back
+616341,Portugal,Defender,Left-Back
+616344,Portugal,Attack,Right Winger
+616369,Spain,Attack,Left Winger
+616631,Italy,Defender,Left-Back
+617018,New Zealand,Midfield,Central Midfield
+617060,Spain,Defender,Centre-Back
+617074,Guinea,Midfield,Central Midfield
+617081,Spain,Attack,Right Winger
+618341,Spain,Defender,Centre-Back
+618350,Croatia,Attack,Centre-Forward
+618425,France,Attack,Right Winger
+618472,France,Defender,Centre-Back
+618494,England,Midfield,Defensive Midfield
+618809,Spain,Defender,Left-Back
+618813,Spain,Attack,Left Winger
+619461,Cote d'Ivoire,Attack,Centre-Forward
+620164,Egypt,Attack,Right Winger
+620217,Czech Republic,Defender,Centre-Back
+620295,Germany,Goalkeeper,Goalkeeper
+620313,France,Midfield,Defensive Midfield
+620322,France,Defender,Right-Back
+620477,Brazil,Attack,Centre-Forward
+620598,Belgium,Defender,Centre-Back
+621802,Belgium,Defender,Left-Back
+621993,Ireland,Defender,Centre-Back
+622380,Italy,Midfield,Central Midfield
+622988,Spain,Attack,Right Winger
+623024,Spain,Defender,Left-Back
+623325,Ukraine,Midfield,Attacking Midfield
+623521,Spain,Attack,Centre-Forward
+623570,Senegal,Attack,Right Winger
+623773,United States,Defender,Left-Back
+624037,France,Midfield,Defensive Midfield
+624258,Northern Ireland,Defender,Right-Back
+624690,France,Midfield,Central Midfield
+624942,Spain,Attack,Left Winger
+625014,Spain,Goalkeeper,Goalkeeper
+625047,Spain,Midfield,Central Midfield
+625202,Argentina,Defender,Centre-Back
+625651,Spain,Midfield,Defensive Midfield
+625660,Spain,Midfield,Central Midfield
+626724,Brazil,Attack,Centre-Forward
+626913,Senegal,Attack,Centre-Forward
+626953,Spain,Defender,Right-Back
+627207,United States,Attack,Centre-Forward
+627228,Brazil,Defender,Right-Back
+627248,England,Attack,Left Winger
+627290,Spain,Defender,Centre-Back
+627442,Slovenia,Attack,Centre-Forward
+627626,Italy,Attack,Right Winger
+628366,Argentina,Attack,Centre-Forward
+628451,Belgium,Midfield,Defensive Midfield
+628498,Spain,Attack,Right Winger
+628886,Spain,Attack,Centre-Forward
+629588,Cameroon,Attack,Right Winger
+629773,Czech Republic,Goalkeeper,Goalkeeper
+631002,Spain,Attack,Centre-Forward
+631007,Italy,Defender,Centre-Back
+631222,Spain,Defender,Centre-Back
+631404,France,Midfield,Central Midfield
+631821,Ukraine,Attack,Centre-Forward
+631927,Saudi Arabia,Defender,Right-Back
+632349,England,Defender,Centre-Back
+632741,Spain,Attack,Second Striker
+632831,Italy,Defender,Centre-Back
+632896,Spain,Defender,Centre-Back
+633454,Sweden,Attack,Right Winger
+633530,Zimbabwe,Defender,Left-Back
+633668,Italy,Midfield,Attacking Midfield
+633992,France,Midfield,Central Midfield
+634131,Spain,Midfield,Attacking Midfield
+634427,Spain,Attack,Right Winger
+634431,Spain,Midfield,Central Midfield
+634461,Spain,Attack,Left Winger
+635336,Morocco,Midfield,Central Midfield
+635645,Switzerland,Defender,Centre-Back
+636093,Spain,Defender,Centre-Back
+636688,Spain,Defender,Left-Back
+636695,Spain,Midfield,Defensive Midfield
+636703,Spain,Midfield,Attacking Midfield
+637446,Canada,Defender,Right-Back
+638124,Spain,Defender,Centre-Back
+638793,Canada,Attack,Right Winger
+639414,"Korea, South",Defender,Right-Back
+639712,France,Defender,Centre-Back
+639733,Spain,Attack,Second Striker
+640109,Uruguay,Attack,Centre-Forward
+640428,France,Midfield,Central Midfield
+640556,Netherlands,Defender,Centre-Back
+641537,Italy,Midfield,Attacking Midfield
+642002,France,Midfield,Defensive Midfield
+643574,Japan,Midfield,Defensive Midfield
+644032,Senegal,Midfield,Defensive Midfield
+644401,England,Midfield,Left Midfield
+644408,Denmark,Defender,Centre-Back
+644771,Cote d'Ivoire,Defender,Centre-Back
+645589,Tunisia,Attack,Left Winger
+645686,Netherlands,Midfield,Defensive Midfield
+645774,Türkiye,Attack,Right Winger
+646402,Brazil,Defender,Left-Back
+646658,England,Midfield,Attacking Midfield
+646733,Gabon,Attack,Right Winger
+646738,Spain,Defender,Left-Back
+646740,Spain,Midfield,Central Midfield
+646747,Spain,Defender,Left-Back
+646750,Spain,Defender,Centre-Back
+646829,Ghana,Defender,Centre-Back
+646991,Netherlands,Goalkeeper,Goalkeeper
+647280,Scotland,Attack,Centre-Forward
+647435,England,Attack,Right Winger
+648020,Brazil,Defender,Centre-Back
+648046,Ireland,Attack,Centre-Forward
+648195,Argentina,Midfield,Central Midfield
+648779,Cote d'Ivoire,Defender,Right-Back
+649016,Mali,Attack,Left Winger
+649020,Mali,Midfield,Defensive Midfield
+649023,Senegal,Defender,Centre-Back
+649026,Senegal,Defender,Centre-Back
+649033,Senegal,Midfield,Defensive Midfield
+649317,Colombia,Attack,Centre-Forward
+649452,Burkina Faso,Defender,Right-Back
+649672,Argentina,Defender,Centre-Back
+650350,France,Midfield,Central Midfield
+650568,Portugal,Defender,Centre-Back
+651005,Italy,Midfield,Central Midfield
+651269,Bosnia-Herzegovina,Midfield,Central Midfield
+651569,Colombia,Attack,Centre-Forward
+651735,Norway,Midfield,Central Midfield
+652054,Czech Republic,Defender,Centre-Back
+652061,Czech Republic,Midfield,Attacking Midfield
+652275,Iceland,Midfield,Attacking Midfield
+652331,Spain,Defender,Right-Back
+653610,Brazil,Attack,Left Winger
+654234,Germany,Midfield,Attacking Midfield
+654415,France,Midfield,Left Midfield
+654539,France,Defender,Left-Back
+654982,Morocco,Midfield,Attacking Midfield
+654991,Belgium,Attack,Left Winger
+655006,Belgium,Midfield,Left Midfield
+655012,Belgium,Attack,Centre-Forward
+655217,Austria,Defender,Centre-Back
+655488,Brazil,Attack,Left Winger
+656316,United States,Goalkeeper,Goalkeeper
+656441,Cameroon,Midfield,Defensive Midfield
+656681,Nigeria,Attack,Centre-Forward
+657430,Portugal,Midfield,Defensive Midfield
+658115,Spain,Defender,Left-Back
+658531,Cote d'Ivoire,Midfield,Central Midfield
+658536,Cote d'Ivoire,Attack,Left Winger
+659089,Ukraine,Defender,Centre-Back
+659459,Austria,Midfield,Central Midfield
+659513,France,Defender,Centre-Back
+659516,France,Midfield,Central Midfield
+659518,France,Midfield,Attacking Midfield
+659520,Morocco,Midfield,Central Midfield
+659542,Cote d'Ivoire,Attack,Centre-Forward
+659543,France,Attack,Centre-Forward
+659813,Ecuador,Defender,Centre-Back
+660438,Iceland,Attack,Centre-Forward
+660860,Italy,Defender,Centre-Back
+660867,Paraguay,Midfield,Attacking Midfield
+661053,England,Defender,Centre-Back
+661145,Venezuela,Defender,Right-Back
+661171,Ecuador,Defender,Centre-Back
+661207,Norway,Attack,Right Winger
+661427,Norway,Defender,Left-Back
+662242,Senegal,Midfield,Central Midfield
+662261,Spain,Defender,Centre-Back
+663237,Sweden,Attack,Left Winger
+663244,Portugal,Attack,Left Winger
+663581,Brazil,Midfield,Defensive Midfield
+664708,Argentina,Midfield,Defensive Midfield
+665390,England,Attack,Left Winger
+666234,France,Defender,Centre-Back
+666547,Angola,Attack,Right Winger
+666974,Senegal,Defender,Centre-Back
+667121,Portugal,Midfield,Left Midfield
+667251,Sweden,Attack,Left Winger
+667287,Sweden,Midfield,Central Midfield
+667457,Kosovo,Midfield,Defensive Midfield
+667517,Wales,Midfield,Central Midfield
+667965,Morocco,Midfield,Defensive Midfield
+667967,Morocco,Midfield,Central Midfield
+668167,Algeria,Defender,Centre-Back
+668179,Spain,Midfield,Attacking Midfield
+668183,Spain,Attack,Left Winger
+668207,Croatia,Midfield,Central Midfield
+668547,Argentina,Midfield,Defensive Midfield
+668606,Japan,Attack,Second Striker
+668951,Argentina,Attack,Right Winger
+669380,Greece,Defender,Centre-Back
+670096,United States,Midfield,Defensive Midfield
+670681,Portugal,Midfield,Central Midfield
+670688,Portugal,Attack,Centre-Forward
+670717,Portugal,Midfield,Defensive Midfield
+670847,France,Attack,Right Winger
+670858,England,Defender,Left-Back
+670882,England,Attack,Left Winger
+671108,Japan,Defender,Centre-Back
+671590,Mali,Defender,Left-Back
+671594,Mali,Midfield,Attacking Midfield
+671649,Guinea-Bissau,Attack,Left Winger
+671915,Argentina,Midfield,Defensive Midfield
+672381,England,Attack,Left Winger
+672803,Türkiye,Attack,Centre-Forward
+673492,Brazil,Defender,Centre-Back
+673514,Senegal,Defender,Centre-Back
+674612,Burundi,Defender,Centre-Back
+674806,Argentina,Attack,Right Winger
+676042,Spain,Defender,Right-Back
+676318,Uruguay,Attack,Right Winger
+676411,Cape Verde,Attack,Centre-Forward
+678406,Spain,Defender,Left-Back
+678479,Bosnia-Herzegovina,Midfield,Central Midfield
+678655,Nigeria,Attack,Left Winger
+679423,Bosnia-Herzegovina,Defender,Centre-Back
+680806,England,Attack,Left Winger
+683571,Nigeria,Attack,Centre-Forward
+683620,Netherlands,Midfield,Attacking Midfield
+683840,Spain,Midfield,Central Midfield
+683895,Cote d'Ivoire,Defender,Centre-Back
+684210,England,Attack,Left Winger
+684315,Germany,Defender,Centre-Back
+686806,Liberia,Defender,Centre-Back
+686965,Colombia,Defender,Left-Back
+687609,Spain,Attack,Centre-Forward
+687626,Ecuador,Midfield,Defensive Midfield
+688707,Ghana,Midfield,Defensive Midfield
+689505,United States,Midfield,Central Midfield
+689637,Morocco,Defender,Centre-Back
+690799,France,Defender,Centre-Back
+691316,Brazil,Midfield,Right Midfield
+691482,Italy,Midfield,Central Midfield
+691786,Guinea,Attack,Right Winger
+691841,France,Defender,Left-Back
+691892,Germany,Defender,Left-Back
+691958,Guadeloupe,Midfield,Central Midfield
+692070,Germany,Defender,Centre-Back
+692737,Germany,Midfield,Defensive Midfield
+693095,England,Defender,Centre-Back
+694507,France,Attack,Right Winger
+694509,Mali,Defender,Centre-Back
+694928,Brazil,Attack,Left Winger
+696164,Germany,Defender,Centre-Back
+696589,England,Midfield,Central Midfield
+697277,Japan,Midfield,Central Midfield
+698164,England,Midfield,Defensive Midfield
+698259,Denmark,Defender,Centre-Back
+698678,Spain,Defender,Left-Back
+699442,Poland,Midfield,Attacking Midfield
+699704,Spain,Midfield,Attacking Midfield
+699783,Nigeria,Midfield,Defensive Midfield
+700106,Germany,Midfield,Attacking Midfield
+701055,Denmark,Defender,Right-Back
+701057,England,Defender,Right-Back
+701819,Italy,Defender,Centre-Back
+701979,Mozambique,Attack,Right Winger
+702441,Cote d'Ivoire,Defender,Centre-Back
+702869,Morocco,Midfield,Attacking Midfield
+704155,Benin,Attack,Centre-Forward
+704270,Senegal,Attack,Centre-Forward
+705063,Italy,Midfield,Left Midfield
+705395,Spain,Defender,Centre-Back
+705813,Spain,Defender,Right-Back
+706024,Serbia,Defender,Centre-Back
+707242,Algeria,Attack,Right Winger
+707274,Spain,Defender,Centre-Back
+707572,Spain,Attack,Centre-Forward
+707809,Belgium,Defender,Centre-Back
+707844,Belgium,Midfield,Defensive Midfield
+708072,Italy,Defender,Right-Back
+708086,Italy,Defender,Right-Back
+708265,France,Attack,Left Winger
+708635,Italy,Midfield,Left Midfield
+708678,France,Defender,Centre-Back
+709187,Spain,Attack,Left Winger
+709372,Spain,Defender,Left-Back
+709726,France,Attack,Centre-Forward
+709957,Spain,Defender,Left-Back
+709969,Morocco,Attack,Right Winger
+710004,Dominican Republic,Attack,Right Winger
+710671,Spain,Defender,Left-Back
+710677,Spain,Midfield,Defensive Midfield
+711337,Brazil,Attack,Centre-Forward
+711374,Spain,Midfield,Defensive Midfield
+711517,United States,Midfield,Left Midfield
+711544,Ireland,Defender,Right-Back
+711625,Spain,Defender,Right-Back
+711969,France,Defender,Right-Back
+711976,France,Midfield,Central Midfield
+711980,Cote d'Ivoire,Defender,Right-Back
+711996,Comoros,Defender,Centre-Back
+711999,France,Midfield,Defensive Midfield
+712107,Brazil,Goalkeeper,Goalkeeper
+713644,Spain,Attack,Left Winger
+715628,Spain,Midfield,Defensive Midfield
+716276,Colombia,Defender,Centre-Back
+717118,Cameroon,Defender,Left-Back
+717411,Ukraine,Midfield,Central Midfield
+717585,Cote d'Ivoire,Midfield,Defensive Midfield
+718034,Algeria,Attack,Left Winger
+718201,Spain,Attack,Centre-Forward
+718303,Netherlands,Attack,Right Winger
+719673,Scotland,Attack,Right Winger
+719999,Spain,Defender,Centre-Back
+720038,Spain,Midfield,Attacking Midfield
+720518,Spain,Attack,Centre-Forward
+724104,Italy,Defender,Centre-Back
+724106,Italy,Midfield,Defensive Midfield
+724129,Belgium,Attack,Centre-Forward
+724520,Morocco,Attack,Left Winger
+725912,Czech Republic,Goalkeeper,Goalkeeper
+726701,Portugal,Attack,Centre-Forward
+727089,DR Congo,Midfield,Central Midfield
+728485,Portugal,Defender,Right-Back
+728733,England,Defender,Right-Back
+729814,Georgia,Attack,Centre-Forward
+730484,Germany,Defender,Left-Back
+730581,France,Defender,Centre-Back
+730861,Hungary,Defender,Left-Back
+730893,England,Defender,Left-Back
+733576,Spain,Attack,Left Winger
+735568,Brazil,Defender,Centre-Back
+735570,Brazil,Midfield,Central Midfield
+735571,Brazil,Attack,Centre-Forward
+739443,Brazil,Attack,Centre-Forward
+739769,Algeria,Attack,Right Winger
+741142,Argentina,Defender,Centre-Back
+741238,England,Midfield,Attacking Midfield
+741257,Spain,Defender,Right-Back
+741258,Spain,Defender,Centre-Back
+741289,Morocco,Defender,Left-Back
+742201,Argentina,Attack,Right Winger
+742451,Portugal,Attack,Right Winger
+742521,Colombia,Midfield,Central Midfield
+742803,Argentina,Midfield,Defensive Midfield
+743091,Türkiye,Midfield,Central Midfield
+743384,Morocco,Attack,Right Winger
+743386,Belgium,Attack,Left Winger
+743387,Belgium,Midfield,Attacking Midfield
+743413,England,Defender,Left-Back
+743496,France,Midfield,Central Midfield
+743498,France,Attack,Left Winger
+743500,France,Defender,Right-Back
+743515,France,Goalkeeper,Goalkeeper
+743589,Brazil,Defender,Centre-Back
+743591,Brazil,Attack,Left Winger
+743597,Brazil,Midfield,Attacking Midfield
+743598,Brazil,Attack,Right Winger
+743599,Brazil,Attack,Centre-Forward
+743600,Brazil,Midfield,Central Midfield
+744149,England,Midfield,Defensive Midfield
+744728,Germany,Midfield,Attacking Midfield
+745173,France,Midfield,Central Midfield
+745181,France,Midfield,Defensive Midfield
+745191,Paraguay,Attack,Second Striker
+745200,France,Attack,Right Winger
+745461,Italy,Attack,Right Winger
+746695,Ghana,Attack,Left Winger
+746712,Italy,Defender,Centre-Back
+746833,United States,Defender,Left-Back
+746891,Australia,Midfield,Attacking Midfield
+746910,Algeria,Attack,Centre-Forward
+747009,Northern Ireland,Midfield,Attacking Midfield
+747720,Netherlands,Attack,Right Winger
+748319,Argentina,Midfield,Central Midfield
+748382,Sweden,Attack,Centre-Forward
+748804,Belgium,Attack,Left Winger
+749552,The Gambia,Attack,Left Winger
+750878,France,Goalkeeper,Goalkeeper
+750903,Algeria,Defender,Left-Back
+750904,France,Midfield,Right Midfield
+756990,Argentina,Midfield,Defensive Midfield
+763079,Uzbekistan,Defender,Centre-Back
+763182,Haiti,Attack,Right Winger
+764859,Sweden,Attack,Left Winger
+766412,France,Midfield,Right Midfield
+766583,Spain,Defender,Centre-Back
+768380,Senegal,Defender,Centre-Back
+770436,France,Midfield,Central Midfield
+775605,Spain,Midfield,Central Midfield
+776798,Senegal,Attack,Left Winger
+776890,Senegal,Attack,Centre-Forward
+777005,Germany,Midfield,Attacking Midfield
+780136,Serbia,Midfield,Defensive Midfield
+780548,Israel,Midfield,Attacking Midfield
+780630,France,Defender,Centre-Back
+782476,France,Attack,Left Winger
+782630,Morocco,Midfield,Central Midfield
+783094,Morocco,Midfield,Central Midfield
+783396,Spain,Midfield,Central Midfield
+785353,Spain,Midfield,Central Midfield
+786436,France,Defender,Centre-Back
+787151,Germany,Defender,Left-Back
+787232,Cote d'Ivoire,Attack,Centre-Forward
+787618,Argentina,Midfield,Attacking Midfield
+787912,France,Defender,Centre-Back
+789082,Brazil,Defender,Right-Back
+789252,Hungary,Midfield,Attacking Midfield
+792380,Germany,Midfield,Defensive Midfield
+794349,France,Defender,Centre-Back
+794758,Norway,Defender,Right-Back
+796213,Germany,Attack,Centre-Forward
+796297,England,Midfield,Central Midfield
+796865,France,Defender,Right-Back
+798043,Germany,Defender,Left-Back
+798404,Ghana,Defender,Centre-Back
+798925,Mali,Defender,Right-Back
+798929,Lithuania,Midfield,Central Midfield
+800175,Brazil,Attack,Right Winger
+800176,Brazil,Midfield,Defensive Midfield
+801734,France,Attack,Centre-Forward
+804219,Brazil,Midfield,Attacking Midfield
+804711,Mali,Defender,Centre-Back
+805714,Portugal,Defender,Centre-Back
+805886,France,Defender,Centre-Back
+805908,France,Defender,Left-Back
+806168,France,Defender,Right-Back
+806793,Cote d'Ivoire,Defender,Centre-Back
+807128,Guinea,Defender,Centre-Back
+807165,Cote d'Ivoire,Defender,Centre-Back
+807386,Denmark,Attack,Centre-Forward
+807688,Morocco,Midfield,Central Midfield
+807689,Cameroon,Attack,Centre-Forward
+808348,Mali,Midfield,Central Midfield
+808509,Brazil,Midfield,Central Midfield
+809498,Germany,Midfield,Central Midfield
+810092,France,Midfield,Central Midfield
+810411,France,Attack,Left Winger
+810649,Germany,Defender,Left-Back
+810895,Morocco,Attack,Left Winger
+811778,Spain,Defender,Left-Back
+811779,Argentina,Attack,Left Winger
+812625,Uruguay,Attack,Centre-Forward
+813137,Italy,Midfield,Central Midfield
+814446,Italy,Defender,Centre-Back
+815078,France,Defender,Left-Back
+816308,Greece,Midfield,Right Midfield
+816580,Portugal,Defender,Right-Back
+816585,Türkiye,Midfield,Attacking Midfield
+818448,Italy,Defender,Centre-Back
+818495,Brazil,Defender,Centre-Back
+819636,Germany,Attack,Centre-Forward
+820374,England,Midfield,Central Midfield
+820957,Germany,Attack,Left Winger
+822331,Morocco,Defender,Right-Back
+822458,Senegal,Attack,Centre-Forward
+822959,Germany,Midfield,Central Midfield
+823231,Burkina Faso,Attack,Right Winger
+823486,Italy,Defender,Right-Back
+826224,Spain,Defender,Right-Back
+827734,Cote d'Ivoire,Attack,Centre-Forward
+829838,Germany,Defender,Left-Back
+829874,France,Defender,Right-Back
+830108,Argentina,Defender,Centre-Back
+830365,Brazil,Attack,Left Winger
+830890,Ghana,Defender,Right-Back
+834397,Belgium,Goalkeeper,Goalkeeper
+834487,Spain,Defender,Right-Back
+834491,Spain,Midfield,Central Midfield
+834742,Spain,Attack,Centre-Forward
+834744,Spain,Attack,Right Winger
+834752,Spain,Midfield,Attacking Midfield
+834764,Spain,Midfield,Central Midfield
+836441,Angola,Defender,Centre-Back
+840149,Croatia,Attack,Centre-Forward
+842338,Cameroon,Defender,Right-Back
+842341,France,Defender,Centre-Back
+844516,Argentina,Attack,Centre-Forward
+844637,Spain,Defender,Centre-Back
+845654,Türkiye,Attack,Left Winger
+846310,Denmark,Midfield,Central Midfield
+847279,Cote d'Ivoire,Attack,Centre-Forward
+848509,Cameroon,Defender,Right-Back
+849410,Argentina,Midfield,Central Midfield
+849520,Argentina,Attack,Centre-Forward
+851220,Morocco,Attack,Left Winger
+852024,Cote d'Ivoire,Attack,Left Winger
+852727,Spain,Attack,Centre-Forward
+855015,Algeria,Midfield,Attacking Midfield
+855256,England,Midfield,Central Midfield
+855308,France,Midfield,Central Midfield
+856530,Argentina,Attack,Centre-Forward
+857818,Colombia,Attack,Right Winger
+857832,Spain,Defender,Centre-Back
+859396,DR Congo,Midfield,Central Midfield
+860992,Argentina,Defender,Centre-Back
+861410,Türkiye,Midfield,Attacking Midfield
+861981,Uruguay,Defender,Centre-Back
+862297,Burkina Faso,Defender,Centre-Back
+863204,Poland,Midfield,Defensive Midfield
+863759,Switzerland,Defender,Centre-Back
+864121,Ghana,Attack,Right Winger
+864306,Algeria,Defender,Right-Back
+864799,Spain,Midfield,Defensive Midfield
+865682,Netherlands,Midfield,Central Midfield
+866246,Sweden,Midfield,Central Midfield
+866655,England,Attack,Right Winger
+867137,Australia,Defender,Centre-Back
+867688,England,Midfield,Defensive Midfield
+868891,Brazil,Attack,Right Winger
+872171,Brazil,Defender,Centre-Back
+875332,Brazil,Defender,Centre-Back
+875334,Türkiye,Attack,Centre-Forward
+876298,Italy,Midfield,Defensive Midfield
+876631,Senegal,Midfield,Central Midfield
+877139,Portugal,Defender,Right-Back
+880245,Portugal,Midfield,Central Midfield
+881297,Denmark,Attack,Right Winger
+883865,Algeria,Defender,Right-Back
+885445,Morocco,Attack,Centre-Forward
+887638,Italy,Defender,Left-Back
+888493,Argentina,Attack,Centre-Forward
+890290,Spain,Defender,Centre-Back
+890385,Denmark,Defender,Centre-Back
+890719,England,Midfield,Attacking Midfield
+890721,England,Defender,Left-Back
+891353,Brazil,Defender,Left-Back
+891998,Senegal,Defender,Centre-Back
+892160,Croatia,Defender,Centre-Back
+892221,Spain,Midfield,Central Midfield
+892929,Spain,Attack,Left Winger
+892932,Spain,Midfield,Central Midfield
+893661,Ecuador,Defender,Centre-Back
+893675,Morocco,Midfield,Central Midfield
+894914,Norway,Attack,Left Winger
+895326,Spain,Attack,Left Winger
+895334,Spain,Defender,Centre-Back
+895937,Italy,Defender,Right-Back
+897423,Germany,Defender,Centre-Back
+897424,Germany,Midfield,Central Midfield
+897505,Serbia,Attack,Right Winger
+900195,Brazil,Attack,Left Winger
+900909,Austria,Midfield,Central Midfield
+901019,Morocco,Midfield,Central Midfield
+903359,Norway,Attack,Right Winger
+903666,France,Attack,Right Winger
+903693,France,Midfield,Central Midfield
+904662,France,Midfield,Attacking Midfield
+904802,Netherlands,Defender,Left-Back
+905011,Algeria,Midfield,Attacking Midfield
+905997,Spain,Attack,Centre-Forward
+906160,Georgia,Defender,Centre-Back
+906948,Spain,Attack,Left Winger
+907559,Colombia,Midfield,Central Midfield
+907813,Spain,Midfield,Attacking Midfield
+910905,Senegal,Defender,Centre-Back
+911328,Guinea,Midfield,Central Midfield
+911736,Norway,Midfield,Central Midfield
+912902,France,Goalkeeper,Goalkeeper
+912959,Norway,Defender,Right-Back
+914562,France,Attack,Right Winger
+914934,Denmark,Attack,Centre-Forward
+915418,Austria,Defender,Centre-Back
+916623,Japan,Attack,Centre-Forward
+916920,Gabon,Attack,Right Winger
+917375,France,Defender,Right-Back
+917778,France,Attack,Centre-Forward
+917911,Algeria,Attack,Right Winger
+918969,Senegal,Midfield,Central Midfield
+919515,France,Defender,Centre-Back
+921655,Canada,Midfield,Central Midfield
+922563,England,Defender,Left-Back
+922693,England,Midfield,Defensive Midfield
+922769,England,Midfield,Central Midfield
+923595,Germany,Attack,Centre-Forward
+923759,France,Midfield,Central Midfield
+923831,France,Defender,Centre-Back
+923832,France,Defender,Centre-Back
+923945,United States,Defender,Centre-Back
+924117,Germany,Defender,Centre-Back
+924349,Italy,Midfield,Central Midfield
+924857,Scotland,Midfield,Central Midfield
+926135,England,Midfield,Attacking Midfield
+926694,Belgium,Midfield,Defensive Midfield
+926952,Denmark,Attack,Left Winger
+926978,Denmark,Defender,Centre-Back
+927353,Switzerland,Midfield,Central Midfield
+927768,Brazil,Defender,Left-Back
+928323,Morocco,Attack,Left Winger
+929899,Niger,Defender,Left-Back
+929994,Bosnia-Herzegovina,Attack,Left Winger
+930781,Italy,Attack,Centre-Forward
+931160,France,Midfield,Central Midfield
+931838,Sweden,Midfield,Central Midfield
+932187,Switzerland,Defender,Right-Back
+933018,England,Attack,Left Winger
+933217,Hungary,Midfield,Attacking Midfield
+933900,England,Attack,Right Winger
+933908,Spain,Defender,Right-Back
+934878,Italy,Attack,Centre-Forward
+935230,Spain,Attack,Centre-Forward
+935231,Spain,Attack,Left Winger
+935245,Spain,Defender,Centre-Back
+935760,Nigeria,Attack,Centre-Forward
+936842,England,Midfield,Central Midfield
+937941,France,Attack,Centre-Forward
+937955,Spain,Defender,Right-Back
+937958,Spain,Attack,Right Winger
+938146,Morocco,Defender,Left-Back
+938158,Spain,Attack,Centre-Forward
+938729,Spain,Midfield,Central Midfield
+939374,Spain,Defender,Centre-Back
+939964,France,Attack,Left Winger
+941869,Spain,Midfield,Central Midfield
+942497,England,Defender,Centre-Back
+943837,Brazil,Attack,Centre-Forward
+944570,Montenegro,Midfield,Attacking Midfield
+944724,Libya,Defender,Centre-Back
+945021,Israel,Midfield,Right Midfield
+946883,Spain,Defender,Right-Back
+947360,France,Defender,Left-Back
+947431,Spain,Defender,Centre-Back
+948273,Spain,Midfield,Defensive Midfield
+948275,Uruguay,Attack,Centre-Forward
+948278,Spain,Defender,Centre-Back
+948279,Spain,Midfield,Defensive Midfield
+948294,Argentina,Midfield,Attacking Midfield
+949113,Senegal,Midfield,Central Midfield
+951579,France,Defender,Right-Back
+952282,Portugal,Attack,Left Winger
+952779,Serbia,Midfield,Attacking Midfield
+953901,Uruguay,Defender,Right-Back
+954104,England,Defender,Left-Back
+955070,Ghana,Attack,Right Winger
+955281,France,Defender,Left-Back
+955357,France,Attack,Centre-Forward
+957461,Colombia,Attack,Left Winger
+957874,Brazil,Attack,Centre-Forward
+960571,Morocco,Attack,Right Winger
+961022,Argentina,Attack,Left Winger
+961297,Spain,Midfield,Central Midfield
+962110,Spain,Defender,Centre-Back
+962555,Cote d'Ivoire,Defender,Centre-Back
+964580,Brazil,Defender,Right-Back
+969192,Nigeria,Midfield,Central Midfield
+969447,Togo,Midfield,Attacking Midfield
+970279,Gabon,Defender,Left-Back
+970364,France,Defender,Centre-Back
+971570,Brazil,Attack,Centre-Forward
+972465,Canada,Attack,Centre-Forward
+973085,Cameroon,Midfield,Defensive Midfield
+973949,France,Midfield,Defensive Midfield
+974982,Cote d'Ivoire,Defender,Centre-Back
+975347,France,Midfield,Defensive Midfield
+977464,Brazil,Defender,Right-Back
+979551,Senegal,Attack,Left Winger
+980576,France,Attack,Centre-Forward
+981196,Belgium,Defender,Left-Back
+981674,Ecuador,Midfield,Attacking Midfield
+982267,Ghana,Midfield,Defensive Midfield
+982393,France,Defender,Left-Back
+982855,Morocco,Midfield,Defensive Midfield
+983677,Netherlands,Defender,Left-Back
+983989,Argentina,Midfield,Attacking Midfield
+984096,Brazil,Defender,Centre-Back
+985383,Argentina,Defender,Centre-Back
+986288,Guinea,Attack,Centre-Forward
+989112,Serbia,Defender,Centre-Back
+989574,Argentina,Attack,Centre-Forward
+990637,Switzerland,Defender,Right-Back
+991054,Ghana,Defender,Centre-Back
+991268,Spain,Attack,Centre-Forward
+991487,Cote d'Ivoire,Defender,Right-Back
+991800,Brazil,Attack,Right Winger
+992686,Cote d'Ivoire,Attack,Left Winger
+993645,Argentina,Defender,Centre-Back
+996897,Paraguay,Midfield,Central Midfield
+997861,Brazil,Goalkeeper,Goalkeeper
+1004301,France,Defender,Centre-Back
+1004619,France,Midfield,Central Midfield
+1004708,England,Defender,Right-Back
+1004834,Nigeria,Attack,Centre-Forward
+1005165,Brazil,Attack,Centre-Forward
+1005240,France,Defender,Centre-Back
+1005575,Brazil,Defender,Centre-Back
+1005649,Brazil,Defender,Centre-Back
+1006411,France,Defender,Centre-Back
+1009596,Cote d'Ivoire,Defender,Centre-Back
+1010854,France,Midfield,Central Midfield
+1011131,England,Midfield,Attacking Midfield
+1011200,France,Midfield,Defensive Midfield
+1012534,The Gambia,Attack,Right Winger
+1012564,Brazil,Attack,Right Winger
+1015624,Colombia,Attack,Left Winger
+1016015,DR Congo,Midfield,Defensive Midfield
+1018259,Nigeria,Attack,Centre-Forward
+1018920,Spain,Midfield,Defensive Midfield
+1018938,Spain,Defender,Centre-Back
+1019174,Belgium,Defender,Centre-Back
+1020191,France,Defender,Centre-Back
+1028162,France,Attack,Left Winger
+1032280,Spain,Defender,Left-Back
+1033005,Guinea-Bissau,Attack,Left Winger
+1034853,Senegal,Defender,Centre-Back
+1035765,Germany,Attack,Centre-Forward
+1038950,Cameroon,Attack,Centre-Forward
+1043003,Türkiye,Defender,Centre-Back
+1043646,Argentina,Midfield,Central Midfield
+1046867,Poland,Defender,Centre-Back
+1052439,Ecuador,Midfield,Attacking Midfield
+1053147,France,Midfield,Central Midfield
+1054839,Senegal,Attack,Left Winger
+1054934,Morocco,Attack,Centre-Forward
+1056993,Brazil,Attack,Right Winger
+1057316,Argentina,Attack,Right Winger
+1057820,Sweden,Attack,Right Winger
+1058368,Italy,Attack,Centre-Forward
+1060087,Greece,Attack,Centre-Forward
+1060740,Paraguay,Attack,Left Winger
+1061122,Spain,Attack,Left Winger
+1061282,Senegal,Attack,Left Winger
+1061336,Spain,Defender,Centre-Back
+1063338,Spain,Attack,Centre-Forward
+1063340,Spain,Attack,Right Winger
+1064471,Spain,Midfield,Attacking Midfield
+1064871,Argentina,Attack,Centre-Forward
+1067904,Cote d'Ivoire,Attack,Left Winger
+1068110,France,Midfield,Defensive Midfield
+1071956,France,Defender,Centre-Back
+1073625,Serbia,Attack,Centre-Forward
+1073748,Poland,Defender,Centre-Back
+1074628,Cameroon,Midfield,Central Midfield
+1075147,Germany,Midfield,Attacking Midfield
+1075577,France,Defender,Centre-Back
+1076815,Spain,Defender,Centre-Back
+1077175,Italy,Defender,Centre-Back
+1078163,England,Defender,Centre-Back
+1082850,Brazil,Attack,Centre-Forward
+1084638,Germany,Defender,Centre-Back
+1086619,Italy,Defender,Centre-Back
+1088199,Burkina Faso,Defender,Left-Back
+1089202,Canada,Defender,Centre-Back
+1097139,Morocco,Midfield,Central Midfield
+1099668,Senegal,Defender,Centre-Back
+1103958,France,Attack,Centre-Forward
+1110406,Ghana,Attack,Left Winger
+1111589,Senegal,Defender,Left-Back
+1111777,Senegal,Defender,Centre-Back
+1112449,Portugal,Defender,Centre-Back
+1113451,Ghana,Defender,Centre-Back
+1119453,France,Attack,Left Winger
+1119456,France,Midfield,Attacking Midfield
+1121298,Sierra Leone,Defender,Centre-Back
+1124005,Nigeria,Attack,Centre-Forward
+1124136,Spain,Attack,Right Winger
+1129198,Norway,Defender,Centre-Back
+1130514,Morocco,Midfield,Central Midfield
+1134251,Morocco,Defender,Centre-Back
+1138758,Portugal,Attack,Right Winger
+1141560,Cote d'Ivoire,Attack,Centre-Forward
+1144700,Argentina,Defender,Centre-Back
+1144999,Cote d'Ivoire,Defender,Right-Back
+1145064,Burkina Faso,Attack,Right Winger
+1145504,Argentina,Defender,Centre-Back
+1146029,Spain,Defender,Centre-Back
+1159864,Argentina,Defender,Centre-Back
+1168219,Germany,Attack,Left Winger
+1176345,Cameroon,Defender,Left-Back
+1178474,Cote d'Ivoire,Midfield,Defensive Midfield
+1178488,Senegal,Attack,Centre-Forward
+1178489,Senegal,Midfield,Defensive Midfield
+1178758,Cote d'Ivoire,Midfield,Central Midfield
+1182738,Senegal,Defender,Centre-Back
+1185888,Senegal,Attack,Right Winger
+1187942,France,Midfield,Central Midfield
+1190411,Spain,Attack,Left Winger
+1191444,France,Defender,Left-Back
+1193867,Brazil,Defender,Right-Back
+1200427,France,Midfield,Central Midfield
+1228231,Uruguay,Defender,Centre-Back
+1230661,Portugal,Midfield,Attacking Midfield
+1241207,France,Defender,Centre-Back
+1241211,France,Midfield,Central Midfield
+1275068,Brazil,Defender,Left-Back
+1282860,Senegal,Defender,Centre-Back
+1301775,Spain,Attack,Left Winger
+1364454,Cameroon,Attack,Centre-Forward
+1390649,Cote d'Ivoire,Attack,Left Winger
+1421433,Nigeria,Attack,Right Winger

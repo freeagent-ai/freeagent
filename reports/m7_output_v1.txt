@@ -1,0 +1,18 @@
+957 of 1592 signings have enough matches on and off to be scored
+Average realised on/off goal difference per match: -0.065
+
+1. By predicted points gain (M5)
+   Bottom third  n= 319  predicted -1.10 pts   realised on/off -0.040 (95% CI -0.104 to +0.024)
+   Middle third  n= 319  predicted -0.38 pts   realised on/off -0.088 (95% CI -0.151 to -0.022)
+   Top third     n= 319  predicted +0.55 pts   realised on/off -0.067 (95% CI -0.133 to +0.000)
+   Top minus bottom: -0.027 (95% CI -0.122 to +0.064) -> not significant
+
+2. By verdict (M6)
+   Best Buy  n=  38  avg fee EUR  21.0M   realised on/off -0.014 (95% CI -0.202 to +0.170)
+   Fair      n= 728  avg fee EUR  16.5M   realised on/off -0.068 (95% CI -0.112 to -0.025)
+   Overpaid  n= 191  avg fee EUR  37.5M   realised on/off -0.063 (95% CI -0.149 to +0.019)
+
+3. Spearman(predicted points, realised on/off) = -0.012 (p = 0.714)
+   Spearman(fee,              realised on/off) = -0.014 (p = 0.665)   <- what the market price alone says
+
+Saved reports/m7_validation.csv

@@ -1,0 +1,9 @@
+# Exact versions used for every result in the report (Python 3.15.1, Windows).
+# Direct dependencies only; requirements-lock.txt pins everything, including their dependencies.
+numpy==2.5.4
+pandas==3.1.0
+scipy==1.18.1
+scikit-learn==1.9.1
+matplotlib==3.11.2
+streamlit==1.66.1
+pytest==9.1.1

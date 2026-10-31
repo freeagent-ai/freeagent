@@ -1,0 +1,28 @@
+
+===== LOW (club fixed effects): 1.27 points per EUR 100M =====
+Check: recomputed verdicts match the stored ones for 99.7% of signings
+Verdict mix: Overpaid 19%, Fair 77%, Best Buy 4%
+1. Spearman(fee, P(Overpaid)) = +0.321
+   Best fee-only rule 'Overpaid if fee >= EUR 54M, else Fair' reproduces 79.5% of verdicts; always saying 'Fair' reproduces 76.9%
+2. Shuffle: 67.5% of verdicts unchanged when estimates are shuffled between signings (95% range 65.9% to 68.8%)
+   => our own estimates decide about 33% of verdicts
+3. By whether the player had a rating:
+                           n   fee_m   over   fair  best
+known                                                   
+has rating              1303  21.153  0.219  0.731  0.05
+no rating (prior only)   289  11.926  0.059  0.941  0.00
+
+===== HIGH (between clubs): 6.70 points per EUR 100M =====
+Check: recomputed verdicts match the stored ones for 99.7% of signings
+Verdict mix: Overpaid 64%, Fair 35%, Best Buy 1%
+1. Spearman(fee, P(Overpaid)) = +0.801
+   Best fee-only rule 'Overpaid if fee >= EUR 12M, else Fair' reproduces 82.6% of verdicts; always saying 'Fair' reproduces 34.7%
+2. Shuffle: 74.0% of verdicts unchanged when estimates are shuffled between signings (95% range 72.3% to 75.6%)
+   => our own estimates decide about 26% of verdicts
+3. By whether the player had a rating:
+                           n   fee_m   over   fair   best
+known                                                    
+has rating              1303  21.153  0.682  0.301  0.017
+no rating (prior only)   289  11.926  0.446  0.554  0.000
+
+Saved reports/m6_shuffle_test.csv

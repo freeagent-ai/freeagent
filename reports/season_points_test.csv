@@ -1,0 +1,3 @@
+measure,ours,last_season,ours_advantage,club_ci_lo,club_ci_hi,club_verdict,league_season_ci_lo,league_season_ci_hi,league_season_verdict,ours_wins_in
+mean absolute error of final points,8.596424786324787,9.211072553177816,0.6146477668530299,0.1186848264893001,1.12822880197288,OURS SIGNIFICANTLY BETTER,0.19117958298621823,1.0725170129096766,OURS SIGNIFICANTLY BETTER,
+rank correlation with final table (Spearman),0.719338487895703,0.6814434129413028,0.037895074954400226,,,,0.01057033937342414,0.06573322559800704,OURS SIGNIFICANTLY BETTER,23 of 35 league-seasons

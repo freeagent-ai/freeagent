@@ -1,0 +1,26 @@
+Loaded 25,428 games [3s]
+  prior quality 2017-08-01: 260 new players [21s]
+  prior quality 2018-08-01: 210 new players [51s]
+  prior quality 2019-08-01: 217 new players [53s]
+  prior quality 2020-08-01: 239 new players [56s]
+  prior quality 2021-08-01: 240 new players [59s]
+
+A. How well do we rate players with < 900 minutes? (correlation with their rating 3 years later)
+    cutoff  players  prior_targets  corr_no_prior  corr_with_prior  corr_prior_alone
+2017-08-01      260           1996          0.289            0.308             0.192
+2018-08-01      210           2369          0.211            0.265             0.199
+2019-08-01      217           2706          0.223            0.253             0.192
+2020-08-01      239           3001          0.221            0.231             0.139
+2021-08-01      240           3341          0.130            0.093             0.030
+
+Strengths computed [183s]
+
+B. Match prediction, same walk-forward as RQ1 (lower log loss is better)
+                                   log_loss     rps   brier  accuracy        n
+Hybrid: player + Elo (with prior)    0.9927  0.2024  0.5920    0.5214  10365.0
+Hybrid: player + Elo (no prior)      0.9930  0.2026  0.5922    0.5214  10365.0
+Player model (with prior)            1.0013  0.2053  0.5976    0.5132  10365.0
+Player model (no prior)              1.0035  0.2060  0.5991    0.5126  10365.0
+Player model: with prior vs no prior -0.0022 (95% CI -0.0030 to -0.0013) -> significantly better
+Hybrid: player + Elo: with prior vs no prior -0.0003 (95% CI -0.0006 to -0.0001) -> significantly better
+Total time 184s. Saved reports/m2_*.csv

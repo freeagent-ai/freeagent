@@ -1,0 +1,9 @@
+price,test,value
+LOW (club fixed effects),fee_only_rule_agreement,0.8159547738693468
+LOW (club fixed effects),all_fair_agreement,0.8121859296482412
+LOW (club fixed effects),shuffle_unchanged,0.6824999999999999
+LOW (club fixed effects),spearman_fee_p_overpaid,0.09268895409749284
+HIGH (between clubs),fee_only_rule_agreement,0.8523869346733668
+HIGH (between clubs),all_fair_agreement,0.5069095477386935
+HIGH (between clubs),shuffle_unchanged,0.739214824120603
+HIGH (between clubs),spearman_fee_p_overpaid,0.7488889203967025
