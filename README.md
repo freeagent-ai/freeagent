@@ -14,6 +14,8 @@
 
 *AIML Capstone Project*
 
+### 🔴 [**Live app → freeagent-ai.streamlit.app**](https://freeagent-ai.streamlit.app/)
+
 </div>
 
 ---
