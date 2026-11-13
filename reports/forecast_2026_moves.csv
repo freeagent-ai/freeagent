@@ -1,77 +1,219 @@
 club_id,kind,player_id,player_name,fee_m,other_club
+418,in,1390649,Yan Diomande,125.0,RB Leipzig
+418,in,284857,Marc Cucurella,55.0,Chelsea FC
+418,in,1063338,Carlos Espí,25.0,Levante UD
+418,in,321528,Denzel Dumfries,20.0,Inter Milan
+418,out,935230,Gonzalo García,39.33,Fulham FC
 418,out,948273,Mario Martín,3.5,Getafe
 131,in,503733,Anthony Gordon,80.0,Newcastle
+131,in,357565,Rodri,60.0,Manchester City
+131,in,496094,Karim Adeyemi,22.0,Borussia Dortmund
+131,in,363205,Gabriel Jesus,9.889999999999999,Arsenal FC
+13,in,461496,Morten Hjulmand,40.0,Sporting CP
+13,in,355915,Cristian Romero,40.0,Tottenham Hotspur
+13,in,557149,Kang-in Lee,40.0,Paris Saint-Germain
+13,in,193082,Alejandro Grimaldo,22.0,Bayer 04 Leverkusen
+13,out,616631,Matteo Ruggeri,19.55,Aston Villa
 150,out,1034853,Nobel Mendy,2.4,Rayo Vallecano
 3709,in,640109,Martín Satriano,6.5,Lyon
 3709,in,948273,Mario Martín,3.5,Real Madrid
 3709,in,898352,Sebastián Boselli,1.5,River Plate
+331,out,935231,Víctor Muñoz,39.905,Liverpool FC
 331,out,188888,Sheraldo Becker,0.5,Mainz
 367,in,1034853,Nobel Mendy,2.4,Real Betis
 367,in,765467,Jozhua Vertrouwd,1.5,Castellón
+367,out,1034853,Nobel Mendy,23.0,Hull City
+367,out,596122,Pep Chavarría,18.745,Chelsea FC
 1531,in,962125,Buba Sangaré,4.5,Roma
 1531,in,398163,Gonzalo Villar,1.0,Dinamo Zagreb
+1531,out,948275,Álvaro Rodríguez,24.725,AFC Bournemouth
 368,in,981674,Patrik Mercado,6.0,Independiente
+368,out,676042,Juanlu Sánchez,11.96,AFC Bournemouth
+3368,out,1063338,Carlos Espí,25.0,Real Madrid
+583,out,708265,Bradley Barcola,141.45,Liverpool FC
+583,out,550550,Gonçalo Ramos,74.0,AC Milan
+583,out,557149,Kang-in Lee,40.0,Atlético de Madrid
 583,out,1275040,Noham Kamara,4.1,Lyon
-273,out,1004301,Jérémy Jacquet,63.6,Liverpool
-273,out,503866,Albert Grønbaek,4.7,Hamburg
+162,in,659543,Matthis Abline,25.0,FC Nantes
+162,out,975347,Aladji Bamba,34.73,Newcastle United
 244,in,474800,Facundo Medina,18.0,Lens
 244,in,370846,Timothy Weah,14.4,Juventus
 244,in,391065,Hamed Traoré,7.5,Bournemouth
+244,out,557613,Quentin Merlin,19.665,Crystal Palace
+273,in,967346,Eliezer Mayenda,22.0,Sunderland AFC
+273,out,1004301,Jérémy Jacquet,63.6,Liverpool
+273,out,503866,Albert Grønbaek,4.7,Hamburg
+1082,out,1097139,Ayyoub Bouaddi,100.0,Manchester City
+1082,out,724129,Matias Fernandez-Pardo,58.65,Newcastle United
 1041,in,1275040,Noham Kamara,4.1,PSG
+1041,out,743386,Malick Fofana,29.555,Sunderland AFC
 1041,out,640109,Martín Satriano,6.5,Getafe
 826,in,631927,Saud Abdulhamid,3.5,Roma
+826,out,808348,Mamadou Sangaré,47.15,Brentford FC
 826,out,474800,Facundo Medina,18.0,Marseille
 826,out,491296,Anass Zaroury,3.0,Panathinaikos
+10004,in,1363293,Patrick Zabi,25.0,Stade Reims
+10004,in,810411,Pablo Pagis,15.0,FC Lorient
+415,out,1191444,Dayann Methalie,32.2,Sunderland AFC
+415,out,743599,Emersonn,27.715,Ipswich Town
 290,in,392767,Danny Namaso,5.0,Porto
+1158,out,810411,Pablo Pagis,15.0,Paris FC
+667,out,655006,Diego Moreira,50.0,AC Milan
+667,out,849410,Valentín Barco,39.33,Chelsea FC
+1420,out,986288,Sidiki Chérif,28.175,Coventry
 1420,out,986288,Sidiki Chérif,18.0,Fenerbahçe
+11,in,520624,Bruno Guimarães,86.25,Newcastle United
+11,in,413403,Ezri Konsa,60.949999999999996,Aston Villa
 11,in,659813,Piero Hincapié,52.0,Leverkusen
+11,in,451677,Christos Tzolis,39.099999999999994,Club Brugge KV
 11,out,425918,Jakub Kiwior,17.0,Porto
+11,out,363205,Gabriel Jesus,9.889999999999999,FC Barcelona
 11,out,493513,Karl Hein,3.0,Werder Bremen
-762,out,503733,Anthony Gordon,80.0,Barcelona
-281,out,284730,Manuel Akanji,15.0,Inter
-405,in,1282860,Modou Kéba Cissé,5.5,LASK
-405,out,326029,Donyell Malen,25.0,Roma
+985,in,973085,Carlos Baleba,77.625,Brighton & Hove Albion
+985,in,743600,Andrey Santos,56.349999999999994,Chelsea FC
+985,in,249565,Youri Tielemans,40.25,Aston Villa
 985,out,610442,Rasmus Højlund,44.0,Napoli
+281,in,648195,Enzo Fernández,143.75,Chelsea FC
+281,in,567576,Elliot Anderson,133.39999999999995,Nottingham Forest
+281,in,1097139,Ayyoub Bouaddi,100.0,LOSC Lille
+281,in,623570,Iliman Ndiaye,71.875,Everton FC
+281,out,743591,Savinho,92.0,Tottenham Hotspur
+281,out,357565,Rodri,60.0,FC Barcelona
+281,out,466805,Nico González,59.8,Newcastle United
+281,out,566799,James Trafford,46.0,Leeds United
+31,in,708265,Bradley Barcola,141.45,Paris Saint-Germain
 31,in,1004301,Jérémy Jacquet,63.6,Stade Rennais
+31,in,935231,Víctor Muñoz,39.905,CA Osasuna
+31,out,433188,Curtis Jones,30.0,Inter Milan
+762,in,466805,Nico González,59.8,Manchester City
+762,in,724129,Matias Fernandez-Pardo,58.65,LOSC Lille
+762,in,1067904,Bazoumana Touré,48.87499999999999,TSG 1899 Hoffenheim
+762,in,975347,Aladji Bamba,34.73,AS Monaco
+762,out,397033,Sandro Tonali,115.0,Tottenham Hotspur
+762,out,520624,Bruno Guimarães,86.25,Arsenal FC
+762,out,503733,Anthony Gordon,80.0,Barcelona
+405,in,776890,Nicolas Jackson,74.75,Chelsea FC
+405,in,927353,Johan Manzambi,68.425,SC Freiburg
+405,in,735570,João Gomes,41.4,Wolverhampton Wanderers
+405,in,432298,Zion Suzuki,30.0,Parma Calcio 1913
+405,out,503743,Morgan Rogers,134.54999999999998,Chelsea FC
+405,out,413403,Ezri Konsa,60.949999999999996,Arsenal FC
+405,out,249565,Youri Tielemans,40.25,Manchester United
+405,out,326029,Donyell Malen,25.0,Roma
+631,in,503743,Morgan Rogers,134.54999999999998,Aston Villa
+631,in,434224,Maxence Lacroix,59.8,Crystal Palace
+631,in,895937,Marco Palestra,54.05,Atalanta BC
 631,in,1138758,Geovany Quenda,50.7,Sporting
-1237,in,1421433,Zadok Yohanna,28.0,AIK
+631,out,648195,Enzo Fernández,143.75,Manchester City
+631,out,776890,Nicolas Jackson,74.75,Aston Villa
+631,out,743600,Andrey Santos,56.349999999999994,Manchester United
+631,out,284857,Marc Cucurella,55.0,Real Madrid
+1148,in,808348,Mamadou Sangaré,47.15,RC Lens
+1148,in,1111589,El Hadji Malick Diouf,46.0,West Ham United
 1148,in,915418,Jannik Schuster,18.0,Salzburg
+1237,in,892160,Luka Vuskovic,55.199999999999996,Tottenham Hotspur
+1237,in,1421433,Zadok Yohanna,28.0,AIK
+1237,in,948279,Chema Andrés,21.735,VfB Stuttgart
+1237,in,410708,Pascal Struijk,20.7,Leeds United
+1237,out,973085,Carlos Baleba,77.625,Manchester United
+1237,out,576314,Jan Paul van Hecke,59.8,Tottenham Hotspur
+931,in,935230,Gonzalo García,39.33,Real Madrid
+931,in,747951,Shea Charles,34.5,Southampton FC
+148,in,397033,Sandro Tonali,115.0,Newcastle United
+148,in,880245,Mateus Fernandes,97.75,West Ham United
+148,in,743591,Savinho,92.0,Manchester City
+148,in,576314,Jan Paul van Hecke,59.8,Brighton & Hove Albion
+148,out,892160,Luka Vuskovic,55.199999999999996,Brighton & Hove Albion
+148,out,355915,Cristian Romero,40.0,Atlético de Madrid
+148,out,483348,Djed Spence,30.0,Inter Milan
+289,in,1191444,Dayann Methalie,32.2,FC Toulouse
+289,in,743386,Malick Fofana,29.555,Olympique Lyon
+289,out,967346,Eliezer Mayenda,22.0,Stade Rennais FC
+29,in,470607,Brennan Johnson,28.75,Crystal Palace
 29,in,608832,Merlin Röhl,25.0,Freiburg
+29,out,623570,Iliman Ndiaye,71.875,Manchester City
+29,out,584769,Dwight McNeil,28.75,Crystal Palace
+29,out,595809,Beto,18.0,ACF Fiorentina
+703,in,610849,Liam Delap,54.62499999999999,Chelsea FC
+703,in,974982,Ousmane Diomande,39.099999999999994,Sporting CP
+703,in,493003,Daniel Muñoz,25.3,Crystal Palace
+703,out,567576,Elliot Anderson,133.39999999999995,Manchester City
+989,in,650568,António Silva,27.025,SL Benfica
+989,in,948275,Álvaro Rodríguez,24.725,Elche CF
 989,in,741257,Álex Jiménez,18.5,AC Milan
+989,in,676042,Juanlu Sánchez,11.96,Sevilla FC
 989,out,391065,Hamed Traoré,7.5,Marseille
 989,out,512385,Luis Sinisterra,6.0,Cruzeiro
+873,in,584769,Dwight McNeil,28.75,Everton FC
+873,in,557613,Quentin Merlin,19.665,Olympique Marseille
+873,out,434224,Maxence Lacroix,59.8,Chelsea FC
+873,out,470607,Brennan Johnson,28.75,Everton FC
+873,out,493003,Daniel Muñoz,25.3,Nottingham Forest
+399,in,566799,James Trafford,46.0,Manchester City
+399,in,679423,Tarik Muharemović,39.215,US Sassuolo
+399,out,410708,Pascal Struijk,20.7,Brighton & Hove Albion
+3008,in,1034853,Nobel Mendy,23.0,Rayo Vallecano
+3008,in,554389,Konstantinos Tzolakis,22.885,Olympiakos Syndesmos Filathlon Peiraios
+677,in,743599,Emersonn,27.715,FC Toulouse
+677,in,864121,Abdul Fatawu,23.0,Leicester City
+677,in,411537,Zian Flemming,23.0,Burnley FC
 677,out,371021,Arijanet Murić,7.0,Sassuolo
+990,in,986288,Sidiki Chérif,28.175,Angers SCO
+990,in,607226,Loum Tchaouna,23.0,Burnley FC
+46,in,433188,Curtis Jones,30.0,Liverpool FC
+46,in,483348,Djed Spence,30.0,Tottenham Hotspur
 46,in,780136,Aleksandar Stanković,23.0,Club Brugge
 46,in,284730,Manuel Akanji,15.0,Man City
+46,out,321528,Denzel Dumfries,20.0,Real Madrid
 46,out,538918,Sebastiano Esposito,4.0,Cagliari
 506,in,368887,Loïs Openda,42.75,Leipzig
+506,in,929994,Kerim Alajbegovic,32.0,Bayer 04 Leverkusen
+506,in,413565,Jhon Lucumí,20.1,Bologna Football Club 1909
 506,out,370846,Timothy Weah,14.4,Marseille
+12,in,849520,Santiago Castro,36.0,Bologna Football Club 1909
 12,in,326029,Donyell Malen,25.0,Aston Villa
-12,in,701819,Daniele Ghilardi,8.0,Hellas Verona
+12,in,957653,Rodrigo Mora,25.0,FC Porto
+12,in,669380,Konstantinos Koulierakis,16.5,VfL Wolfsburg
 12,out,962125,Buba Sangaré,4.5,Elche CF
 12,out,631927,Saud Abdulhamid,3.5,Lens
 12,out,358166,Eldor Shomurodov,2.8,Basaksehir
+5,in,550550,Gonçalo Ramos,74.0,Paris Saint-Germain
+5,in,655006,Diego Moreira,50.0,RC Strasbourg Alsace
+5,in,618341,Mario Gila,30.0,Società Sportiva Lazio S.p.A.
+5,out,357164,Rafael Leão,38.0,Galatasaray
 5,out,741257,Álex Jiménez,18.5,Bournemouth
-5,out,392538,Tommaso Pobega,7.0,Bologna
 5,out,487843,Lorenzo Colombo,7.0,Genoa
+5,out,392538,Tommaso Pobega,7.0,Bologna
+800,out,895937,Marco Palestra,54.05,Chelsea FC
 800,out,459128,Marco Brescianini,10.0,Fiorentina
+1047,in,346314,Trevoh Chalobah,30.0,Chelsea FC
 1025,in,392538,Tommaso Pobega,7.0,AC Milan
+1025,out,849520,Santiago Castro,36.0,AS Roma
+1025,out,413565,Jhon Lucumí,20.1,Juventus FC
 1025,out,633668,Giovanni Fabbian,13.0,Fiorentina
 1025,out,237658,Michel Aebischer,4.5,Pisa
 6195,in,610442,Rasmus Højlund,44.0,Man Utd
 6195,in,830365,Alisson Santos,16.5,Sporting
 6195,in,257474,Vanja Milinković-Savić,6.0,Torino
+6195,out,525299,Miguel Gutiérrez,26.0,Bayer 04 Leverkusen
 6195,out,282388,Giovanni Simeone,7.2,Torino
 398,in,626913,Boulaye Dia,11.3,Salernitana
-430,in,633668,Giovanni Fabbian,13.0,Bologna
-430,in,459128,Marco Brescianini,10.0,Atalanta
+398,out,618341,Mario Gila,30.0,AC Milan
+430,in,1279526,Christ Inao Oulaï,26.0,Trabzonspor
+430,in,855308,Arthur Atta,25.0,Udinese Calcio
+430,in,856530,Mateo Pellegrino,22.5,Parma Calcio 1913
+430,in,595809,Beto,18.0,Everton FC
 1390,in,538918,Sebastiano Esposito,4.0,Inter
 1390,in,1111663,Kingstone Mutandwa,1.0,SV Ried
 1390,out,1111663,Kingstone Mutandwa,0.75,SV Ried
 252,in,487843,Lorenzo Colombo,7.0,AC Milan
 6574,in,371021,Arijanet Murić,7.0,Ipswich
+6574,out,679423,Tarik Muharemović,39.215,Leeds United
 410,in,1178488,Idrissa Gueye,6.0,FC Metz
+410,out,855308,Arthur Atta,25.0,ACF Fiorentina
 130,in,430280,Hans Nicolussi Caviglia,6.0,Venezia
+130,out,432298,Zion Suzuki,30.0,Aston Villa
+130,out,856530,Mateo Pellegrino,22.5,ACF Fiorentina
 416,in,282388,Giovanni Simeone,7.2,Napoli
 416,in,433181,Tino Anjorin,4.5,FC Empoli
 416,in,357778,Sandro Kulenović,3.0,Dinamo Zagreb
@@ -79,17 +221,25 @@ club_id,kind,player_id,player_name,fee_m,other_club
 607,out,430280,Hans Nicolussi Caviglia,6.0,Parma
 27,out,468539,Daniel Peretz,8.0,Southampton
 16,in,1075577,Joane Gadou,19.5,Salzburg
+16,in,1275068,Kauã Prates,7.0,Cruzeiro
+16,out,496094,Karim Adeyemi,22.0,FC Barcelona
+15,in,525299,Miguel Gutiérrez,26.0,SSC Napoli
 15,in,929994,Kerim Alajbegovic,8.0,Salzburg
 15,in,1073625,Aleksa Damjanovic,5.0,Red Star
 15,out,659813,Piero Hincapié,52.0,Arsenal
+15,out,929994,Kerim Alajbegovic,32.0,Juventus FC
+15,out,193082,Alejandro Grimaldo,22.0,Atlético de Madrid
 15,out,550829,Matej Kovar,5.0,PSV
 79,in,654982,Bilal El Khannouss,15.0,Leicester
+79,out,948279,Chema Andrés,21.735,Brighton & Hove Albion
 60,in,620295,Mio Backhaus,12.0,Werder Bremen
 60,in,916623,Keisuke Goto,10.0,RSC Anderlecht
 60,in,432403,Rihito Yamamoto,7.0,Sint-Truiden
+60,out,927353,Johan Manzambi,68.425,Aston Villa
 60,out,608832,Merlin Röhl,25.0,Everton
 60,out,452477,Junior Adamu,0.8,FC Schalke 04
 23826,in,467434,Rocco Reitz,20.0,Mönchengladbach
+23826,out,1390649,Yan Diomande,125.0,Real Madrid
 23826,out,368887,Loïs Openda,42.75,Juventus
 39,in,733371,Sota Kawasaki,1.0,Kyoto Sanga
 39,in,188888,Sheraldo Becker,0.5,CA Osasuna
@@ -98,6 +248,7 @@ club_id,kind,player_id,player_name,fee_m,other_club
 533,in,983677,Mats Rots,12.0,FC Twente
 533,in,533295,Patrick Wimmer,10.0,Wolfsburg
 533,in,987770,Alessandro Vogt,2.7,FC St. Gallen
+533,out,1067904,Bazoumana Touré,48.87499999999999,Newcastle United
 533,out,685484,Luka Duric,0.25,SC Paderborn
 41,in,503866,Albert Grønbaek,4.7,Stade Rennais
 18,in,322073,Isac Lidberg,3.5,Darmstadt 98

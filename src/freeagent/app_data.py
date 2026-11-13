@@ -232,6 +232,37 @@ def forecast_sentence(r) -> str:
     return reg + verdict_sentence(r)
 
 
+def why_verdict(r) -> str:
+    """Plain-English walk-through of one verdict (markdown), so nobody has to guess why a player is 'Overpaid'."""
+    if r.shown_verdict == "Not rated":
+        return ("**Why no verdict?** We have no match history for him in the five leagues, so we cannot say how many "
+                "points he adds. We would rather say nothing than invent a number.")
+    fee = f"EUR {r.fee_m:.0f}M"
+    gain, claim = float(r.points_mean), float(r.claimed_points)
+    net = gain - claim
+    sd = float(getattr(r, "rating_sd", float("nan")))
+    lines = [
+        f"**1. What the fee claims.** At the market rate ({r.price_b_per_100m:.1f} league points per EUR 100M), {fee} is "
+        f"supposed to buy about **{claim:.1f} points** over a season.",
+        f"**2. What we expect him to add.** His rating (from past matches, known on transfer day) puts him "
+        f"**{gain:+.1f} points** ahead of the player he pushes out of the team (90% range {r.points_p05:+.1f} to "
+        f"{r.points_p95:+.1f}). The range is wide because one player's effect is hard to measure"
+        + (f" and his rating itself is uncertain (+/-{sd:.2f} goals per match)." if sd == sd else "."),
+        f"**3. The gap.** {gain:+.1f} minus {claim:.1f} = **{net:+.1f} points**. A gap of less than 1 point either way is "
+        f"treated as Fair, because that is inside the noise.",
+        f"**4. The odds.** We repeat the calculation thousands of times with his rating drawn from its uncertainty: "
+        f"Overpaid {100 * r.p_overpaid:.0f}%, Fair {100 * r.p_fair:.0f}%, Best Buy {100 * r.p_best_buy:.0f}%. "
+        + ("The most likely outcome is below 50%, so we call it **too close to call**, not a verdict."
+           if r.shown_verdict == "Too close to call" else f"The verdict is the most likely one: **{r.shown_verdict}**."),
+        "**What this does not measure.** Only league points. It ignores Champions League and cup runs, wages, resale "
+        "value, shirt sales and what he becomes later. A player can be a great buy for a club and still be 'Overpaid' "
+        "here if the league points he adds do not cover the fee at the market rate. Treat it as a price-versus-league-"
+        "points check, not a verdict on the player."]
+    if getattr(r, "fee_source", "") == "Press-reported":
+        lines.append("**Fee source.** Reported in the press (converted to euros); not in our Transfermarkt snapshot.")
+    return "\n\n".join(lines)
+
+
 # ================================================================== Transfer Lab: any player, any club, any fee
 def load_lab() -> dict | None:
     sq, cv, pl = load_report("lab_squads.csv"), load_report("lab_curves.csv"), load_report("lab_players.csv")

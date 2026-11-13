@@ -1,0 +1,104 @@
+player_id,player_name,transfer_date,transfer_season,from_club_id,to_club_id,from_club_name,to_club_name,transfer_fee,market_value_in_eur,source,fee_ccy
+1390649,Yan Diomande,2026-08-20,26/27,23826,418,RB Leipzig,Real Madrid,125000000.0,90000000.0,beIN/LaLiga table,EUR
+284857,Marc Cucurella,2026-08-20,26/27,631,418,Chelsea FC,Real Madrid,55000000.0,50000000.0,LaLiga table,EUR
+321528,Denzel Dumfries,2026-08-20,26/27,46,418,Inter Milan,Real Madrid,20000000.0,25000000.0,SportsMole/worldsoccertalk,EUR
+1063338,Carlos Espí,2026-08-20,26/27,3368,418,Levante UD,Real Madrid,25000000.0,20000000.0,LaLiga table,EUR
+241641,Bernardo Silva,2026-08-20,26/27,281,418,Manchester City,Real Madrid,0.0,22000000.0,SportsMole (free),EUR
+357119,Ibrahima Konaté,2026-08-20,26/27,31,418,Liverpool FC,Real Madrid,0.0,45000000.0,SportsMole (free),EUR
+357565,Rodri,2026-08-20,26/27,281,131,Manchester City,FC Barcelona,60000000.0,50000000.0,LaLiga table,EUR
+496094,Karim Adeyemi,2026-08-20,26/27,16,131,Borussia Dortmund,FC Barcelona,22000000.0,40000000.0,LaLiga table,EUR
+363205,Gabriel Jesus,2026-08-20,26/27,11,131,Arsenal FC,FC Barcelona,9889999.999999998,17000000.0,SportsMole,GBP
+461496,Morten Hjulmand,2026-08-20,26/27,336,13,Sporting CP,Atlético de Madrid,40000000.0,45000000.0,LaLiga table,EUR
+355915,Cristian Romero,2026-08-20,26/27,148,13,Tottenham Hotspur,Atlético de Madrid,40000000.0,45000000.0,LaLiga table,EUR
+557149,Kang-in Lee,2026-08-20,26/27,583,13,Paris Saint-Germain,Atlético de Madrid,40000000.0,28000000.0,LaLiga table,EUR
+193082,Alejandro Grimaldo,2026-08-20,26/27,15,13,Bayer 04 Leverkusen,Atlético de Madrid,22000000.0,20000000.0,LaLiga table,EUR
+567576,Elliot Anderson,2026-08-20,26/27,703,281,Nottingham Forest,Manchester City,133399999.99999997,75000000.0,ESPN/SportsMole,GBP
+648195,Enzo Fernández,2026-08-20,26/27,631,281,Chelsea FC,Manchester City,143750000.0,90000000.0,ESPN/SportsMole,GBP
+1097139,Ayyoub Bouaddi,2026-08-20,26/27,1082,281,LOSC Lille,Manchester City,100000000.0,50000000.0,ESPN,EUR
+623570,Iliman Ndiaye,2026-08-20,26/27,29,281,Everton FC,Manchester City,71875000.0,55000000.0,ESPN/SportsMole,GBP
+385271,Allan,2026-08-20,26/27,199,281,Sport Club Corinthians Paulista,Manchester City,37949999.99999999,2500000.0,ESPN/SportsMole,GBP
+1245948,Jeremy Monga,2026-08-20,26/27,1003,281,Leicester City,Manchester City,11500000.0,,ESPN/SportsMole,GBP
+520624,Bruno Guimarães,2026-08-20,26/27,762,11,Newcastle United,Arsenal FC,86250000.0,70000000.0,ESPN/SportsMole,GBP
+413403,Ezri Konsa,2026-08-20,26/27,405,11,Aston Villa,Arsenal FC,60949999.99999999,40000000.0,ESPN/SportsMole,GBP
+451677,Christos Tzolis,2026-08-20,26/27,2282,11,Club Brugge KV,Arsenal FC,39099999.99999999,40000000.0,ESPN/SportsMole,GBP
+503743,Morgan Rogers,2026-08-20,26/27,405,631,Aston Villa,Chelsea FC,134549999.99999997,90000000.0,ESPN/SportsMole,GBP
+895937,Marco Palestra,2026-08-20,26/27,800,631,Atalanta BC,Chelsea FC,54050000.0,35000000.0,ESPN/SportsMole,GBP
+434224,Maxence Lacroix,2026-08-20,26/27,873,631,Crystal Palace,Chelsea FC,59800000.0,50000000.0,SportsMole,GBP
+849410,Valentín Barco,2026-08-20,26/27,667,631,RC Strasbourg Alsace,Chelsea FC,39330000.0,40000000.0,SportsMole,GBP
+596122,Pep Chavarría,2026-08-20,26/27,367,631,Rayo Vallecano,Chelsea FC,18745000.0,10000000.0,SportsMole,GBP
+111873,Emiliano Martínez,2026-08-20,26/27,405,631,Aston Villa,Chelsea FC,8625000.0,12000000.0,ESPN/SportsMole,GBP
+708265,Bradley Barcola,2026-08-20,26/27,583,31,Paris Saint-Germain,Liverpool FC,141450000.0,70000000.0,ESPN/SportsMole,GBP
+935231,Víctor Muñoz,2026-08-20,26/27,331,31,CA Osasuna,Liverpool FC,39905000.0,30000000.0,ESPN/SportsMole,GBP
+973085,Carlos Baleba,2026-08-20,26/27,1237,985,Brighton & Hove Albion,Manchester United,77625000.0,55000000.0,ESPN/SportsMole,GBP
+743600,Andrey Santos,2026-08-20,26/27,631,985,Chelsea FC,Manchester United,56349999.99999999,40000000.0,ESPN/SportsMole,GBP
+249565,Youri Tielemans,2026-08-20,26/27,405,985,Aston Villa,Manchester United,40250000.0,30000000.0,ESPN/SportsMole,GBP
+397033,Sandro Tonali,2026-08-20,26/27,762,148,Newcastle United,Tottenham Hotspur,114999999.99999999,80000000.0,ESPN/SportsMole,GBP
+880245,Mateus Fernandes,2026-08-20,26/27,379,148,West Ham United,Tottenham Hotspur,97749999.99999999,50000000.0,ESPN/SportsMole,GBP
+743591,Savinho,2026-08-20,26/27,281,148,Manchester City,Tottenham Hotspur,92000000.0,35000000.0,ESPN/SportsMole,GBP
+576314,Jan Paul van Hecke,2026-08-20,26/27,1237,148,Brighton & Hove Albion,Tottenham Hotspur,59800000.0,45000000.0,ESPN/SportsMole,GBP
+469781,Marcos Senesi,2026-08-20,26/27,989,148,AFC Bournemouth,Tottenham Hotspur,0.0,25000000.0,ESPN (free),GBP
+234803,Andrew Robertson,2026-08-20,26/27,31,148,Liverpool FC,Tottenham Hotspur,0.0,7000000.0,ESPN (free),GBP
+466805,Nico González,2026-08-20,26/27,281,762,Manchester City,Newcastle United,59800000.0,40000000.0,ESPN/SportsMole,GBP
+724129,Matias Fernandez-Pardo,2026-08-20,26/27,1082,762,LOSC Lille,Newcastle United,58650000.0,35000000.0,SportsMole,GBP
+1067904,Bazoumana Touré,2026-08-20,26/27,533,762,TSG 1899 Hoffenheim,Newcastle United,48874999.99999999,40000000.0,ESPN/SportsMole,GBP
+519184,Amar Dedić,2026-08-20,26/27,294,762,SL Benfica,Newcastle United,34500000.0,16000000.0,SportsMole,GBP
+975347,Aladji Bamba,2026-08-20,26/27,162,762,AS Monaco,Newcastle United,34730000.0,18000000.0,SportsMole,GBP
+629773,Lukas Hornicek,2026-08-20,26/27,1075,762,SC Braga,Newcastle United,29554999.999999996,18000000.0,SportsMole,GBP
+1111063,Sean Steur,2026-08-20,26/27,610,762,Ajax Amsterdam,Newcastle United,24840000.0,7000000.0,ESPN/SportsMole,GBP
+776890,Nicolas Jackson,2026-08-20,26/27,631,405,Chelsea FC,Aston Villa,74750000.0,40000000.0,ESPN/SportsMole,GBP
+927353,Johan Manzambi,2026-08-20,26/27,60,405,SC Freiburg,Aston Villa,68425000.0,50000000.0,ESPN/SportsMole,GBP
+735570,João Gomes,2026-08-20,26/27,543,405,Wolverhampton Wanderers,Aston Villa,41400000.0,40000000.0,ESPN/SportsMole,GBP
+432298,Zion Suzuki,2026-08-20,26/27,130,405,Parma Calcio 1913,Aston Villa,30000000.0,20000000.0,worldsoccertalk,EUR
+616631,Matteo Ruggeri,2026-08-20,26/27,13,405,Atlético de Madrid,Aston Villa,19549999.999999996,28000000.0,SportsMole,GBP
+153084,Leon Goretzka,2026-08-20,26/27,27,405,Bayern Munich,Aston Villa,0.0,12000000.0,ESPN (free),GBP
+610849,Liam Delap,2026-08-20,26/27,631,703,Chelsea FC,Nottingham Forest,54624999.99999999,28000000.0,ESPN/SportsMole,GBP
+974982,Ousmane Diomande,2026-08-20,26/27,336,703,Sporting CP,Nottingham Forest,39099999.99999999,42000000.0,SportsMole,GBP
+493003,Daniel Muñoz,2026-08-20,26/27,873,703,Crystal Palace,Nottingham Forest,25299999.999999996,22000000.0,SportsMole,GBP
+892160,Luka Vuskovic,2026-08-20,26/27,148,1237,Tottenham Hotspur,Brighton & Hove Albion,55199999.99999999,60000000.0,ESPN/SportsMole,GBP
+410708,Pascal Struijk,2026-08-20,26/27,399,1237,Leeds United,Brighton & Hove Albion,20700000.0,22000000.0,SportsMole,GBP
+948279,Chema Andrés,2026-08-20,26/27,79,1237,VfB Stuttgart,Brighton & Hove Albion,21734999.999999996,20000000.0,SportsMole,GBP
+539252,Costinha,2026-08-20,26/27,683,1237,Olympiakos Syndesmos Filathlon Peiraios,Brighton & Hove Albion,12649999.999999998,7000000.0,SportsMole,GBP
+650568,António Silva,2026-08-20,26/27,294,989,SL Benfica,AFC Bournemouth,27025000.0,25000000.0,ESPN/SportsMole,GBP
+948275,Álvaro Rodríguez,2026-08-20,26/27,1531,989,Elche CF,AFC Bournemouth,24724999.999999996,10000000.0,SportsMole,GBP
+676042,Juanlu Sánchez,2026-08-20,26/27,368,989,Sevilla FC,AFC Bournemouth,11960000.0,10000000.0,SportsMole,GBP
+808348,Mamadou Sangaré,2026-08-20,26/27,826,1148,RC Lens,Brentford FC,47150000.0,40000000.0,SportsMole,GBP
+1111589,El Hadji Malick Diouf,2026-08-20,26/27,379,1148,West Ham United,Brentford FC,46000000.0,28000000.0,SportsMole,GBP
+566799,James Trafford,2026-08-20,26/27,281,399,Manchester City,Leeds United,46000000.0,25000000.0,ESPN/SportsMole,GBP
+679423,Tarik Muharemović,2026-08-20,26/27,6574,399,US Sassuolo,Leeds United,39215000.0,25000000.0,SportsMole,GBP
+935230,Gonzalo García,2026-08-20,26/27,418,931,Real Madrid,Fulham FC,39330000.0,30000000.0,SportsMole,GBP
+747951,Shea Charles,2026-08-20,26/27,180,931,Southampton FC,Fulham FC,34500000.0,15000000.0,SportsMole,GBP
+584769,Dwight McNeil,2026-08-20,26/27,29,873,Everton FC,Crystal Palace,28749999.999999996,18000000.0,SportsMole,GBP
+557613,Quentin Merlin,2026-08-20,26/27,244,873,Olympique Marseille,Crystal Palace,19665000.0,15000000.0,SportsMole,GBP
+470607,Brennan Johnson,2026-08-20,26/27,873,29,Crystal Palace,Everton FC,28749999.999999996,30000000.0,SportsMole,GBP
+743386,Malick Fofana,2026-08-20,26/27,1041,289,Olympique Lyon,Sunderland AFC,29554999.999999996,30000000.0,SportsMole,GBP
+1191444,Dayann Methalie,2026-08-20,26/27,415,289,FC Toulouse,Sunderland AFC,32199999.999999996,18000000.0,SportsMole,GBP
+986288,Sidiki Chérif,2026-08-20,26/27,1420,990,Angers SCO,Coventry,28174999.999999996,18000000.0,SportsMole,GBP
+607226,Loum Tchaouna,2026-08-20,26/27,1132,990,Burnley FC,Coventry,23000000.0,13000000.0,SportsMole,GBP
+743599,Emersonn,2026-08-20,26/27,415,677,FC Toulouse,Ipswich Town,27715000.0,8000000.0,SportsMole,GBP
+864121,Abdul Fatawu,2026-08-20,26/27,1003,677,Leicester City,Ipswich Town,23000000.0,20000000.0,SportsMole,GBP
+411537,Zian Flemming,2026-08-20,26/27,1132,677,Burnley FC,Ipswich Town,23000000.0,12000000.0,ESPN/SportsMole,GBP
+1034853,Nobel Mendy,2026-08-20,26/27,367,3008,Rayo Vallecano,Hull City,23000000.0,7500000.0,SportsMole,GBP
+554389,Konstantinos Tzolakis,2026-08-20,26/27,683,3008,Olympiakos Syndesmos Filathlon Peiraios,Hull City,22884999.999999996,18000000.0,SportsMole,GBP
+550550,Gonçalo Ramos,2026-08-20,26/27,583,5,Paris Saint-Germain,AC Milan,74000000.0,30000000.0,worldsoccertalk,EUR
+655006,Diego Moreira,2026-08-20,26/27,667,5,RC Strasbourg Alsace,AC Milan,50000000.0,25000000.0,worldsoccertalk,EUR
+618341,Mario Gila,2026-08-20,26/27,398,5,Società Sportiva Lazio S.p.A.,AC Milan,30000000.0,30000000.0,worldsoccertalk,EUR
+487969,Randal Kolo Muani,2026-08-20,26/27,583,506,Paris Saint-Germain,Juventus FC,41200000.0,20000000.0,worldsoccertalk,EUR
+929994,Kerim Alajbegovic,2026-08-20,26/27,15,506,Bayer 04 Leverkusen,Juventus FC,32000000.0,22000000.0,worldsoccertalk,EUR
+413565,Jhon Lucumí,2026-08-20,26/27,1025,506,Bologna Football Club 1909,Juventus FC,20100000.0,22000000.0,worldsoccertalk,EUR
+849520,Santiago Castro,2026-08-20,26/27,1025,12,Bologna Football Club 1909,AS Roma,36000000.0,32000000.0,worldsoccertalk,EUR
+957653,Rodrigo Mora,2026-08-20,26/27,720,12,FC Porto,AS Roma,25000000.0,38000000.0,worldsoccertalk,EUR
+669380,Konstantinos Koulierakis,2026-08-20,26/27,82,12,VfL Wolfsburg,AS Roma,16500000.0,25000000.0,worldsoccertalk,EUR
+483348,Djed Spence,2026-08-20,26/27,148,46,Tottenham Hotspur,Inter Milan,30000000.0,30000000.0,worldsoccertalk,EUR
+433188,Curtis Jones,2026-08-20,26/27,31,46,Liverpool FC,Inter Milan,30000000.0,35000000.0,worldsoccertalk,EUR
+186590,John Stones,2026-08-20,26/27,281,46,Manchester City,Inter Milan,0.0,12000000.0,worldsoccertalk (free),EUR
+346314,Trevoh Chalobah,2026-08-20,26/27,631,1047,Chelsea FC,Como 1907,30000000.0,40000000.0,worldsoccertalk,EUR
+525299,Miguel Gutiérrez,2026-08-20,26/27,6195,15,SSC Napoli,Bayer 04 Leverkusen,26000000.0,22000000.0,worldsoccertalk,EUR
+1279526,Christ Inao Oulaï,2026-08-20,26/27,449,430,Trabzonspor,ACF Fiorentina,26000000.0,23000000.0,worldsoccertalk,EUR
+855308,Arthur Atta,2026-08-20,26/27,410,430,Udinese Calcio,ACF Fiorentina,25000000.0,25000000.0,worldsoccertalk,EUR
+856530,Mateo Pellegrino,2026-08-20,26/27,130,430,Parma Calcio 1913,ACF Fiorentina,22500000.0,15000000.0,worldsoccertalk,EUR
+595809,Beto,2026-08-20,26/27,29,430,Everton FC,ACF Fiorentina,18000000.0,18000000.0,worldsoccertalk,EUR
+357164,Rafael Leão,2026-08-20,26/27,5,141,AC Milan,Galatasaray,38000000.0,50000000.0,worldsoccertalk,EUR
+659543,Matthis Abline,2026-08-20,26/27,995,162,FC Nantes,AS Monaco,25000000.0,20000000.0,flashscore,EUR
+1363293,Patrick Zabi,2026-08-20,26/27,1421,10004,Stade Reims,Paris FC,25000000.0,,flashscore,EUR
+967346,Eliezer Mayenda,2026-08-20,26/27,289,273,Sunderland AFC,Stade Rennais FC,22000000.0,16000000.0,flashscore,EUR
+810411,Pablo Pagis,2026-08-20,26/27,1158,10004,FC Lorient,Paris FC,15000000.0,15000000.0,flashscore,EUR

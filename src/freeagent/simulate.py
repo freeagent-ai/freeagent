@@ -56,13 +56,13 @@ def baseline_squad(games: pd.DataFrame, stints: pd.DataFrame, ratings: pd.Series
 
 def season_squad(games: pd.DataFrame, stints: pd.DataFrame, ratings: pd.Series, players: pd.DataFrame,
                  transfers: pd.DataFrame, season: int, new_share: float, fallback: pd.Series | None = None,
-                 window: int = WINDOW) -> pd.DataFrame:
+                 window: int = WINDOW, window_end: str | None = None) -> pd.DataFrame:
     """Pre-season squad that ALSO knows the summer window up to 1 August of `season`:
     players who left (transfer from the club, 1 June - 31 July) are removed, players who arrived are added
     with minutes share `new_share`, then every club's shares are rescaled to its baseline total (a team still
     plays 11 players). Arrivals without a rating get `fallback` (the M2 prior) or 0 (league average)."""
     sq = baseline_squad(games, stints, ratings, players, season, window)
-    start, cut = pd.Timestamp(f"{season}-06-01"), pd.Timestamp(f"{season}-08-01")
+    start, cut = pd.Timestamp(f"{season}-06-01"), pd.Timestamp(window_end or f"{season}-08-01")
     tr = transfers.dropna(subset=["transfer_date"])
     tr = tr[(tr.transfer_date >= start) & (tr.transfer_date < cut)].sort_values("transfer_date")
     total = sq.groupby("club_id").share.sum()

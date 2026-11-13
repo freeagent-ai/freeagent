@@ -106,6 +106,8 @@ def scouting_report(r, past: bool):
              "His first season is being played now, so nobody knows the answer yet: check back in May 2027.")
     html(T.glass(f"<p class='fa-sub' style='font-size:1rem;color:#DCE2F5'>{T.esc(text)}</p>"
                  f"<p class='fa-sub' style='font-size:1rem;color:#DCE2F5;margin-bottom:0'>{T.esc(after)}</p>"))
+    with st.expander("Why this verdict? (step by step)"):
+        st.markdown(D.why_verdict(r))
 
 
 h = D.headline_numbers()
@@ -191,7 +193,9 @@ else:
 
 # ================================================================== 02 signings 2026
 html(T.section("02", "signings", "Summer 2026 signings", "Not played yet",
-               "Every EUR 5M+ signing into a 2026/27 top-five league club in our data (the window to early July). For each: "
+               "Every EUR 5M+ signing into a 2026/27 top-five league club that we could find, the window to 1 September (the July "
+               "data snapshot plus late deals collected from the press, marked 'press-reported'; Bundesliga fees are mostly "
+               "unpublished, so that league is thin). For each: "
                "the chance he becomes a regular, the league points he adds after the player he pushes out, and what the fee claims."))
 if now is None:
     st.info("No summer 2026 signings yet. Run `python scripts/forecast_2026.py` to create them.")
@@ -440,7 +444,8 @@ for i, (title, txt) in enumerate(steps, 1):
 with st.expander("Limitations (read these)"):
     st.markdown("""
 - The 2026/27 forecast cannot be scored until May 2027; our accuracy claims come from the 2019-2025 track record.
-- Our data ends in early July 2026, so late-summer transfers (August deadline day) are missing from the forecast.
+- Our Transfermarkt data ends in early July 2026. Deals up to 1 September were added by hand from press reports (fees are
+  press-reported, pounds converted to euros). Bundesliga fees are mostly unpublished and some deals will be missing.
 - Promoted clubs have no second-division matches in our data; they get the average strength of the clubs they replaced,
   and their signings are not judged.
 - Points estimates and verdicts are not confirmed by an independent test (low statistical power).

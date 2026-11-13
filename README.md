@@ -55,7 +55,7 @@ The first version compared a new signing against the *average* player in the squ
 - The **per-signing points estimate is not independently validated**: the on/off reality check (M7) found no significant link (−0.042, 95% CI −0.136 to +0.052) and has low statistical power. Treat verdicts as informed estimates, not facts.
 - Season forecasts are **tied with strong baselines** on top-half accuracy; the gain is mainly in points error.
 - Promoted clubs have no second-division data, so each gets the average strength of the clubs they replaced.
-- The data snapshot (July 2026) misses late-window transfers.
+- The Transfermarkt snapshot ends in early July 2026; deals up to 1 September 2026 were added by hand from press reports (fees press-reported, pounds converted to euros). Bundesliga fees are mostly unpublished, so some deals are missing.
 - Photos exist for the 132 of 400 looked-up players that have a freely licensed image; the rest show initials.
 
 ---

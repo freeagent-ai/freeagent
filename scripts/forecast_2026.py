@@ -77,6 +77,20 @@ else:
 G, ST, A, PL, TR = d["games"], d["stints"], d["appearances"], tables["players"], tables["transfers"]
 VAL = tables.get("player_valuations", pd.DataFrame(columns=["player_id", "date", "market_value_in_eur"]))
 CUT = pd.Timestamp(f"{Y}-08-01")
+END = CUT          # end of the transfer window we know about
+SUPP = config.DATA / "supplement" / "late_window_2026.csv"
+if not args.synthetic and SUPP.exists():
+    # Late-window deals (Aug-Sep 2026) that the July snapshot lacks, collected by hand from ESPN / Sportsmole / LaLiga /
+    # Flashscore (scripts/build_supplement_2026.py). Fees are PRESS-REPORTED. Ratings and models are still trained on
+    # data before CUT only: this only changes who is in each squad and which signings get a verdict.
+    sup = pd.read_csv(SUPP, parse_dates=["transfer_date"])
+    have = set(zip(TR.player_id, TR.to_club_id))
+    sup = sup[[(a, b) not in have for a, b in zip(sup.player_id, sup.to_club_id)]]
+    SUP_KEYS = set(zip(sup.player_id, sup.to_club_id))
+    TR = pd.concat([TR, sup.drop(columns=["source", "fee_ccy"])], ignore_index=True)
+    END = pd.Timestamp(f"{Y}-09-02")
+else:
+    SUP_KEYS = set()
 tick(f"loaded {len(G):,} games, last match {G.date.max():%d %b %Y}")
 
 # ---------------------------------------------------------------- club names (clubs.csv misses some promoted clubs)
@@ -128,7 +142,7 @@ tick(f"ratings for {len(pm.ratings):,} players; match model k = {model.coef[2]:.
 
 lt = S.league_tables(tables)
 share_new = M.arrival_share(TR, lt["pcs"], Y)
-sq = M.season_squad(G, ST, pm.ratings, PL, TR, Y, new_share=share_new, fallback=mu)
+sq = M.season_squad(G, ST, pm.ratings, PL, TR, Y, new_share=share_new, fallback=mu, window_end=str(END.date()))
 S_all = M.club_strength(sq)
 S_use = S_all.copy()
 for lg in LEAGUES:                                   # promoted-club rule (tested in season_predict.py --promoted)
@@ -148,7 +162,7 @@ tick("season forecast done")
 
 # summer moves per club (what changed since May), for the forecast page
 tr = TR.dropna(subset=["transfer_date"])
-win = tr[(tr.transfer_date >= pd.Timestamp(f"{Y}-06-01")) & (tr.transfer_date < CUT)]
+win = tr[(tr.transfer_date >= pd.Timestamp(f"{Y}-06-01")) & (tr.transfer_date < END)]
 moves = []
 for c in table.club_id:
     for kind, part in (("in", win[win.to_club_id == c]), ("out", win[win.from_club_id == c])):
@@ -214,6 +228,7 @@ for r in now.itertuples():
                 **V.verdict_probs(gain, r.transfer_fee, LOW["b"]),
                 **{k + "_high": v for k, v in V.verdict_probs(gain, r.transfer_fee, HIGH["b"]).items()}})
 sig = pd.DataFrame(out)
+sig["fee_source"] = ["Press-reported" if (a, b) in SUP_KEYS else "Transfermarkt" for a, b in zip(sig.player_id, sig.to_club_id)]
 tick(f"{len(sig)} signings scored")
 
 # ---------------------------------------------------------------- 3. Transfer Lab tables
